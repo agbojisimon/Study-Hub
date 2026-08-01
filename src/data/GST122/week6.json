@@ -1,0 +1,899 @@
+[
+  {
+    "id": "W6Q001",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Summary Writing",
+    "subTopic": "Definition and Purpose",
+    "difficulty": "Easy",
+    "question": "According to the materials, what is the core activity involved in summarising a text?",
+    "options": [
+      "Translating the text into a different language",
+      "Distilling the main ideas with brevity and clarity",
+      "Expanding the details to provide more context",
+      "Critiquing the author's point of view"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Summarising involves distilling the main ideas of a text while maintaining brevity and clarity.",
+    "incorrectExplanations": {
+      "A": "Summarising is about condensation within the same context, not translation.",
+      "B": "Correct. Distillation is the process of extracting the most essential parts.",
+      "C": "Expansion is the opposite of the goal of a summary.",
+      "D": "Summaries should be objective representations of the original, not critiques."
+    },
+    "keywords": [
+      "summary",
+      "distillation",
+      "brevity"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q002",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Metaphorical Definition",
+    "difficulty": "Easy",
+    "question": "To what artistic process does the course material compare letter writing?",
+    "options": [
+      "Painting",
+      "Sculpting",
+      "Dancing",
+      "Acting"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing is described as a creative process 'akin to sculpting'.",
+    "incorrectExplanations": {
+      "A": "Painting is not the metaphor used in the text.",
+      "B": "Correct. It emphasizes shaping intent with words like a sculptor uses tools.",
+      "C": "Dancing involves physical movement, unlike the structured act of writing.",
+      "D": "Acting is a performance skill, not the metaphor for letter writing."
+    },
+    "keywords": [
+      "letter writing",
+      "sculpting",
+      "metaphor"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q003",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Structure",
+    "difficulty": "Easy",
+    "question": "Which section is specifically mentioned as part of the structured approach to report crafting?",
+    "options": [
+      "Rhyme scheme",
+      "Methodology",
+      "Dialogue tags",
+      "Stanzas"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Report crafting requires a structured approach with defined sections such as introduction, methodology, findings, and recommendations.",
+    "incorrectExplanations": {
+      "A": "Rhyme schemes are for poetry.",
+      "B": "Correct. Methodology explains how information was gathered.",
+      "C": "Dialogue tags are used in narrative fiction.",
+      "D": "Stanzas are structural units of poems."
+    },
+    "keywords": [
+      "report",
+      "methodology",
+      "structure"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q004",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Summary Writing",
+    "subTopic": "Selectivity",
+    "difficulty": "Easy",
+    "question": "What must be eliminated during the summarisation process to ensure brevity?",
+    "options": [
+      "The main ideas",
+      "The thesis statement",
+      "Unnecessary details",
+      "The author's name"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Summarising involves ensuring coherence while 'eliminating unnecessary details'.",
+    "incorrectExplanations": {
+      "A": "Main ideas are the only things that must be kept.",
+      "B": "The thesis or core message is central to a summary.",
+      "C": "Correct. Removing minor details allows for a condensed version.",
+      "D": "Attribution is often necessary and not the target of condensation."
+    },
+    "keywords": [
+      "summary",
+      "omission",
+      "details"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q005",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Audience and Purpose",
+    "difficulty": "Easy",
+    "question": "When starting a letter, what is one of the first things a writer must identify according to the lesson summary?",
+    "options": [
+      "The number of adjectives to use",
+      "Purpose and audience",
+      "The price of the postage stamp",
+      "The history of the alphabet"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing involves identifying purpose and audience and selecting the right format.",
+    "incorrectExplanations": {
+      "A": "Stylistic choices follow the identification of the target and goal.",
+      "B": "Correct. Who you are writing to and why determines everything else.",
+      "C": "This is a logistical detail, not a writing skill mentioned.",
+      "D": "Historical background of language is not part of the letter-writing process here."
+    },
+    "keywords": [
+      "letter",
+      "purpose",
+      "audience"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q006",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Tone",
+    "difficulty": "Easy",
+    "question": "In the 'sculpting' process of letter writing, what is shaped by the words used as tools?",
+    "options": [
+      "The physical paper",
+      "The writer's intent",
+      "The dictionary",
+      "The mailbox"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Words are the 'sculpting tools shaping intent' in letter writing.",
+    "incorrectExplanations": {
+      "A": "The metaphor refers to the message/meaning, not the physical medium.",
+      "B": "Correct. The choice of words determines how the recipient understands the goal.",
+      "C": "The dictionary provides the tools but is not the object being shaped.",
+      "D": "The mailbox is unrelated to the creative writing process."
+    },
+    "keywords": [
+      "letter",
+      "intent",
+      "words"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q007",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Content",
+    "difficulty": "Easy",
+    "question": "What is the primary function of a report as described in the sources?",
+    "options": [
+      "To tell a fictional story",
+      "To present detailed information",
+      "To express personal feelings about a hobby",
+      "To write a short poem"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Report crafting 'navigates the complex terrain of presenting detailed information'.",
+    "incorrectExplanations": {
+      "A": "Fictional storytelling is the domain of narrative essays.",
+      "B": "Correct. Reports focus on factual, detailed data presentation.",
+      "C": "Personal feelings are associated with the 'expressive' aim of writing.",
+      "D": "Poetry is a creative aim, distinct from report writing."
+    },
+    "keywords": [
+      "report",
+      "information"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q008",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Refinement",
+    "difficulty": "Easy",
+    "question": "What is the focus of post-writing activities according to the lesson summary?",
+    "options": [
+      "Starting the first draft",
+      "Refining and perfecting a written piece",
+      "Buying more books",
+      "Ignoring the initial draft"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Post-writing activities are crucial for 'refining and perfecting a written piece'.",
+    "incorrectExplanations": {
+      "A": "Starting the draft is the 'During-writing' or 'Drafting' phase.",
+      "B": "Correct. It involves checking and improving the work already produced.",
+      "C": "Purchasing materials is not a writing stage.",
+      "D": "Post-writing requires a 'critical examination of the initial draft'."
+    },
+    "keywords": [
+      "post-writing",
+      "refining"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q009",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Skills",
+    "subTopic": "Integration",
+    "difficulty": "Easy",
+    "question": "The materials state that each form of writing (summary, letter, report) demands what?",
+    "options": [
+      "The exact same set of instructions",
+      "A unique set of skills",
+      "No preparation at all",
+      "A minimum of 5,000 words"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The summary states that 'Each form demands a unique set of skills'.",
+    "incorrectExplanations": {
+      "A": "Each has its own specific structure and requirements (e.g., sculpting vs. distilling).",
+      "B": "Correct. Different genres require different communicative approaches.",
+      "C": "Preparation (pre-writing) is emphasized as crucial for all forms.",
+      "D": "Length depends on the task, not a universal minimum."
+    },
+    "keywords": [
+      "writing skills",
+      "unique skills"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W6Q010",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Summary Writing",
+    "subTopic": "Coherence",
+    "difficulty": "Medium",
+    "question": "Beyond simple condensation, what must a writer ensure to produce a professional summary?",
+    "options": [
+      "That the summary is longer than the original",
+      "That it maintains coherence while being brief",
+      "That every single adjective is removed",
+      "That the summary uses only 'Function Words'"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Summarising involves distilling main ideas with brevity and clarity 'ensuring coherence'.",
+    "incorrectExplanations": {
+      "A": "A summary must be a 'condensed version' of the larger text.",
+      "B": "Correct. It must still flow logically and make sense as a stand-alone piece.",
+      "C": "Adjectives might be necessary if they define a 'main idea' accurately.",
+      "D": "Summaries require 'Content Words' to convey actual information."
+    },
+    "keywords": [
+      "summary",
+      "coherence",
+      "brevity"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q011",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Professionalism",
+    "difficulty": "Medium",
+    "question": "Which factors are highlighted as essential for employing effective tone in letters?",
+    "options": [
+      "Rhyme and meter",
+      "Politeness and tone",
+      "Speed of delivery",
+      "Length of the envelope"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing involves 'employing politeness and tone' to shape intent.",
+    "incorrectExplanations": {
+      "A": "These are features of poetry, not professional letters.",
+      "B": "Correct. Tone reflects the relationship between writer and audience.",
+      "C": "Speed is a logistical concern, not a writing quality.",
+      "D": "Envelope size is irrelevant to the communicative quality of the text."
+    },
+    "keywords": [
+      "letter",
+      "politeness",
+      "tone"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q012",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Structured Findings",
+    "difficulty": "Medium",
+    "question": "In the 'complex terrain' of report writing, why are defined sections like 'Methodology' required?",
+    "options": [
+      "To fill up space and make the report look heavier",
+      "To provide a structured approach to presenting information",
+      "Because every report must have at least ten sections",
+      "To replace the need for an introduction"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Report crafting requires a 'structured approach with defined sections' to navigate presenting detailed info.",
+    "incorrectExplanations": {
+      "A": "Structure is for clarity and navigation, not superficial weight.",
+      "B": "Correct. Sections help the reader find specific data points (how it was done, what was found).",
+      "C": "There is no specific number of sections required, just that they are 'defined'.",
+      "D": "The introduction is one of the essential defined sections."
+    },
+    "keywords": [
+      "report",
+      "structure",
+      "sections"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q013",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Macro-structure Refinement",
+    "difficulty": "Medium",
+    "question": "How does 'Macro-structure' refinement differ from simple proofreading in the post-writing stage?",
+    "options": [
+      "Macro-structure only checks for spelling errors.",
+      "Macro-structure focuses on logical flow and coherence between paragraphs.",
+      "Macro-structure is done before the first draft is written.",
+      "Macro-structure refinement removes all punctuation."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Macro-structure refinement ensures 'logical flow, coherence between paragraphs, and a well-constructed argumentative structure'.",
+    "incorrectExplanations": {
+      "A": "Spelling is part of basic proofreading, which the material says macro-structure moves 'beyond'.",
+      "B": "Correct. It looks at the organization of the whole piece rather than just sentence-level errors.",
+      "C": "Macro-structure refinement is a 'Post-writing' activity.",
+      "D": "Refinement improves clarity; it does not remove essential grammar tools."
+    },
+    "keywords": [
+      "macro-structure",
+      "logical flow",
+      "coherence"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W6Q014",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Process",
+    "subTopic": "Concise Expression",
+    "difficulty": "Medium",
+    "question": "A student who moves 'beyond basic proofreading' to eliminate redundancies is demonstrating proficiency in what art?",
+    "options": [
+      "Divergent thinking",
+      "Concise and precise expression",
+      "Mind mapping",
+      "Research gathering"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Learning objectives include demonstrating proficiency in 'the art of concise and precise expression' by eliminating redundancies.",
+    "incorrectExplanations": {
+      "A": "Divergent thinking is a pre-writing technique.",
+      "B": "Correct. Precision involves using exactly the words needed without waste.",
+      "C": "Mind mapping is a pre-writing tool for exploration.",
+      "D": "Research gathering is part of the preparation phase."
+    },
+    "keywords": [
+      "conciseness",
+      "redundancy",
+      "precision"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q015",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Feedback",
+    "difficulty": "Medium",
+    "question": "Why would an 'aspiring author' submit a manuscript to an editor according to the Post-writing lesson?",
+    "options": [
+      "To have the editor rewrite the entire story",
+      "To receive constructive criticism on plot development and character arcs",
+      "To ensure the editor pays for the publishing costs",
+      "To avoid having to do any proofreading themselves"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "An editor provides 'constructive criticism on plot development, character arcs... contributing to the refinement of the work'.",
+    "incorrectExplanations": {
+      "A": "Refinement is an iterative process for the author, not a total rewrite by someone else.",
+      "B": "Correct. External feedback helps identify structural or narrative weaknesses.",
+      "C": "The text discusses editing for 'refinement,' not financial arrangements.",
+      "D": "Feedback is part of the author's refinement process, not an excuse to skip effort."
+    },
+    "keywords": [
+      "feedback",
+      "refinement",
+      "criticism"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q016",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Academic Integrity",
+    "difficulty": "Medium",
+    "question": "For an academic researcher, what is the 'crucial' detail in the post-writing phase for maintaining academic integrity?",
+    "options": [
+      "Increasing the font size of the title",
+      "Reviewing citations and references for accuracy",
+      "Using as many jargons as possible",
+      "Submitting the report to a social media platform"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Carefully reviewing citations and references to ensure accuracy and proper formatting is 'crucial for maintaining academic integrity'.",
+    "incorrectExplanations": {
+      "A": "Formatting for aesthetics does not impact integrity.",
+      "B": "Correct. Proper attribution ensures that credit is given where it is due.",
+      "C": "Jargon should often be avoided or explained, not used for the sake of it.",
+      "D": "Integrity is about the quality/ethics of the content, not the mode of public sharing."
+    },
+    "keywords": [
+      "integrity",
+      "citations",
+      "academic research"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q017",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Process",
+    "subTopic": "Cohesion",
+    "difficulty": "Medium",
+    "question": "How are pre-writing, during-writing, and post-writing stages described in terms of their relationship to each other?",
+    "options": [
+      "Separate and unrelated tasks",
+      "A seamless and interconnected flow",
+      "Stages that should be done in reverse order",
+      "Optional steps that can be skipped for short tasks"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The process involves ensuring a 'seamless and interconnected flow throughout the entire writing process'.",
+    "incorrectExplanations": {
+      "A": "The text calls them 'cohesive sets of activities'.",
+      "B": "Correct. Each stage builds on and informs the others.",
+      "C": "They follow a logical progression from preparation to refinement.",
+      "D": "They are described as necessary for 'crafting impactful writing tasks'."
+    },
+    "keywords": [
+      "writing process",
+      "interconnected",
+      "flow"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q018",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Draft Examination",
+    "difficulty": "Medium",
+    "question": "What issues specifically are addressed during the 'critical examination' of an initial draft?",
+    "options": [
+      "Only spelling mistakes",
+      "Content, style, grammar, and presentation",
+      "The price of the writer's computer",
+      "The word count compared to the dictionary"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "This stage involves addressing issues related to 'content, style, grammar, and presentation'.",
+    "incorrectExplanations": {
+      "A": "Spelling is only one part (grammar/mechanics) of the broader examination.",
+      "B": "Correct. It is a multi-layered review of the entire product.",
+      "C": "Hardware details are not part of the writing refinement process.",
+      "D": "While word count matters, it's not the primary target of a 'critical examination' for quality."
+    },
+    "keywords": [
+      "draft",
+      "critical examination",
+      "style"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W6Q019",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Summary Writing",
+    "subTopic": "Analytical Synthesis",
+    "difficulty": "Hard",
+    "question": "If a writer produces a summary that is clear and brief but lacks 'coherence,' what is likely the structural failure?",
+    "options": [
+      "It is too short to be understood.",
+      "The ideas do not transition smoothly or relate logically to one another.",
+      "It contains too many main ideas.",
+      "It failed to eliminate unnecessary details."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials specify that summarising requires 'ensuring coherence,' which means the smooth progression and connection of ideas.",
+    "incorrectExplanations": {
+      "A": "Brevity is a requirement, not a failure, unless the logic is broken.",
+      "B": "Correct. Coherence is the glue that makes a condensed version readable.",
+      "C": "Summaries *should* contain the main ideas; the failure is in their linkage.",
+      "D": "If details were kept, it might be wordy, but it could still be coherent. The question specifies it is 'brief' but not coherent."
+    },
+    "keywords": [
+      "summary",
+      "coherence",
+      "logical failure"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W6Q020",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Intent and Rhetoric",
+    "difficulty": "Hard",
+    "question": "In the 'sculpting' metaphor for letters, why are words described as the 'tools'? ",
+    "options": [
+      "Because words have a fixed, unchangeable shape.",
+      "Because they are the instruments used to deliberately shape and project the writer's intent.",
+      "Because words are physically heavy on the page.",
+      "Because the letters themselves are arranged like clay."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing is a creative process where 'words are the sculpting tools shaping intent'.",
+    "incorrectExplanations": {
+      "A": "Words are fluid and chosen based on purpose and audience.",
+      "B": "Correct. Just as a sculptor chooses a chisel, a writer chooses words to achieve a specific emotional or professional effect.",
+      "C": "The metaphor is about the intellectual/creative act, not physical weight.",
+      "D": "Clay is the medium; words are the *tools* used to shape the medium of the message."
+    },
+    "keywords": [
+      "sculpting",
+      "tools",
+      "intent"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W6Q021",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Strategic Presentation",
+    "difficulty": "Hard",
+    "question": "A report that presents data without a 'defined section' for Methodology would primarily fail which communicative requirement mentioned in the text?",
+    "options": [
+      "Brevity",
+      "Navigating the complex terrain of presenting detailed information",
+      "Creative expression",
+      "Divergent thinking"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Report crafting 'navigates the complex terrain... requiring a structured approach with defined sections'.",
+    "incorrectExplanations": {
+      "A": "A report can be long or short; the issue here is the lack of structural navigation tools.",
+      "B": "Correct. Without sections like methodology, the reader cannot navigate the complexity of the info.",
+      "C": "Reports are formal and factual, not primarily for 'creative expression'.",
+      "D": "Divergent thinking is a pre-writing phase, not a structural requirement of the final report."
+    },
+    "keywords": [
+      "report",
+      "navigation",
+      "complexity"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W6Q022",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Format and Audience",
+    "difficulty": "Hard",
+    "question": "How does the identification of 'audience' specifically impact the 'format' selection in letter writing?",
+    "options": [
+      "It doesn't; all letters use the same format regardless of the recipient.",
+      "The relationship with the audience determines whether a formal or informal format is appropriate.",
+      "The audience determines the color of the ink used.",
+      "The audience only impacts the length of the letter, not the format."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing involves 'identifying purpose and audience, selecting the right format, and employing politeness and tone'.",
+    "incorrectExplanations": {
+      "A": "The text implies a choice must be made based on these factors.",
+      "B": "Correct. Format is a direct consequence of who the recipient is.",
+      "C": "Ink color is not mentioned as a core writing skill in the text.",
+      "D": "Format (structure/formality) is explicitly listed alongside audience identification."
+    },
+    "keywords": [
+      "audience",
+      "format",
+      "choice"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W6Q023",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Terminology Refinement",
+    "difficulty": "Hard",
+    "question": "When 'refining terminology' in the post-writing stage, what is the writer's goal according to the learning objectives?",
+    "options": [
+      "To use more words to make the text longer",
+      "To ensure the most precise and appropriate word choice for the context",
+      "To replace all verbs with nouns",
+      "To ensure the terminology matches the crossword puzzle answers"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Advanced post-writing involves moving beyond basic proofreading to 'refine terminology' and eliminate redundancies for 'concise and precise expression'.",
+    "incorrectExplanations": {
+      "A": "Refining terminology often involves removing 'redundancies,' which shortens the text.",
+      "B": "Correct. Precision ensures the word used matches the exact meaning intended.",
+      "C": "Terminology refinement does not require changing parts of speech arbitrarily.",
+      "D": "The crossword is a practice tool; the goal of writing is 'purposeful communication'."
+    },
+    "keywords": [
+      "terminology",
+      "precision",
+      "refinement"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W6Q024",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Process",
+    "subTopic": "Strategic Planning",
+    "difficulty": "Hard",
+    "question": "Why is investing time in 'Pre-writing' considered a strategic investment for the final quality of the work?",
+    "options": [
+      "Because it guarantees the writer will not have to do any post-writing.",
+      "Because it enhances the clarity, coherence, and overall framework of the final piece.",
+      "Because it allows the writer to skip the drafting phase.",
+      "Because it is the only stage where grammar is checked."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "By investing time in pre-writing, writers can 'enhance the clarity, coherence, and overall quality of their final written pieces'.",
+    "incorrectExplanations": {
+      "A": "Post-writing is still 'crucial for refining and perfecting'.",
+      "B": "Correct. Organization and planning set the stage for successful communication.",
+      "C": "Pre-writing 'precedes the actual composition' (drafting), it doesn't replace it.",
+      "D": "Grammar is explicitly listed as a 'Post-writing' activity during examination."
+    },
+    "keywords": [
+      "pre-writing",
+      "clarity",
+      "coherence"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W6Q025",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Summary Writing",
+    "subTopic": "Brevity vs. Essence",
+    "difficulty": "Hard",
+    "question": "In a summary, how does 'distilling' differ from simply 'shortening' a text?",
+    "options": [
+      "Distilling is purely about word count, whereas shortening is about meaning.",
+      "Distilling requires identifying and keeping only the most essential main ideas, whereas shortening might remove essential points randomly.",
+      "There is no difference; they are synonymous terms.",
+      "Distilling is only used for reports; shortening is used for letters."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Summarising involves 'distilling the main ideas... with brevity,' implying a selective focus on essence rather than just cutting words.",
+    "incorrectExplanations": {
+      "A": "Distilling is a meaning-focused process.",
+      "B": "Correct. Distillation is a quality-focused reduction to the 'core' content.",
+      "C": "The text uses 'distilling' specifically to define the summary process, suggesting a specific method of selection.",
+      "D": "The term is used in the context of summarisation across any text type."
+    },
+    "keywords": [
+      "distillation",
+      "summary",
+      "shortening"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W6Q026",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Report Writing",
+    "subTopic": "Section Outcomes",
+    "difficulty": "Hard",
+    "question": "In the context of a comprehensive report, what is the logical relationship between 'Findings' and 'Recommendations'?",
+    "options": [
+      "They are the same thing; recommendations are just findings with more adjectives.",
+      "Recommendations are actionable advice based on the data presented in the findings.",
+      "Findings should always disagree with the recommendations.",
+      "One should write the recommendations before conducting the findings."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A report presents findings coherently 'with recommendations, if applicable,' suggesting recommendations are the outcome of the research presented.",
+    "incorrectExplanations": {
+      "A": "Findings are data; recommendations are suggested actions.",
+      "B": "Correct. The findings provide the factual basis for the advice given.",
+      "C": "Recommendations must be supported by the findings for the report to be coherent.",
+      "D": "Recommendations follow the 'navigating of terrain' (research) and findings."
+    },
+    "keywords": [
+      "findings",
+      "recommendations",
+      "report logic"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W6Q027",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Letter Writing",
+    "subTopic": "Tone and Relationship",
+    "difficulty": "Hard",
+    "question": "According to the materials, why is 'employing politeness and tone' described as part of the creative sculpting of a letter?",
+    "options": [
+      "Because politeness is an optional decoration.",
+      "Because tone is a primary tool for shaping how the writer's intent is received by the audience.",
+      "Because polite words are always longer and help reach word counts.",
+      "Because tone only matters in informal letters."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Letter writing uses words as 'sculpting tools shaping intent,' and specifically mentions 'employing politeness and tone' as part of this skill set.",
+    "incorrectExplanations": {
+      "A": "The text identifies them as integral parts of 'effective letters'.",
+      "B": "Correct. The way a message is delivered (tone) is as important as the message itself in shaping the outcome.",
+      "C": "Brevity and clarity are also goals; length is not the reason for politeness.",
+      "D": "The text states letters are for 'various purposes' and emphasizes respectful tone for effectiveness generally."
+    },
+    "keywords": [
+      "sculpting",
+      "tone",
+      "politeness"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W6Q028",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Post-writing Activities",
+    "subTopic": "Critical Examination",
+    "difficulty": "Hard",
+    "question": "Which of the following would be an example of addressing 'presentation' during the critical examination of a draft?",
+    "options": [
+      "Changing the plot of a novel",
+      "Checking formatting, citations, and overall visual clarity",
+      "Gathering more research data",
+      "Creating a new mind map"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Post-writing critical examination involves addressing issues related to 'content, style, grammar, and presentation'. Formatting and citations fall under presentation/integrity.",
+    "incorrectExplanations": {
+      "A": "This is a structural/content change (refinement), not specifically presentation.",
+      "B": "Correct. Presentation relates to how the final product is given to the audience.",
+      "C": "This is a pre-writing activity.",
+      "D": "This is a pre-writing activity."
+    },
+    "keywords": [
+      "presentation",
+      "draft",
+      "examination"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W6Q029",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Process",
+    "subTopic": "Macro-structure and Argument",
+    "difficulty": "Hard",
+    "question": "What is the intended result of ensuring a 'well-constructed argumentative structure' during the macro-structure refinement stage?",
+    "options": [
+      "To use more function words.",
+      "To ensure the logic of the argument flows convincingly from one point to the next.",
+      "To ensure the essay is exactly 2,000 words long.",
+      "To eliminate the need for a conclusion."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Refining the macro-structure ensures 'logical flow, coherence between paragraphs, and a well-constructed argumentative structure'.",
+    "incorrectExplanations": {
+      "A": "Redundancies (often function words) are eliminated in this stage.",
+      "B": "Correct. Structure serves the purpose of making the argument sound and followable.",
+      "C": "Length is secondary to logical construction.",
+      "D": "A well-constructed structure includes a logical beginning, middle, and end (conclusion)."
+    },
+    "keywords": [
+      "argumentative structure",
+      "macro-structure",
+      "logic"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W6Q030",
+    "week": 6,
+    "weekTitle": "Types of Writing",
+    "topic": "Writing Skills",
+    "subTopic": "Overall Mastery",
+    "difficulty": "Hard",
+    "question": "How does the master of written communication view the 'unique set of skills' required for different writing forms?",
+    "options": [
+      "As a set of rigid rules that never overlap.",
+      "As invaluable tools for effective communication in various contexts.",
+      "As academic requirements that are not useful in professional life.",
+      "As a way to avoid divergent thinking."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Each form demands a unique set of skills, 'making them invaluable tools for effective communication in various contexts'.",
+    "incorrectExplanations": {
+      "A": "The text shows overlap (e.g., all require pre-writing and logical flow).",
+      "B": "Correct. Mastery provides versatility across academic, social, and professional settings.",
+      "C": "The text explicitly mentions business professionals and researchers using these tools.",
+      "D": "Divergent thinking is an 'advanced pre-writing technique' that supports these skills."
+    },
+    "keywords": [
+      "writing skills",
+      "communication tools",
+      "versatility"
+    ],
+    "estimatedTime": 60
+  }
+]

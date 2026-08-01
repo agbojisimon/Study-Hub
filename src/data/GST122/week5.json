@@ -1,0 +1,904 @@
+[
+  {
+    "id": "W5Q121",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Easy",
+    "question": "What is the literal meaning of the term 'Exposition' as defined in the course material?",
+    "options": [
+      "Persuading the reader",
+      "Setting out in order",
+      "Sharing personal emotions",
+      "Describing sensory details"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The course materials explicitly state that 'Exposition means \"setting out in order\"'.",
+    "incorrectExplanations": {
+      "A": "Persuasion is the aim of argumentative writing, not the literal meaning of exposition.",
+      "B": "Correct. This definition describes the primary function of expository writing.",
+      "C": "Sharing emotions is the expressive aim of writing.",
+      "D": "Describing sensory details is the primary goal of descriptive writing."
+    },
+    "keywords": [
+      "exposition",
+      "definition",
+      "order"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q122",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative and Persuasive",
+    "difficulty": "Easy",
+    "question": "According to the materials, what is the shared purpose of both argumentative and persuasive essays?",
+    "options": [
+      "To provide a chronological narrative",
+      "To change a situation or a position",
+      "To describe an object vividly",
+      "To list steps in a recipe"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state that both argumentative and persuasive essays 'have the same purpose which is to change a situation or a position'.",
+    "incorrectExplanations": {
+      "A": "Chronological narrative is the purpose of narrative essays.",
+      "B": "Correct. Both aim to influence or move the reader toward a specific stance.",
+      "C": "Vivid description is the goal of descriptive writing.",
+      "D": "Listing recipe steps is a type of expository process writing."
+    },
+    "keywords": [
+      "purpose",
+      "argumentative",
+      "persuasive"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q123",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative and Persuasive",
+    "difficulty": "Easy",
+    "question": "Which two tools do both argumentative and persuasive writing use in their presentations?",
+    "options": [
+      "Rhythm and Rhyme",
+      "Reason and Logic",
+      "Handwriting and Spacing",
+      "Metaphor and Simile"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text explains that both forms of writing 'use reason and logic in their presentations'.",
+    "incorrectExplanations": {
+      "A": "These are literary devices common in poetry.",
+      "B": "Correct. They rely on logical structures to make their points.",
+      "C": "These are surface-level formatting/physical traits.",
+      "D": "While useful, they are not identified as the primary presentation tools for these genres."
+    },
+    "keywords": [
+      "reason",
+      "logic",
+      "presentation tools"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q124",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Easy",
+    "question": "Expository writing is primarily intended to answer reader questions like who, what, where, when, why, and what other question?",
+    "options": [
+      "Whose",
+      "Whom",
+      "How",
+      "Which"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text states that expository writing answers basic questions: 'who, what, where, when, why, and how'.",
+    "incorrectExplanations": {
+      "A": "This is not one of the six primary questions listed.",
+      "B": "This is not one of the six primary questions listed.",
+      "C": "Correct. 'How' explains the process or method within the exposition.",
+      "D": "This is not one of the six primary questions listed."
+    },
+    "keywords": [
+      "expository questions",
+      "how"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q125",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Easy",
+    "question": "Which of the following is identified as a 'time sequence' word used in process-oriented expository essays?",
+    "options": [
+      "However",
+      "Therefore",
+      "Meanwhile",
+      "In contrast"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The course identifies 'first, next, then, meanwhile, last and finally' as time sequence words for process essays.",
+    "incorrectExplanations": {
+      "A": "This is a contrast word.",
+      "B": "This is a cause-and-effect word.",
+      "C": "Correct. It shows things happening at the same time in a sequence.",
+      "D": "This is a contrast phrase."
+    },
+    "keywords": [
+      "time sequence",
+      "meanwhile",
+      "process writing"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q126",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Easy",
+    "question": "For the explanation in a process essay to be clear, how must the steps be presented?",
+    "options": [
+      "In random order to keep the reader's interest",
+      "In order so that an exact sequence is followed",
+      "In reverse alphabetical order",
+      "Based on the emotional impact of each step"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state: 'These steps must be presented in order so that an exact sequence is followed'.",
+    "incorrectExplanations": {
+      "A": "Random order would lead to confusion in a process explanation.",
+      "B": "Correct. Sequential order is vital for process clarity.",
+      "C": "This is an arbitrary arrangement not suited for processes.",
+      "D": "Process essays are factual/logical, not emotional."
+    },
+    "keywords": [
+      "process essay",
+      "sequence",
+      "order"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q127",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Organization Checklist",
+    "difficulty": "Easy",
+    "question": "According to the organization checklist for review, what should every paragraph have?",
+    "options": [
+      "A bibliography entry",
+      "A good topic sentence",
+      "At least three adjectives",
+      "A hyperlink to an online source"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The Organization checklist asks: 'Does each paragraph have a good topic sentence?'",
+    "incorrectExplanations": {
+      "A": "Bibliographies go at the end of the entire work, not every paragraph.",
+      "B": "Correct. It anchors the single idea developed in the paragraph.",
+      "C": "There is no specific quantitative requirement for adjectives.",
+      "D": "Hyperlinks are for specific digital formats, not a general organizational requirement."
+    },
+    "keywords": [
+      "topic sentence",
+      "organization",
+      "checklist"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q128",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Organization Checklist",
+    "difficulty": "Easy",
+    "question": "In the organizational requirements of an essay, each paragraph should be finished with what?",
+    "options": [
+      "A question for the reader",
+      "A clear summary sentence",
+      "A list of key terms",
+      "The writer's signature"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The checklist asks: 'Is each paragraph finished with a clear summary sentence?'",
+    "incorrectExplanations": {
+      "A": "Paragraphs can end with questions, but the checklist specifies a summary sentence.",
+      "B": "Correct. This wraps up the specific idea developed in that paragraph.",
+      "C": "Key terms are part of the vocabulary, not the standard ending of every paragraph.",
+      "D": "The signature belongs at the end of a letter, not every individual paragraph."
+    },
+    "keywords": [
+      "summary sentence",
+      "paragraph closure",
+      "checklist"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q129",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Completion Criteria",
+    "difficulty": "Easy",
+    "question": "When can a writer feel they have truly 'completed' their essay?",
+    "options": [
+      "As soon as the last word of the first draft is written",
+      "After they have shared it on social media",
+      "Only after they have read and revised the essay",
+      "Once they have chosen a font style"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text explicitly states: 'Only after you have read and revised your essay can you feel you have completed the essay'.",
+    "incorrectExplanations": {
+      "A": "The materials emphasize that writing is a process involving more than just the first draft.",
+      "B": "Sharing is a post-writing stage; the work itself is completed via revision.",
+      "C": "Correct. Revision is the final necessary step for quality control.",
+      "D": "Font selection is a minor formatting detail, not the criteria for completion."
+    },
+    "keywords": [
+      "completion",
+      "revision",
+      "essay writing"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W5Q130",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative and Persuasive",
+    "difficulty": "Medium",
+    "question": "How does the course distinguish between persuasive writing and argumentative writing?",
+    "options": [
+      "Argumentative writing is always longer than persuasive writing.",
+      "Persuasive writing uses emotional appeals to 'woo' the audience, while argumentative writing relies more on logic and reasoning.",
+      "Argumentative writing is only for academic use; persuasive is only for business.",
+      "There is no difference; they are treated as identical terms in the course."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state they are different because 'while the persuasive writing uses woo the audience's emotion, argumentative writing is based on logic and reason'.",
+    "incorrectExplanations": {
+      "A": "Length is not the defining distinction.",
+      "B": "Correct. The core difference is the emphasis on emotion (persuasive) vs. logic (argumentative).",
+      "C": "Both types are versatile and used in various fields.",
+      "D": "While 'treated together' in the course, the text explicitly notes 'you must know that both types of essays have some differences'."
+    },
+    "keywords": [
+      "persuasive",
+      "argumentative",
+      "emotion",
+      "logic"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q131",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative and Persuasive",
+    "difficulty": "Medium",
+    "question": "What is required to make an argumentative essay more 'credible' to its audience?",
+    "options": [
+      "Using a large number of adjectives",
+      "Addressing opposing viewpoints and countering them with stronger points",
+      "Avoiding logic and relying solely on personal feelings",
+      "Ensuring the essay is written in the first person"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The guidelines state that addressing opposing viewpoints and countering them 'will make your argument more credible'.",
+    "incorrectExplanations": {
+      "A": "Excessive adjectives can sometimes reduce clarity/professionalism.",
+      "B": "Correct. Demonstrating an understanding of the debate adds authority.",
+      "C": "Logic is the foundation of argumentative credibility.",
+      "D": "Point of view (first/third) does not automatically define credibility."
+    },
+    "keywords": [
+      "credibility",
+      "opposing viewpoints",
+      "argumentative guidelines"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q132",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Sample Analysis",
+    "difficulty": "Medium",
+    "question": "Based on the sample argumentative essay 'Loud Car Stereos', what is the main claim the author is arguing against?",
+    "options": [
+      "The arrival of warm spring weather",
+      "A proposed law that bans large car speakers and sets legal volume levels",
+      "The use of tapes in car stereos",
+      "Driving to the lake for fun"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The author argues against state senators who have 'proposed a law that bans car speakers above a certain size and sets legal volume levels'.",
+    "incorrectExplanations": {
+      "A": "This is the context/setting, not the argument.",
+      "B": "Correct. This proposed regulation is the specific target of the argument.",
+      "C": "Stereo components are mentioned but are not the subject of the debate.",
+      "D": "This is used as an example of a 'harmless fun' activity."
+    },
+    "keywords": [
+      "loud car stereos",
+      "argument analysis",
+      "legislation"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W5Q133",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Sample Analysis",
+    "difficulty": "Medium",
+    "question": "What critique does the course provide for the sample persuasive essay on 'Abstinence-Only Programs'?",
+    "options": [
+      "It doesn't use enough online sources.",
+      "The writer could more effectively address the opposing point of view.",
+      "It fails to cite sources according to MLA standards.",
+      "It is too short to be considered an essay."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text notes: 'The essay is not perfect (for example, the writer could more effectively address the opposing point of view)'.",
+    "incorrectExplanations": {
+      "A": "The text notes the essay *does* illustrate well how to use supporting evidence from sources.",
+      "B": "Correct. This identifies a specific area where the persuasive logic could be strengthened.",
+      "C": "The text states the essay *does* cite and document material correctly according to MLA.",
+      "D": "This is not mentioned as a critique."
+    },
+    "keywords": [
+      "critique",
+      "persuasive essay",
+      "opposing view"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W5Q134",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Medium",
+    "question": "In a process essay, what is the consequence of violating the 'time order' of events?",
+    "options": [
+      "The essay will be more creative.",
+      "The recipe or process will 'end in disaster'.",
+      "The reader will find the text more engaging.",
+      "The summary sentence will automatically be corrected."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Using the recipe example, the text states: 'If the time order is violated, your recipe will end in disaster'.",
+    "incorrectExplanations": {
+      "A": "Creativity is not the result of a failed process explanation.",
+      "B": "Correct. Sequential accuracy is essential for functional instructions.",
+      "C": "Confusion generally reduces reader engagement and utility.",
+      "D": "Summary sentences do not have self-correcting properties."
+    },
+    "keywords": [
+      "time order",
+      "disaster",
+      "process clarity"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q135",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Sample",
+    "difficulty": "Medium",
+    "question": "In the expository essay about preparing a budget, what is included in the 'miscellaneous' category of expenses?",
+    "options": [
+      "Monthly rent and mortgage payments",
+      "Extraordinary expenses such as unusual medical expenses or car repair bills",
+      "Daily carfare and transportation",
+      "Yearly insurance premiums"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text defines 'miscellaneous' as including 'extraordinary expenses such as unusual medical expenses or automobile repair bills'.",
+    "incorrectExplanations": {
+      "A": "These are identified as monthly expenses.",
+      "B": "Correct. These are unpredictable or non-routine costs.",
+      "C": "These are identified as daily expenses.",
+      "D": "These are identified as yearly expenses."
+    },
+    "keywords": [
+      "miscellaneous",
+      "budget expenses",
+      "extraordinary"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q136",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Correctness Checklist",
+    "difficulty": "Medium",
+    "question": "Under the 'Correctness' review checklist, which types of sentence errors are writers explicitly told to avoid?",
+    "options": [
+      "Lengthy sentences and short sentences",
+      "Run-on sentences and sentence fragments",
+      "Sentences ending with prepositions",
+      "Sentences starting with the word 'The'"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The checklist asks: 'Is your essay free of sentence errors (run-on sentences and sentence fragments)?'",
+    "incorrectExplanations": {
+      "A": "Varying length is actually encouraged to maintain interest.",
+      "B": "Correct. These are structural mechanical errors that impact readability.",
+      "C": "This is a traditional stylistic rule but not the error mentioned in the source checklist.",
+      "D": "Starting with 'The' is perfectly grammatical and common."
+    },
+    "keywords": [
+      "correctness",
+      "run-on",
+      "fragment",
+      "checklist"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W5Q137",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Correctness Checklist",
+    "difficulty": "Medium",
+    "question": "What grammatical elements are specified in Question 2 of the 'Correctness' checklist for review?",
+    "options": [
+      "Simplicity and Clarity",
+      "Agreement, case of pronouns, and verb forms",
+      "Spelling and Punctuation",
+      "Topic sentences and Unity"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Question 2 asks: 'Are agreement, case of pronouns, and verb forms correct?'",
+    "incorrectExplanations": {
+      "A": "These are general qualities of good writing, not specifically listed in Question 2.",
+      "B": "Correct. This targets specific syntactic and morphologic accuracy.",
+      "C": "These are separate questions later in the checklist.",
+      "D": "These belong to the 'Organization' section of the review."
+    },
+    "keywords": [
+      "agreement",
+      "pronoun case",
+      "verb forms",
+      "correctness"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q138",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative and Persuasive",
+    "difficulty": "Medium",
+    "question": "How does the 'intent' of the author impact the choice between argumentative and persuasive strategies?",
+    "options": [
+      "It doesn't; the strategies are always the same.",
+      "If the intent is to 'woo' the audience emotionally, the persuasive strategy is used.",
+      "Argumentative strategies are used when the author doesn't want to change a position.",
+      "Persuasive strategies are used when the author avoids logic entirely."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text implies a choice based on method: persuasive writing 'uses woo the audience's emotion' while argumentation is based on 'reason and logic'.",
+    "incorrectExplanations": {
+      "A": "The text highlights divergence in their strategies (emotion vs. logic).",
+      "B": "Correct. Emotionally driven change matches the 'persuasive' description.",
+      "C": "Both aim to 'change a situation or position'.",
+      "D": "Persuasive writing *still* uses logic, but prioritizes emotional appeals."
+    },
+    "keywords": [
+      "intent",
+      "emotion",
+      "strategy choice"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W5Q139",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Types",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT listed as a potential expository essay type in the Review checklist?",
+    "options": [
+      "Explaining a process",
+      "Defining a term",
+      "Making a comparison or contrast",
+      "Writing a fictional short story"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The checklist lists: process explanation, term definition, comparison/contrast, and classification. Fictional stories are not part of the expository genre.",
+    "incorrectExplanations": {
+      "A": "This is a valid expository type.",
+      "B": "This is a valid expository type.",
+      "C": "This is a valid expository type.",
+      "D": "Correct. Fiction belongs to the 'creative' aim/narrative mode, not exposition."
+    },
+    "keywords": [
+      "expository types",
+      "genre analysis"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W5Q140",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Sample Critique",
+    "difficulty": "Hard",
+    "question": "In the sample persuasive essay about Abstinence-Only programs, the author argues that these programs prepare students poorly. What specific 'undesirable outcome' is cited from Dr. Paige Hertweck's report?",
+    "options": [
+      "Students sign 'purity rings' and carry cards.",
+      "Students are more likely to have premarital sex anyway and less likely to use contraception.",
+      "Schools lose millions of dollars in law-given grants.",
+      "Students develop a strong sense of self-worth."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The author quotes Hertweck (via Kelly) stating that teenagers are less likely to use contraception the first time they have intercourse when taught only abstinence.",
+    "incorrectExplanations": {
+      "A": "This is part of the program's *method*, not the negative outcome argued.",
+      "B": "Correct. This is the central evidence used to argue the program's failure.",
+      "C": "The programs *get* millions; they don't lose it.",
+      "D": "This is mentioned as the 'good intention' of the programs, not the failure."
+    },
+    "keywords": [
+      "abstinence-only",
+      "outcome analysis",
+      "persuasive evidence"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q141",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Process Logic",
+    "difficulty": "Hard",
+    "question": "Analyze the instruction: 'Note that the four steps of the budget process are presented in a definite order.' Why is the 'allocation' step placed after determining the monthly income and listing expenses?",
+    "options": [
+      "Because allocation is the least important part of a budget.",
+      "Because one must know total income and total costs before deciding how to divide (allocate) percentages among them.",
+      "Because the alphabetical order of the steps requires it.",
+      "Because the miscellaneous category must be listed first according to guidelines."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Logically, in budgeting, income and expenses are the 'raw data' needed before the 'analysis/planning' (allocation) step can occur.",
+    "incorrectExplanations": {
+      "A": "Allocation is a core part of the process, not 'least important'.",
+      "B": "Correct. The order reflects the logical dependency of one step on the previous one's data.",
+      "C": "The steps are chronological, not alphabetical.",
+      "D": "Miscellaneous is part of the expense list, not a separate first step."
+    },
+    "keywords": [
+      "budget logic",
+      "allocation",
+      "process order"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q142",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Rhetorical Analysis",
+    "difficulty": "Hard",
+    "question": "In the Car Stereo argumentative sample, how does the author use the 'Football Game' analogy to support their point?",
+    "options": [
+      "To suggest that football is a more important issue than car stereos.",
+      "To highlight the logical inconsistency of expecting 'fun' environments (like driving to the lake) to be quiet.",
+      "To prove that senators don't like football.",
+      "To explain how to build a quieter football stadium."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The author asks 'No one wants to go to a quiet football game... Why should driving to the lake be different?', using the shared value of 'fun' to argue against volume restrictions.",
+    "incorrectExplanations": {
+      "A": "The analogy is used to equate the logic of the two situations, not rank them.",
+      "B": "Correct. It uses a widely accepted social norm (loud games) to normalize loud stereos.",
+      "C": "This is an unfounded inference not supported by the text.",
+      "D": "The essay is about car stereos, not stadium construction."
+    },
+    "keywords": [
+      "analogy",
+      "car stereo",
+      "rhetoric"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q143",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Credibility and Sources",
+    "difficulty": "Hard",
+    "question": "Why does the course emphasize the presence of a 'Works Cited' page and 'MLA standards' in its sample persuasive essay?",
+    "options": [
+      "To prove that the author is a professional librarian.",
+      "To demonstrate how supporting evidence from external sources can be ethically and effectively documented to build an argument.",
+      "Because the course material was originally written for a literature degree.",
+      "To increase the word count of the sample document."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The sample illustrates 'how to use supporting evidence from sources... how to cite the information... and how to prepare the Works Cited page'.",
+    "incorrectExplanations": {
+      "A": "Citing is a standard academic skill, not specific to librarians.",
+      "B": "Correct. Citations provide the evidence base that makes persuasion more convincing.",
+      "C": "GST 122 is a general communication course, not specifically for literature degrees.",
+      "D": "Word count is a surface goal; documentation is about credibility and ethics."
+    },
+    "keywords": [
+      "MLA",
+      "Works Cited",
+      "credibility",
+      "persuasion"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W5Q144",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Argument Construction",
+    "difficulty": "Hard",
+    "question": "According to the persuasive sample, how does the author contrast 'Good Intentions' with 'Reality' regarding sex education?",
+    "options": [
+      "By stating that intentions are always more important than outcomes.",
+      "By showing that despite the goal of teaching 'self-worth', the reality is an increase in safe-sex practice ignorance.",
+      "By arguing that reality can be changed by signing more 'purity pledges'.",
+      "By ignoring the intentions of the program entirely."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The author acknowledges 'These programs have the good intention...' but counters with reality: 'many students finish... without a good understanding of contraception'.",
+    "incorrectExplanations": {
+      "A": "The author argues the opposite: that the negative outcomes outweigh the intentions.",
+      "B": "Correct. This is a strategic move to acknowledge the 'pro-side' before disproving their results.",
+      "C": "The author argues that these pledges and cards are part of the 'distorted view' that fails.",
+      "D": "Acknowledging the good intentions makes the author seem more balanced and credible."
+    },
+    "keywords": [
+      "intentions vs reality",
+      "persuasive strategy",
+      "contrast"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q145",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Organizational Logic",
+    "difficulty": "Hard",
+    "question": "Question 2 of the 'Organization' checklist asks: 'Is each key idea developed in a separate paragraph?' What is the primary academic benefit of this practice?",
+    "options": [
+      "It allows the writer to use more transition words.",
+      "It ensures 'Unity' and allows the reader to follow the distinct stages of an argument without confusion.",
+      "It makes the essay appear longer and more impressive.",
+      "It allows the author to use different fonts in each paragraph."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Developing one key idea per paragraph prevents the muddled mixing of thoughts and maintains the focus (Unity) required for a clear exposition or argument.",
+    "incorrectExplanations": {
+      "A": "Transition words are the *tool* used, not the primary benefit itself.",
+      "B": "Correct. Structural clarity depends on the isolation and full development of points.",
+      "C": "Visual length is a byproduct, not the functional goal of paragraphing.",
+      "D": "Consistency in formatting is generally preferred over variation."
+    },
+    "keywords": [
+      "paragraph development",
+      "unity",
+      "logic"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W5Q146",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Sample",
+    "difficulty": "Hard",
+    "question": "In the budget essay sample, step 3 involves 'allocating the proper percentage'. Why is this step described as happening *after* classifying expenses?",
+    "options": [
+      "Because percentages are always the final part of any math problem.",
+      "Because classification establishes the categories that then need to be assigned relative values based on total funds.",
+      "Because the author forgot to list income first.",
+      "Because allocation is an optional step that only applies to insurance."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "You cannot allocate funds to categories (rent, food, etc.) until those categories have been identified and defined through classification.",
+    "incorrectExplanations": {
+      "A": "This is a generalization that doesn't explain the logic of the process.",
+      "B": "Correct. Classification provides the framework for the subsequent allocation.",
+      "C": "Income (Step 1) is listed before classification (Step 2).",
+      "D": "The text presents allocation as a core step in the 'total process' of budgeting."
+    },
+    "keywords": [
+      "classification",
+      "allocation",
+      "budget process logic"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q147",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Persuasive Credibility",
+    "difficulty": "Hard",
+    "question": "Analyze the impact of using 'online sources' in the persuasive sample. How does the author balance online citations with professional authority?",
+    "options": [
+      "By using only random blogs found on the internet.",
+      "By citing recognized experts like 'Dr. S. Paige Hertweck' and established organizations like the 'American Academy of Pediatrics' found in those sources.",
+      "By avoiding the use of expert names and just listing URLs.",
+      "By stating that online sources are always 100% correct."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The author uses the internet to access reliable expert testimony and organizational reports, which grounds the emotional persuasion in institutional credibility.",
+    "incorrectExplanations": {
+      "A": "Random blogs reduce credibility; the author uses established names.",
+      "B": "Correct. Credibility comes from *who* is being cited via the online source.",
+      "C": "MLA citation requires author names/titles, not just links.",
+      "D": "The author shows a critical use of sources, selecting those with scholarly integrity."
+    },
+    "keywords": [
+      "online sources",
+      "authority",
+      "citation strategy"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W5Q148",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Target Assessment",
+    "difficulty": "Hard",
+    "question": "A writer reviews their work using the 'Content' section of the checklist. What is the fundamental goal of the question: 'Did you hit the target of the lesson?'",
+    "options": [
+      "To check if the essay has exactly five paragraphs.",
+      "To ensure the writing successfully achieved its rhetorical mode (e.g., explained the process, made the contrast, etc.).",
+      "To verify that all the words are spelled correctly.",
+      "To see if the teacher will enjoy the chosen topic."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The sub-questions (Did you explain the process? Did you make the comparison?) evaluate if the essay fulfilled its specific expository or argumentative purpose.",
+    "incorrectExplanations": {
+      "A": "This is a structural check, not a functional 'target' check.",
+      "B": "Correct. It evaluates if the core communicative objective was met.",
+      "C": "This belongs to the 'Correctness' checklist.",
+      "D": "The checklist is for self-evaluation of objective criteria, not subjective preference."
+    },
+    "keywords": [
+      "target of lesson",
+      "content review",
+      "rhetorical mode"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W5Q149",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Review and Revision",
+    "subTopic": "Correctness Checklist",
+    "difficulty": "Hard",
+    "question": "During the 'Correctness' review, why is checking 'case of pronouns' specifically highlighted?",
+    "options": [
+      "Because pronouns are the only words that matter in an essay.",
+      "To ensure that pronouns like 'I', 'me', 'he', and 'him' are used correctly based on their grammatical function as subject or object.",
+      "To ensure that no pronouns are used at all in formal writing.",
+      "To check if the pronouns are capitalized at the end of a sentence."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Pronoun 'case' refers to the subjective, objective, or possessive form, which is a common area for grammatical error in academic writing.",
+    "incorrectExplanations": {
+      "A": "All word classes are important for different reasons.",
+      "B": "Correct. This is the definition of pronoun 'case' in grammatical correctness.",
+      "C": "Pronouns are necessary for coherence and replacing repetitive nouns.",
+      "D": "Capitalization is a separate check, and pronouns shouldn't be capitalized just because they are at the end of a sentence."
+    },
+    "keywords": [
+      "pronoun case",
+      "correctness",
+      "grammar review"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W5Q150",
+    "week": 5,
+    "weekTitle": "Writing Activities II",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Writing",
+    "difficulty": "Hard",
+    "question": "Why does the text classify 'Explaining a Process' as expository writing rather than narrative writing, even though both can use chronological sequence?",
+    "options": [
+      "Because process writing does not have a central idea.",
+      "Because exposition focuses on delivering insightful explanations and detailed information rather than telling a story for entertainment or suspense.",
+      "Because process writing is always much shorter than narrative writing.",
+      "There is no real reason; the categories are used interchangeably in the materials."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Exposition's core aim is informational ('insightful explanations'), whereas narratives tell a story. Chronology is a tool shared by both, but the *purpose* (explain vs. tell) differ.",
+    "incorrectExplanations": {
+      "A": "The materials state that process writing has defined steps that must be clear.",
+      "B": "Correct. The informational/instructional objective defines it as exposition.",
+      "C": "Length does not determine the rhetorical category.",
+      "D": "The text provides separate definitions and study sessions for narrative (Session 4) and expository (Session 5)."
+    },
+    "keywords": [
+      "process vs narrative",
+      "exposition aim",
+      "chronology"
+    ],
+    "estimatedTime": 60
+  }
+]

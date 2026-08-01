@@ -1,0 +1,903 @@
+[
+  {
+    "id": "W9Q001",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Pronunciation",
+    "subTopic": "Role in Learning",
+    "difficulty": "Easy",
+    "question": "According to the materials, what is the best way for students to improve their pronunciation?",
+    "options": [
+      "Memorizing the dictionary",
+      "Consistent practice",
+      "Avoiding difficult words",
+      "Only reading silently"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states that students believe the best way to improve their pronunciation is to practice.",
+    "incorrectExplanations": {
+      "A": "Memorization of definitions does not improve the physical act of speech production.",
+      "B": "Correct. Practice is identified as the pivotal method for improvement.",
+      "C": "Avoiding difficulty prevents learning the nuances of the language.",
+      "D": "Silent reading does not engage the speech organs required for pronunciation."
+    },
+    "keywords": [
+      "pronunciation",
+      "practice",
+      "improvement"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q002",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Vowel Sounds",
+    "subTopic": "Diphthongs",
+    "difficulty": "Easy",
+    "question": "How does the course material define 'Diphthongs'?",
+    "options": [
+      "Vowels with a single, short sound",
+      "Vowels with double sounds involving glides",
+      "Consonants produced with no air obstruction",
+      "Silent letters in a multisyllabic word"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Diphthongs are defined as vowels with double sounds whose production involves glides.",
+    "incorrectExplanations": {
+      "A": "This describes monophthongs or simple vowels.",
+      "B": "Correct. The 'double sound' and 'glide' are the defining traits.",
+      "C": "Consonants involve obstruction, and diphthongs are vowels.",
+      "D": "Diphthongs are specifically voiced vowel sounds, not silent elements."
+    },
+    "keywords": [
+      "diphthongs",
+      "vowels",
+      "glides"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q003",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Consonant Sounds",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "What physical action produces a 'consonant sound' according to the linguistic definition provided?",
+    "options": [
+      "Complete lack of air flow from the lungs",
+      "Partial or complete obstruction of the air stream",
+      "Humming with the mouth closed",
+      "Only moving the tip of the tongue"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A consonant sound is produced by a partial or complete obstruction of the air stream by various speech organs.",
+    "incorrectExplanations": {
+      "A": "Speech requires air flow; complete lack of flow produces no sound.",
+      "B": "Correct. This obstruction distinguishes consonants from vowels.",
+      "C": "Humming is a specific vocalization, not the general definition of consonants.",
+      "D": "Obstruction can involve various organs, including lips, teeth, and palate, not just the tongue tip."
+    },
+    "keywords": [
+      "consonant",
+      "obstruction",
+      "air stream"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q004",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Stress",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "What is 'Stress' in the context of speaking skills?",
+    "options": [
+      "The feeling of nervousness before a speech",
+      "Pronouncing one syllable more forcibly than others",
+      "The speed at which a person reads a text",
+      "The volume of the entire sentence"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Stress is the sound difference achieved by pronouncing one syllable more forcibly than others in a word.",
+    "incorrectExplanations": {
+      "A": "This is anxiety, which is managed during pre-speaking steps, not the phonetic definition of stress.",
+      "B": "Correct. It refers to the relative emphasis given to syllables.",
+      "C": "Speed relates to 'rate' or 'tempo', not syllable stress.",
+      "D": "Stress applies to specific syllables, not the general volume of a whole sentence."
+    },
+    "keywords": [
+      "stress",
+      "syllable",
+      "force"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q005",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Intonation",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "The term 'Intonation' specifically refers to:",
+    "options": [
+      "The number of words spoken per minute",
+      "The rise and fall in the pitch of a speaker's voice",
+      "The literal dictionary definition of a word",
+      "The physical appearance of the speaker"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Intonation refers to the rise and fall in the pitch of a speaker’s voice.",
+    "incorrectExplanations": {
+      "A": "This describes the rate of speech.",
+      "B": "Correct. It is the melodic pattern of speech.",
+      "C": "This is semantics/definition, not a phonetic speaking skill.",
+      "D": "Appearance is a non-verbal cue but not the definition of intonation."
+    },
+    "keywords": [
+      "intonation",
+      "pitch",
+      "rise and fall"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q006",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Accent",
+    "subTopic": "Influence",
+    "difficulty": "Easy",
+    "question": "What does an individual's 'Accent' typically reflect in spoken language?",
+    "options": [
+      "The speaker's level of education only",
+      "Cultural and regional diversity",
+      "A complete lack of grammar skills",
+      "The speaker's ability to read silently"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state that accent influences the perception of language and reflects cultural and regional diversity.",
+    "incorrectExplanations": {
+      "A": "While education can impact speech, the core reflection identified is cultural and regional.",
+      "B": "Correct. Accents are markers of background and origin.",
+      "C": "Accent is a matter of pronunciation, not a lack of grammatical knowledge.",
+      "D": "Silent reading involves no vocalization or accent."
+    },
+    "keywords": [
+      "accent",
+      "culture",
+      "diversity"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q007",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Interactive Process",
+    "difficulty": "Easy",
+    "question": "How is the act of 'Speaking' defined as a process in Study Session 7?",
+    "options": [
+      "A one-way delivery of data",
+      "An interactive process of constructing meaning",
+      "A method of writing symbols on paper",
+      "The act of listening to music"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Speaking is defined as an 'interactive process of constructing meaning'.",
+    "incorrectExplanations": {
+      "A": "The definition emphasizes interactivity and context, not just one-way data transfer.",
+      "B": "Correct. It involves creating understanding between speaker and listener.",
+      "C": "This is the definition of 'Writing'.",
+      "D": "Listening to music is a receptive audio activity, not the act of speaking."
+    },
+    "keywords": [
+      "speaking",
+      "interactive",
+      "meaning"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q008",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Consonant Sounds",
+    "subTopic": "Examples",
+    "difficulty": "Easy",
+    "question": "Which of these is provided as an example of a consonant sound produced by obstruction?",
+    "options": [
+      "(p)",
+      "(a:)",
+      "(u:)",
+      "(ai)"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The text lists (p), (f), (r), (w), and (h) as examples of consonant sounds produced by obstruction.",
+    "incorrectExplanations": {
+      "A": "Correct. It is explicitly listed as a consonant example.",
+      "B": "This is a long vowel sound.",
+      "C": "This is a long vowel sound.",
+      "D": "This is a diphthong (vowel glide)."
+    },
+    "keywords": [
+      "consonant",
+      "examples"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q009",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Strategies",
+    "difficulty": "Easy",
+    "question": "Which strategy is listed for effective speaking in Study Session 7?",
+    "options": [
+      "Avoiding eye contact",
+      "Humor and relaxation",
+      "Speaking as fast as possible",
+      "Using only complex medical jargon"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Strategies for effective speaking include simplicity, humor, eye contact, and relaxation.",
+    "incorrectExplanations": {
+      "A": "Eye contact is specifically listed as an effective strategy, not something to avoid.",
+      "B": "Correct. These help engage the audience and improve delivery.",
+      "C": "Simplicity and clear pacing are preferred over excessive speed.",
+      "D": "Simplicity is recommended to ensure the audience can follow the ideas."
+    },
+    "keywords": [
+      "strategies",
+      "humor",
+      "relaxation"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W9Q010",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Intonation",
+    "subTopic": "Pitch Fluctuations",
+    "difficulty": "Medium",
+    "question": "According to the materials, what is the linguistic effect when pitch fluctuations affect the 'meaning' of words?",
+    "options": [
+      "It is called Stress",
+      "It is referred to as Tone",
+      "It is called Alliteration",
+      "It is called Diphthongization"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The variations created in pitch fluctuations that affect the meaning of words are referred to as tone.",
+    "incorrectExplanations": {
+      "A": "Stress is about force on a syllable, not necessarily the pitch fluctuation for word meaning.",
+      "B": "Correct. Tone is the pitch usage that distinguishes meanings.",
+      "C": "Alliteration is a poetic device involving consonant repetition.",
+      "D": "This refers to vowel glides, not pitch-based meaning shifts."
+    },
+    "keywords": [
+      "tone",
+      "pitch",
+      "meaning"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q011",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Vowel Sounds",
+    "subTopic": "Nuance",
+    "difficulty": "Medium",
+    "question": "Why is 'understanding the nuances' of consonant and vowel sounds considered essential?",
+    "options": [
+      "To pass a written grammar exam",
+      "It lays the foundation for effective communication",
+      "To ensure the speaker can write an essay",
+      "To reduce the word count of a speech"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The lesson summary states that understanding these nuances lays the foundation for effective communication.",
+    "incorrectExplanations": {
+      "A": "Grammar exams test syntactic structure; nuances of sounds test speaking/listening.",
+      "B": "Correct. Clear sounds are the 'building blocks' of spoken language.",
+      "C": "Sound production is a speaking skill, distinct from the skill of writing.",
+      "D": "Phonetics does not impact the total word count of a message."
+    },
+    "keywords": [
+      "communication",
+      "vowels",
+      "consonants",
+      "foundation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q012",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Stress",
+    "subTopic": "Placement Examples",
+    "difficulty": "Medium",
+    "question": "Based on the examples in Source 69, which of these words is 'stressed' on the final syllable?",
+    "options": [
+      "Understand",
+      "Magazine",
+      "Cigarette",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The list of stressed words includes 'underSTAND', 'magaZINE', and 'cigaretTE'.",
+    "incorrectExplanations": {
+      "A": "Correct, but others in the list are also stressed on the final syllable.",
+      "B": "Correct, but others in the list are also stressed on the final syllable.",
+      "C": "Correct, but others in the list are also stressed on the final syllable.",
+      "D": "Correct. All three examples provided in the text follow the final-syllable stress pattern."
+    },
+    "keywords": [
+      "stress",
+      "syllable placement",
+      "examples"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q013",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Strategies",
+    "subTopic": "Visual Aids",
+    "difficulty": "Medium",
+    "question": "What common mistake do speakers make with 'visual aids' according to Study Session 7?",
+    "options": [
+      "They use aids that are too colorful",
+      "They speak to the visual aid instead of the audience",
+      "They forget to use any visual aids at all",
+      "They use images that have too much text"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text warns speakers to remember they are speaking to an audience, not to a visual aid, citing instances where speakers looked at a book cover instead of the audience.",
+    "incorrectExplanations": {
+      "A": "Color usage is not mentioned as a core mistake in this text.",
+      "B": "Correct. Maintaining audience connection is prioritized over the aid itself.",
+      "C": "Visual aids are optional but recommended; the mistake is in their *misuse*.",
+      "D": "Text density is a design issue, but the speaking mistake identified is the direction of delivery."
+    },
+    "keywords": [
+      "visual aids",
+      "audience",
+      "delivery"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q014",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Prompts",
+    "subTopic": "Guidelines",
+    "difficulty": "Medium",
+    "question": "When responding to a speaking prompt, what should a student do if they are unsure of the task's purpose?",
+    "options": [
+      "Guess and hope for the best",
+      "Ask for clarification",
+      "Ignore the task and speak about a different topic",
+      "End the speech immediately"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The guidelines state it is advisable to 'ask for clarification of the task if you are unsure of its goal, purpose, or how you are to do'.",
+    "incorrectExplanations": {
+      "A": "Guessing can lead to failing the lesson target.",
+      "B": "Correct. This ensures the student 'hits the target' of the lesson.",
+      "C": "Speaking off-topic fails to address the specific prompt requirements.",
+      "D": "Premature ending prevents the demonstration of the required skills."
+    },
+    "keywords": [
+      "clarification",
+      "purpose",
+      "speaking prompt"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q015",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Anxiety Management",
+    "difficulty": "Medium",
+    "question": "Which of the following is identified as a necessary step to follow 'before' speaking?",
+    "options": [
+      "Writing a 1,000-word descriptive essay",
+      "Managing anxiety and predicting challenges",
+      "Submitting a report to a journal",
+      "Eliminating all pauses from speech"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Steps before speaking involve managing anxiety, planning, goal identification, and predicting challenges.",
+    "incorrectExplanations": {
+      "A": "This is a separate writing assignment.",
+      "B": "Correct. Psychological and structural preparation are both vital.",
+      "C": "This is a post-writing research activity.",
+      "D": "Pauses can be effective; the pre-speaking step is about managing the 'anxiety' of the act."
+    },
+    "keywords": [
+      "pre-speaking",
+      "anxiety",
+      "challenges"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q016",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Pronunciation",
+    "subTopic": "Rhythm",
+    "difficulty": "Medium",
+    "question": "What elements 'infuse conversations with meaning and emotional undertones' according to the Speaking summary?",
+    "options": [
+      "The number of adjectives used",
+      "Stress and intonation patterns",
+      "The size of the room",
+      "Proper MLA citation"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The summary states that the rhythm of speech, achieved through stress and intonation patterns, infuses meaning and emotion.",
+    "incorrectExplanations": {
+      "A": "Adjectives provide descriptive meaning but not phonetic 'undertones'.",
+      "B": "Correct. These phonetic features convey the 'spirit' and 'intent' of the message.",
+      "C": "Room size is context, but sound patterns are the speakers' tools.",
+      "D": "Citations are for academic integrity in writing/reports."
+    },
+    "keywords": [
+      "rhythm",
+      "meaning",
+      "emotion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q017",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Effectiveness",
+    "difficulty": "Medium",
+    "question": "In the context of 'Effective SpeechMaking', what is the purpose of 'restating points'?",
+    "options": [
+      "To fill up time when the speaker is nervous",
+      "It is a strategy to ensure clarity and impact",
+      "To confuse the audience about the main idea",
+      "To show that the speaker has a small vocabulary"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Restating points is listed as a strategy for effective speaking, alongside simplicity and transitions.",
+    "incorrectExplanations": {
+      "A": "Anxiety management is a separate pre-speaking step.",
+      "B": "Correct. Reiteration helps the audience retain and understand key concepts.",
+      "C": "Clarity is the goal; confusion is a failure of communication.",
+      "D": "Redundancy in writing is avoided, but strategic restatement in speaking is a helpful skill."
+    },
+    "keywords": [
+      "restating",
+      "effective speaking",
+      "impact"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q018",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Prompts",
+    "subTopic": "Preparation",
+    "difficulty": "Medium",
+    "question": "The guidelines suggest 'activating background knowledge' before a speaking task. This means:",
+    "options": [
+      "Learning a new language in five minutes",
+      "Recalling what you already know about the situation or task",
+      "Reading the textbook from the beginning",
+      "Checking the index for a glossary"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "To 'activate background knowledge' is defined as knowing 'what you already know about the situation or task'.",
+    "incorrectExplanations": {
+      "A": "This is an impossible task.",
+      "B": "Correct. It involves connecting new tasks to existing mental frameworks.",
+      "C": "This is too broad; background knowledge is specific to the current prompt.",
+      "D": "Glossaries define terms, but 'knowledge' refers to the student's personal stored information."
+    },
+    "keywords": [
+      "background knowledge",
+      "preparation",
+      "speaking task"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W9Q019",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Consonant Sounds",
+    "subTopic": "Phonetic Categorization",
+    "difficulty": "Hard",
+    "question": "Identify the set of words from the materials that all contain the [k] sound as an obstruction, despite different spellings.",
+    "options": [
+      "Kate, sky, blanket, break",
+      "Quality, question, quote",
+      "Unique, technique, antique",
+      "Both A and C"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The [k] sound is found in 'Kate, kind, kill... sky, blanket, break, take' and also in words with 'que' spellings like 'unique, technique, antique'.",
+    "incorrectExplanations": {
+      "A": "These contain the [k] sound, but 'C' is also a valid set in the text.",
+      "B": "These are categorized under the [kw] sound.",
+      "C": "These contain the [k] sound, but 'A' is also valid.",
+      "D": "Correct. Both lists demonstrate the [k] phonetic category across varied orthography."
+    },
+    "keywords": [
+      "phonetics",
+      "consonants",
+      "k sound"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q020",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Intonation",
+    "subTopic": "Functional Analysis",
+    "difficulty": "Hard",
+    "question": "In linguistics, how is the 'functional' use of intonation differentiated from its 'tonal' use?",
+    "options": [
+      "Tonal intonation is used to distinguish words; functional intonation indicates things like speaker attitude.",
+      "There is no difference; they are used interchangeably.",
+      "Functional intonation is for writing; tonal is for speaking.",
+      "Tonal intonation is only for vowels; functional is for consonants."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The text states that intonation is pitch variation *not* used to distinguish words; instead, it is used for functions like indicating meaning or attitude. In contrast, 'tone' refers to fluctuations that *do* affect the meaning of words.",
+    "incorrectExplanations": {
+      "A": "Correct. One is lexical (tone), the other is pragmatic/functional (intonation).",
+      "B": "The text provides separate definitions for intonation and tone.",
+      "C": "Both are phonetic features of the 'spoken' language.",
+      "D": "Pitch fluctuations (the basis of both) are primarily features of voiced sounds, typically vowels, not a consonant-vs-vowel split."
+    },
+    "keywords": [
+      "intonation",
+      "tone",
+      "linguistics",
+      "attitude"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q021",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Prompts",
+    "subTopic": "Metacognitive Prediction",
+    "difficulty": "Hard",
+    "question": "Why does the 'Response Analysis' for speaking prompts emphasize predicting the vocabulary 'which will be used'?",
+    "options": [
+      "To ensure the speaker can spell every word correctly on a board",
+      "To prime the brain for the specific linguistic demands of the task and ensure a smooth flow",
+      "To avoid having to speak at all",
+      "To ensure the audience can use their dictionaries during the speech"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Predicting vocabulary is a pre-speaking step meant to facilitate the 'interactive process of constructing meaning' and ensure 'logical flow'.",
+    "incorrectExplanations": {
+      "A": "Spelling is a mechanical writing skill; vocabulary prediction in speaking is for oral fluency.",
+      "B": "Correct. It reduces cognitive load during the actual delivery.",
+      "C": "Prediction is a preparation stage *for* speaking, not an avoidance tactic.",
+      "D": "Effective speakers aim for 'simplicity' so that audience dictionaries are unnecessary."
+    },
+    "keywords": [
+      "vocabulary",
+      "prediction",
+      "fluency"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q022",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Visual Rhetoric",
+    "difficulty": "Hard",
+    "question": "A speaker holding up an object as an illustration must avoid which specific outcome mentioned in Study Session 7?",
+    "options": [
+      "The audience contemplating the artwork rather than listening to the words",
+      "The object being too small to see",
+      "The speaker forgetting to bring the object",
+      "The object costing too much money"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The text warns: 'you don’t want them to be contemplating your lovely artwork rather than listening to your words'.",
+    "incorrectExplanations": {
+      "A": "Correct. Visual aids must support, not distract from, the verbal message.",
+      "B": "While a practical issue, the text focuses on the cognitive distraction of 'contemplating artwork' vs 'listening'.",
+      "C": "The text describes speakers who *do* have the object but use it incorrectly.",
+      "D": "Financial cost is mentioned in the context of 'Mother's Shoes', not speechmaking visual aids."
+    },
+    "keywords": [
+      "visual aids",
+      "distraction",
+      "rhetoric"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q023",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Vowel Sounds",
+    "subTopic": "Phonetic Contrast",
+    "difficulty": "Hard",
+    "question": "Analyze the vowel lists in Source 64. What is the core phonetic difference between the sets of words containing /u/ versus those containing /u:/ ?",
+    "options": [
+      "There is no difference; they are alternative spellings",
+      "Words with /u/ use short vowel sounds (took, cook); words with /u:/ use long sounds (moon, soup)",
+      "/u/ is for consonants; /u:/ is for vowels",
+      "/u/ is used at the beginning of words; /u:/ at the end"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Source 64 lists /u/ examples like 'put, cook, would, took' and /u:/ examples like 'food, moon, spoon, soup'. The colon (:) indicates a long vowel sound.",
+    "incorrectExplanations": {
+      "A": "They represent different phonemes (sounds), not just different spellings.",
+      "B": "Correct. The duration and quality of the vowel sound differ.",
+      "C": "Both are vowel sounds, as explicitly labeled in the text header 'Vowel Sounds'.",
+      "D": "Both sounds appear in various positions (e.g., 'put' vs 'moon')."
+    },
+    "keywords": [
+      "vowel length",
+      "phonetics",
+      "contrast"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q024",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Consonant Sounds",
+    "subTopic": "Silent Letters",
+    "difficulty": "Hard",
+    "question": "Which category of sounds in Source 66 includes words where the written 'h' is not pronounced (silent)?",
+    "options": [
+      "[h] help, history, home",
+      "[-] hour, honor, vehicle",
+      "[j] giant, energy, manage",
+      "[zh] beige, mirage"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text explicitly lists '[-] hour, honor, honest, heir, vehicle' under a category where the 'h' is not a consonant sound produced.",
+    "incorrectExplanations": {
+      "A": "In these examples, the [h] is pronounced (audible obstruction).",
+      "B": "Correct. The '-' symbol indicates the omission of the sound.",
+      "C": "These are 'j' (voiced affricate) sounds.",
+      "D": "These are 'zh' (voiced fricative) sounds."
+    },
+    "keywords": [
+      "silent letters",
+      "h sound",
+      "phonetics"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q025",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Stress",
+    "subTopic": "Functional Impact",
+    "difficulty": "Hard",
+    "question": "How does the mastery of 'Stress, Intonation, and Accent' relate to the concept of 'Meaningful Dialogues'?",
+    "options": [
+      "It allows the speaker to speak without thinking about grammar",
+      "It provides the tools to convey thoughts and emotions accurately, ensuring intent is correctly received",
+      "It eliminates the need for the listener to pay attention",
+      "It ensures that every word is stressed equally for maximum volume"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Learning outcomes state that mastering these nuances equips learners with tools to 'engage in meaningful dialogues and convey thoughts and emotions accurately'.",
+    "incorrectExplanations": {
+      "A": "Mastery of speaking skills complements, rather than replaces, grammatical competence.",
+      "B": "Correct. These elements (prosody) carry the emotional and intentional weight of speech.",
+      "C": "Clear delivery *demands* and rewards audience attention.",
+      "D": "Equal stress on every word results in robotic, unnatural speech that lacks the 'rhythm' described in the text."
+    },
+    "keywords": [
+      "prosody",
+      "dialogue",
+      "accuracy"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q026",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Tasks",
+    "subTopic": "Structured Response",
+    "difficulty": "Hard",
+    "question": "A 'comprehensive response' to a speaking prompt should include which structural elements according to the Week 9 guidelines?",
+    "options": [
+      "A 500-word introduction and a bibliography",
+      "Clear introduction, comprehensive analysis, and thoughtful conclusion",
+      "Only the main findings with no introduction",
+      "A list of adjectives and transition words only"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Response Analysis' notes that each response should follow a 'structured format, presenting a clear introduction, comprehensive analysis, and thoughtful conclusion'.",
+    "incorrectExplanations": {
+      "A": "Bibliographies are for written reports.",
+      "B": "Correct. This structure ensures clarity and critical thinking are showcased.",
+      "C": "A complete response requires all three segments (Intro, Analysis, Conclusion).",
+      "D": "These are building blocks of writing/speaking, but they do not constitute the full structural response."
+    },
+    "keywords": [
+      "response structure",
+      "analysis",
+      "conclusion"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q027",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Consonant Sounds",
+    "subTopic": "Phonetic Contrast",
+    "difficulty": "Hard",
+    "question": "Contrast the [j] sound in 'jam' and 'jet' with the [j] sound in 'giant' and 'agent'. What is the orthographic observation made in Source 66?",
+    "options": [
+      "The sound is the same regardless of whether it is spelled with 'j' or 'g'",
+      "Spelling with 'j' is only for short words; 'g' is for long words",
+      "The 'j' sound in 'giant' is actually a vowel",
+      "The 'g' in 'agent' is a silent letter"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Source 66 lists 'jam, jet...' under [j] and 'general, gin, giant, agent...' also under [j], demonstrating the same sound represented by different letters.",
+    "incorrectExplanations": {
+      "A": "Correct. This highlights the difference between sounds and spellings.",
+      "B": "Words like 'jam' (short) and 'suggest' (longer) use both spellings; length is not the rule.",
+      "C": "Both are categorized as 'Consonant Sounds'.",
+      "D": "The 'g' in 'agent' is pronounced as the [j] consonant sound."
+    },
+    "keywords": [
+      "orthography",
+      "phonetics",
+      "j sound"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q028",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speechmaking",
+    "subTopic": "Complexity Management",
+    "difficulty": "Hard",
+    "question": "How is 'critical thinking' demonstrated in an effective response to a complex speaking prompt?",
+    "options": [
+      "By using as many 'Function Words' as possible",
+      "Through in-depth exploration, examples, and potential solutions or recommendations",
+      "By speaking without any pauses",
+      "By reciting the names of famous speakers from the Renaissance"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Complexity is addressed through 'in-depth exploration, examples, and the inclusion of potential solutions... showcasing critical thinking'.",
+    "incorrectExplanations": {
+      "A": "Function words provide grammar, not critical thought.",
+      "B": "Correct. This demonstrates a 'nuanced understanding' of the topic.",
+      "C": "Fluency is a skill, but complexity requires content and analysis.",
+      "D": "Reciting facts is memorization, not critical analysis or problem-solving."
+    },
+    "keywords": [
+      "critical thinking",
+      "complexity",
+      "exploration"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q029",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Speaking Strategies",
+    "subTopic": "Pre-speaking Logic",
+    "difficulty": "Hard",
+    "question": "According to Source 73, why should a speaker 'relate the task to a similar situation' before beginning?",
+    "options": [
+      "To ensure they can copy what the other person did exactly",
+      "To make associations that aid in planning and predicting challenges",
+      "To find a reason to delay the speech",
+      "To check if the other situation used more visual aids"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Relating tasks to similar situations ('make association') is a pre-speaking step to help identify goals and predict challenges.",
+    "incorrectExplanations": {
+      "A": "Speaking is an 'interactive process of constructing meaning' specific to its current context.",
+      "B": "Correct. Association is a cognitive strategy for effective preparation.",
+      "C": "Preparation steps are for efficiency and success, not delay.",
+      "D": "Visual aids are just one strategy, not the primary goal of making situational associations."
+    },
+    "keywords": [
+      "association",
+      "preparation",
+      "pre-speaking"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W9Q030",
+    "week": 9,
+    "weekTitle": "Speaking I",
+    "topic": "Pronunciation",
+    "subTopic": "Metacognition",
+    "difficulty": "Hard",
+    "question": "What is the metacognitive goal of 'refining pronunciation skills' according to Source 82?",
+    "options": [
+      "To sound like a famous actor",
+      "Enhancing comprehension and constructing grammatically correct sentences",
+      "To increase the speed of silent reading",
+      "To eliminate the need for using content words"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text links refining pronunciation skills with 'constructing grammatically correct sentences' and 'enhancing comprehension'.",
+    "incorrectExplanations": {
+      "A": "The goal is effective communication, not theatrical imitation.",
+      "B": "Correct. Clear pronunciation supports the overall linguistic proficiency of the student.",
+      "C": "Pronunciation is for 'spoken language', not silent reading.",
+      "D": "Content words are essential for conveying meaning; pronunciation is how they are delivered."
+    },
+    "keywords": [
+      "metacognition",
+      "pronunciation",
+      "comprehension"
+    ],
+    "estimatedTime": 60
+  }
+]

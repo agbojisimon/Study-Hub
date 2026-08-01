@@ -1,0 +1,906 @@
+[
+  {
+    "id": "W4Q001",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Summary Writing",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "What is the primary purpose of a 'summary' according to the course materials?",
+    "options": [
+      "To provide a detailed analysis of a text with personal opinions.",
+      "To create a condensed version highlighting main ideas and essential information.",
+      "To rewrite a document using more complex and academic vocabulary.",
+      "To list every example and detail provided in the original text."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A summary is defined as a condensed and concise version of a larger text that highlights main ideas and key points while omitting unnecessary details.",
+    "incorrectExplanations": {
+      "A": "A summary should be brief and objective, not a detailed personal analysis.",
+      "B": "Correct. It focuses on brevity and clarity while capturing the core content.",
+      "C": "A summary aims for conciseness and clarity, not increasing complexity.",
+      "D": "Summaries should eliminate unnecessary details and examples."
+    },
+    "keywords": [
+      "summary",
+      "concise",
+      "main ideas"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q002",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Letter Writing",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "Which of the following best defines a 'Letter' as described in the text?",
+    "options": [
+      "A formal document meant for general public readership.",
+      "A written message addressed to a specific person or group.",
+      "A structured academic report containing methodology and findings.",
+      "A visual storyboard used to plan movie scenes."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A letter is a written message addressed to a specific person or group, which can be formal or informal.",
+    "incorrectExplanations": {
+      "A": "Essays or reports are often for general readership; letters are targeted to recipients.",
+      "B": "Correct. The definition emphasizes it is addressed to specific entities.",
+      "C": "This describes a report, not a letter.",
+      "D": "This describes storyboarding, a pre-writing technique."
+    },
+    "keywords": [
+      "letter",
+      "message",
+      "recipient"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q003",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Report Writing",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "What distinguishes a 'Report' from other types of writing according to the source?",
+    "options": [
+      "It is always informal and used for personal expression.",
+      "It is a formal document presenting detailed information, analysis, and findings.",
+      "It avoids structured formats like introductions or conclusions.",
+      "It is exclusively used for creative storytelling and poetry."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A report is a formal document that presents detailed information, analysis, findings, and conclusions on a specific topic.",
+    "incorrectExplanations": {
+      "A": "Reports are typically used in academic, business, and professional (formal) settings.",
+      "B": "Correct. It is structured and evidence-based.",
+      "C": "Reports often follow a structured format including intro, methodology, etc.",
+      "D": "Creative storytelling is an aim of writing, but not the purpose of a report."
+    },
+    "keywords": [
+      "report",
+      "formal",
+      "analysis",
+      "findings"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q004",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "The Writing Process",
+    "subTopic": "Pre-writing Definition",
+    "difficulty": "Easy",
+    "question": "The phase of the writing process that precedes actual composition is known as:",
+    "options": [
+      "Drafting",
+      "Post-writing",
+      "Pre-writing",
+      "Editing"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Pre-writing refers to the crucial phase of the writing process that precedes the actual composition.",
+    "incorrectExplanations": {
+      "A": "Drafting is the actual act of writing the first version.",
+      "B": "Post-writing occurs after the draft is finished.",
+      "C": "Correct. It involves strategic activities like idea generation and planning.",
+      "D": "Editing is a post-writing activity."
+    },
+    "keywords": [
+      "pre-writing",
+      "composition",
+      "planning"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q005",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Paragraph Structure",
+    "subTopic": "Topic Sentence",
+    "difficulty": "Easy",
+    "question": "Which component is described as 'constant' and essential in making a good paragraph?",
+    "options": [
+      "Graphic illustrations",
+      "Topic sentence",
+      "Direct quotations",
+      "Multiple main ideas"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states that while there are various components of a good paragraph, the 'Topic sentence' remains constant.",
+    "incorrectExplanations": {
+      "A": "Illustrations are optional tools, not the constant anchor of a paragraph.",
+      "B": "Correct. It introduces the main idea and summarizes content.",
+      "C": "Quotations are a technique for development but are not required for every paragraph.",
+      "D": "A good paragraph should focus on 'one idea at a time'."
+    },
+    "keywords": [
+      "topic sentence",
+      "paragraph",
+      "main idea"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q006",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Pre-writing Techniques",
+    "subTopic": "Mind Mapping",
+    "difficulty": "Easy",
+    "question": "Which pre-writing technique uses branches to visualize connections between positive and negative aspects of a topic?",
+    "options": [
+      "Freewriting",
+      "Outlining",
+      "Mind mapping",
+      "Storyboarding"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Mind mapping helps visualize connections between ideas using branches, such as when planning the pros and cons of a subject.",
+    "incorrectExplanations": {
+      "A": "Freewriting is unstructured writing to discover insights.",
+      "B": "Outlining is a blueprint showing relationships between topics/sentences.",
+      "C": "Correct. It is a visual/spatial tool for divergent thinking.",
+      "D": "Storyboarding is a visual sequence of scenes, primarily used in film."
+    },
+    "keywords": [
+      "mind mapping",
+      "visualize",
+      "connections"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q007",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing I",
+    "subTopic": "Fundamental Structure",
+    "difficulty": "Easy",
+    "question": "Essays are typically composed of which three key segments?",
+    "options": [
+      "Planning, Drafting, Editing",
+      "Beginning, Middle, End",
+      "Introduction, Body, Conclusion",
+      "Title, Heading, Footer"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The materials state that essays are composed of three key segments: the introduction, the body, and the conclusion.",
+    "incorrectExplanations": {
+      "A": "These are stages of the writing process, not parts of the essay structure.",
+      "B": "While general, the course uses the specific terms Introduction, Body, and Conclusion.",
+      "C": "Correct. This is the three-level structure identified in the text.",
+      "D": "These are formatting elements, not the structural segments of the content."
+    },
+    "keywords": [
+      "essay structure",
+      "introduction",
+      "body",
+      "conclusion"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q008",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Pre-writing Techniques",
+    "subTopic": "Outlining",
+    "difficulty": "Easy",
+    "question": "According to the materials, what is the 'purpose' of creating an outline?",
+    "options": [
+      "To check the final draft for grammatical errors.",
+      "To show at a glance the ideas and how they relate to one another.",
+      "To provide a list of references for a report.",
+      "To increase the word count of the composition."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The purpose of an outline is to show at a glance both the ideas contained and the way in which they are related.",
+    "incorrectExplanations": {
+      "A": "This is a post-writing activity (proofreading/editing).",
+      "B": "Correct. It serves as a blueprint or plan for the essay.",
+      "C": "Citing references is a specific section of a report, not the purpose of an outline.",
+      "D": "Outlining helps organization, not necessarily just length."
+    },
+    "keywords": [
+      "outlining",
+      "blueprint",
+      "relationships"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q009",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Post-writing Activities",
+    "subTopic": "Final Steps",
+    "difficulty": "Easy",
+    "question": "Which activity marks the transition to sharing work with its intended audience?",
+    "options": [
+      "Drafting",
+      "Brainstorming",
+      "Publishing or Submitting",
+      "Peer Review"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Publishing or submitting marks the end of the writing process and the transition to sharing the work with the audience.",
+    "incorrectExplanations": {
+      "A": "Drafting is the creation of the first version, not the final sharing.",
+      "B": "Brainstorming is a pre-writing activity.",
+      "C": "Correct. This is the final stage of the post-writing phase.",
+      "D": "Peer review is an intermediate step to refine the draft before final submission."
+    },
+    "keywords": [
+      "submitting",
+      "publishing",
+      "intended audience"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W4Q010",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Summary Writing",
+    "subTopic": "Steps",
+    "difficulty": "Medium",
+    "question": "During the steps to writing a summary, what is the importance of 'Identifying the Thesis or Main Idea'?",
+    "options": [
+      "It helps the writer decide which font to use.",
+      "It determines the primary argument or message of the text to be condensed.",
+      "It allows the writer to add their own supporting details and examples.",
+      "It is a step only required for report writing, not summaries."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Identifying the thesis or main idea is a specific step in summary writing used to determine the primary argument/message that needs to be represented.",
+    "incorrectExplanations": {
+      "A": "Thesis identification is about content, not visual formatting.",
+      "B": "Correct. You must understand the core message before you can condense it.",
+      "C": "Summaries should summarize the *original* details, not add new ones from the writer.",
+      "D": "Thesis identification is explicitly listed as a step for writing a summary."
+    },
+    "keywords": [
+      "thesis identification",
+      "summary steps",
+      "main idea"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q011",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Letter Writing",
+    "subTopic": "Structure",
+    "difficulty": "Medium",
+    "question": "Based on the 'Letter Sample' provided, which part states the 'reason for writing' immediately after the greeting?",
+    "options": [
+      "The Body Paragraphs",
+      "The Opening Sentence/Introduction",
+      "The Closing Salutation",
+      "The Signature"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The introductory part of a letter should provide a brief introduction stating the purpose or reason for writing.",
+    "incorrectExplanations": {
+      "A": "The body develops the main content in detail, but the intro states the initial reason.",
+      "B": "Correct. It sets the context for the recipient immediately.",
+      "C": "The closing salutation is the 'Yours sincerely' or similar phrase at the end.",
+      "D": "The signature identifies the sender at the very end."
+    },
+    "keywords": [
+      "letter introduction",
+      "purpose",
+      "structure"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q012",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Report Writing",
+    "subTopic": "Sections",
+    "difficulty": "Medium",
+    "question": "In report crafting, what is the specific role of the 'Methodology' section?",
+    "options": [
+      "To suggest actionable recommendations.",
+      "To describe the methods used to gather data, ensuring transparency.",
+      "To cite the sources used in the bibliography.",
+      "To introduce the topic and scope of the investigation."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The methodology section describes the methods used to gather data, ensuring transparency and reliability in the report's process.",
+    "incorrectExplanations": {
+      "A": "Recommendations are a separate final section based on the conclusions.",
+      "B": "Correct. It explains *how* the research was conducted.",
+      "C": "This describes the 'References' or 'Appendices' section.",
+      "D": "This is the role of the Introduction."
+    },
+    "keywords": [
+      "methodology",
+      "data gathering",
+      "report section"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q013",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Pre-writing Techniques",
+    "subTopic": "Freewriting",
+    "difficulty": "Medium",
+    "question": "Why would a novelist choose 'Freewriting' as a pre-writing strategy?",
+    "options": [
+      "To ensure that all grammatical errors are removed before starting.",
+      "To allow unstructured discovery of unexpected details and insights about characters.",
+      "To create a strict, numbered list of plot points.",
+      "To format the manuscript for a publishing house."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Freewriting is described as an unstructured writing process that allows writers to discover unexpected details and insights.",
+    "incorrectExplanations": {
+      "A": "Freewriting ignores grammar/punctuation to focus on the flow of ideas.",
+      "B": "Correct. It is an exploration tool for backstories or motivations.",
+      "C": "This describes 'Outlining' or 'Listing', which are more structured.",
+      "D": "Manuscript formatting is a post-writing activity."
+    },
+    "keywords": [
+      "freewriting",
+      "unstructured",
+      "discovery"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q014",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Paragraph Structure",
+    "subTopic": "Unity",
+    "difficulty": "Medium",
+    "question": "Achieving 'Unity' in a paragraph specifically requires that:",
+    "options": [
+      "The paragraph contains at least five different ideas.",
+      "All sentences are properly linked by transitional words.",
+      "The paragraph is constructed around a single main idea or topic sentence.",
+      "The writer uses complex vocabulary to unify the tone."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Unity means that the paragraph discusses one main idea and that every sentence contributes to its development.",
+    "incorrectExplanations": {
+      "A": "A paragraph should focus on one idea at a time to maintain unity.",
+      "B": "Linking sentences describes 'Coherence', not necessarily 'Unity'.",
+      "C": "Correct. It is the cohesive focus on a single subject.",
+      "D": "Vocabulary choice affects style and clarity, but unity is a structural quality of idea focus."
+    },
+    "keywords": [
+      "unity",
+      "main idea",
+      "paragraph quality"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q015",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing I",
+    "subTopic": "Comparison",
+    "difficulty": "Medium",
+    "question": "Differentiate between Narrative and Descriptive essays based on the summary provided in Source 23849.",
+    "options": [
+      "Narrative uses facts; Descriptive uses logic.",
+      "Narrative focuses on chronological storytelling; Descriptive focuses on sensory details.",
+      "Narrative is only for business; Descriptive is only for poetry.",
+      "There is no difference; they are alternative names for the same style."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Narrative essays present events chronologically for storytelling, while descriptive essays use sensory language to create mental images.",
+    "incorrectExplanations": {
+      "A": "These definitions do not capture the core distinction of time vs. imagery.",
+      "B": "Correct. One follows a sequence; the other focuses on appearance/qualities.",
+      "C": "Both are general essay types used in various contexts.",
+      "D": "The summary identifies them as 'distinct approaches to communication'."
+    },
+    "keywords": [
+      "narrative",
+      "descriptive",
+      "storytelling",
+      "sensory"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W4Q016",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Post-writing Activities",
+    "subTopic": "Editing vs Proofreading",
+    "difficulty": "Medium",
+    "question": "A writer correcting typographical errors, misspellings, and punctuation mistakes is primarily performing which task?",
+    "options": [
+      "Outlining",
+      "Drafting",
+      "Proofreading",
+      "Peer Review"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Proofreading specifically focuses on catching typographical errors, misspellings, or punctuation mistakes to ensure a polished product.",
+    "incorrectExplanations": {
+      "A": "Outlining happens before the draft.",
+      "B": "Drafting is the creation of the text.",
+      "C": "Correct. It is the 'meticulous review' for surface-level mechanical errors.",
+      "D": "Peer review is for general feedback on ideas and arguments from others."
+    },
+    "keywords": [
+      "proofreading",
+      "errors",
+      "spelling"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q017",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing I",
+    "subTopic": "Descriptive Guidelines",
+    "difficulty": "Medium",
+    "question": "Which of the following is a key guideline for 'Effective Description' according to the text?",
+    "options": [
+      "Avoid sensory details to keep the writing objective.",
+      "Use figurative language and analogy to make images more striking.",
+      "Present the description in a random, non-discernible pattern.",
+      "Use only one word to describe every object for consistency."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Guidelines for description include being creative, using figurative language, and using analogy to describe qualities.",
+    "incorrectExplanations": {
+      "A": "Description *requires* sensory details to be immersive.",
+      "B": "Correct. These tools enhance the vividness of the description.",
+      "C": "Description should follow a discernible pattern (e.g., left to right, inside to outside).",
+      "D": "Varying vocabulary and providing detail is preferred over repetition."
+    },
+    "keywords": [
+      "descriptive essay",
+      "figurative language",
+      "analogy"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W4Q018",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative vs Persuasive",
+    "difficulty": "Medium",
+    "question": "How does 'Argumentative writing' differ from 'Persuasive writing' in its approach?",
+    "options": [
+      "Argumentative writing uses logic and evidence; Persuasive writing uses passionate emotional appeals.",
+      "Argumentative writing is for friends; Persuasive writing is for the government.",
+      "Argumentative writing is always informal; Persuasive writing is always formal.",
+      "There is no difference; both are based entirely on personal feelings."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Argumentative writing makes its case through logic, reasoning, facts, and evidence, while persuasive writing woos the audience’s emotion.",
+    "incorrectExplanations": {
+      "A": "Correct. One is objective/evidence-based; the other is more subjective/emotional.",
+      "B": "Both types can be used for any audience depending on the goal.",
+      "C": "Formality is determined by the genre/context, not the rhetorical mode.",
+      "D": "The course notes that although similar, they diverge in their strategies."
+    },
+    "keywords": [
+      "argumentative",
+      "persuasive",
+      "logic",
+      "emotion"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W4Q019",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Summary Writing",
+    "subTopic": "Technique Analysis",
+    "difficulty": "Hard",
+    "question": "Analyze the instruction: 'Eliminate Unnecessary Details' in summary writing. When should examples or minor details *not* be omitted?",
+    "options": [
+      "When the summary needs to be at least five pages long.",
+      "When they are crucial to the understanding of the main idea.",
+      "When the original text contains no other information.",
+      "When the writer wants to prove they have read the whole text."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state to omit minor details and examples 'unless they are crucial to the main idea'.",
+    "incorrectExplanations": {
+      "A": "A summary is by definition 'condensed' and not meant to meet a long length requirement by adding back details.",
+      "B": "Correct. Essential supporting evidence must remain if the main idea is otherwise unclear.",
+      "C": "If the original has no other info, that detail *is* the main idea.",
+      "D": "Proving one's reading effort is a superficial reason that conflicts with the goal of brevity."
+    },
+    "keywords": [
+      "summary technique",
+      "omission",
+      "crucial details"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W4Q020",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Letter Writing",
+    "subTopic": "Tone and Intent",
+    "difficulty": "Hard",
+    "question": "In letter writing, why is Source 10161's comparison of the process to 'sculpting' significant for the student writer?",
+    "options": [
+      "It implies that letters must be carved into stone to be permanent.",
+      "It suggests that words are tools used to shape the writer's intent and tone.",
+      "It means that letters should always describe physical art pieces.",
+      "It indicates that letters cannot be changed once the first sentence is written."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states: 'Letter writing is a creative process, akin to sculpting, where words are the sculpting tools shaping intent.'",
+    "incorrectExplanations": {
+      "A": "The metaphor is about the creative process, not the physical medium.",
+      "B": "Correct. It emphasizes the deliberate use of language to project meaning.",
+      "C": "The metaphor describes the *act* of writing, not the subject matter.",
+      "D": "The text encourages revision and polishing, much like refining a sculpture."
+    },
+    "keywords": [
+      "sculpting metaphor",
+      "intent",
+      "tone"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W4Q021",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Report Writing",
+    "subTopic": "Structure Analysis",
+    "difficulty": "Hard",
+    "question": "When a report writer is instructed to 'Draw Conclusions', what specifically must these conclusions be based on?",
+    "options": [
+      "Personal feelings about the topic.",
+      "The analysis of the main findings and supporting evidence presented.",
+      "New data not previously mentioned in the methodology.",
+      "A summary of what other authors have said in unrelated reports."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The report steps state: 'Summarize the key findings and draw conclusions based on the analysis'.",
+    "incorrectExplanations": {
+      "A": "Formal reports should be based on objective analysis, not subjective feelings.",
+      "B": "Correct. There must be a logical link between presented data and the resulting conclusions.",
+      "C": "Conclusions should not introduce entirely new data that hasn't been analyzed.",
+      "D": "Conclusions must be specific to the 'specific topic or issue' of that particular report."
+    },
+    "keywords": [
+      "conclusions",
+      "analysis",
+      "report findings"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W4Q022",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Paragraph Structure",
+    "subTopic": "Coherence Analysis",
+    "difficulty": "Hard",
+    "question": "Examine the following revised paragraph from Source 10857: 'In the morning, I woke up early... With a satisfied appetite and a clear mind, I headed to the park...' What makes this paragraph 'Coherent' according to the course's definition?",
+    "options": [
+      "The use of big words like 'solace' and 'neighborhood'.",
+      "The smooth progression of thoughts and the use of transitional markers of time and state.",
+      "The fact that it mentions three different locations (home, park, sky).",
+      "The repetition of the word 'I' in every sentence."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Coherence means smooth progression of thoughts. The example uses time markers ('In the morning', 'After my run') to link ideas logically.",
+    "incorrectExplanations": {
+      "A": "Vocabulary difficulty does not create coherence; flow does.",
+      "B": "Correct. The thoughts are properly linked so the reader can follow the development.",
+      "C": "Multiple locations can actually break unity if they aren't linked well.",
+      "D": "Repetition can be a stylistic choice, but coherence is defined by the logical link between sentences."
+    },
+    "keywords": [
+      "coherence",
+      "smooth progression",
+      "transitional markers"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W4Q023",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Pre-writing Techniques",
+    "subTopic": "Outlining and Blueprints",
+    "difficulty": "Hard",
+    "question": "The materials describe an outline as a 'blueprint' for an essay. What is the logical consequence of skipping this 'blueprint' stage?",
+    "options": [
+      "The writer will have more creative freedom to wander off-topic.",
+      "The relationships between ideas may become muddled and the structure may lack organization.",
+      "The essay will automatically be more concise because there is no plan.",
+      "The publishing house will reject the essay because of the font size."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "An outline serves as a blueprint to 'see the relationships between ideas' and 'organize thoughts'. Without it, the structural logic is at risk.",
+    "incorrectExplanations": {
+      "A": "Wandering off-topic is a violation of 'Unity' and is a negative consequence.",
+      "B": "Correct. Organization and clarity depend on pre-planning the framework.",
+      "C": "Conciseness is a result of purposeful condensing, not lack of planning.",
+      "D": "Outlining is a cognitive/planning stage; font size is a late formatting detail."
+    },
+    "keywords": [
+      "outlining",
+      "blueprint",
+      "organization"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W4Q024",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing II",
+    "subTopic": "Argumentative Logic",
+    "difficulty": "Hard",
+    "question": "In 'Argumentative writing', what is the specific requirement for handling 'Opposing Views'?",
+    "options": [
+      "Ignore them entirely to make your own point stronger.",
+      "Include them only if you agree with them.",
+      "Acknowledge them and counter them with stronger points to increase credibility.",
+      "State that they are wrong without providing any proof."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text states: '...addressing opposing viewpoints and counter them with stronger points. This will make your argument more credible.'",
+    "incorrectExplanations": {
+      "A": "Ignoring opposing views makes an argument weak/one-sided.",
+      "B": "The point of 'countering' is to address views you *disagree* with.",
+      "C": "Correct. This is a strategy for 'Effective Argument'.",
+      "D": "Argumentative writing requires logic, facts, and evidence, not just assertions."
+    },
+    "keywords": [
+      "argumentative essay",
+      "opposing views",
+      "credibility"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W4Q025",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing II",
+    "subTopic": "Expository Types",
+    "difficulty": "Hard",
+    "question": "A student writing an expository essay on 'How to Prepare a Budget' must ensure that each paragraph is developed in which way?",
+    "options": [
+      "In a definite space sequence starting from the bank to the home.",
+      "In a definite time sequence following an exact order of steps.",
+      "By using only emotional appeals to encourage saving money.",
+      "By comparing the budget to a fictional character's spending habits."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "For an essay explaining a process (like a budget), steps must be presented in order so an exact sequence is followed, using time sequence words.",
+    "incorrectExplanations": {
+      "A": "Space sequence is for describing physical settings; process is time-based.",
+      "B": "Correct. Clarity in a process depends on the chronological order of steps.",
+      "C": "Expository essays aim to explain/inform with clarity, not to use emotional persuasion.",
+      "D": "Comparison/Contrast is a different type of expository topic than explaining a process."
+    },
+    "keywords": [
+      "expository essay",
+      "process",
+      "time sequence"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W4Q026",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Post-writing Activities",
+    "subTopic": "Refining Work",
+    "difficulty": "Hard",
+    "question": "Beyond basic grammar checks, what does Source 11276 identify as a key goal of 'Macro-structure' refinement?",
+    "options": [
+      "Eliminating every adjective in the text.",
+      "Ensuring logical flow and coherence between paragraphs.",
+      "Reducing the number of paragraphs to exactly three.",
+      "Adding more complex symbols to represent emotions."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Refining the macro-structure involves ensuring logical flow, coherence between paragraphs, and a well-constructed argumentative structure.",
+    "incorrectExplanations": {
+      "A": "Refinement is about 'concise and precise expression', not the total removal of modifiers.",
+      "B": "Correct. It looks at the organization and connection of the larger parts of the text.",
+      "C": "The number of paragraphs depends on the ideas developed, not a fixed count.",
+      "D": "Writing uses standard symbols (alphabets/punctuation) in a structured manner; adding 'complex symbols' is not listed."
+    },
+    "keywords": [
+      "macro-structure",
+      "logical flow",
+      "coherence"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W4Q027",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Post-writing Activities",
+    "subTopic": "Peer Review",
+    "difficulty": "Hard",
+    "question": "What unique 'insight' does the 'Peer Review' process offer that individual editing might miss?",
+    "options": [
+      "Confirmation that the writer is already perfect.",
+      "Valuable perspectives on the clarity of ideas and the strength of arguments from a reader's point of view.",
+      "Automatic correction of all spelling errors by the other student.",
+      "The ability to change the topic of the essay after it is finished."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Peer review provides valuable insights into the clarity of ideas and the strength of arguments through feedback from others.",
+    "incorrectExplanations": {
+      "A": "The goal is 'refinement' and 'improvement', implying work is not yet perfect.",
+      "B": "Correct. It allows the writer to see how their message is received by another person.",
+      "C": "While peers can point out errors, 'automatic' correction is not the purpose; constructive feedback is.",
+      "D": "The topic is chosen in the pre-writing phase; changing it after a draft is inefficient."
+    },
+    "keywords": [
+      "peer review",
+      "feedback",
+      "clarity"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W4Q028",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing I",
+    "subTopic": "Sensory Details",
+    "difficulty": "Hard",
+    "question": "Analyze the notes for 'Tuna Creole' vs 'Chinese New Year'. Why are sensory details like 'Damp morning' or 'tangy tea' more appropriate for the latter?",
+    "options": [
+      "Because Tuna Creole is a process, whereas Chinese New Year is a descriptive journal entry.",
+      "Because Tuna Creole is not a real food.",
+      "Because sensory details are only allowed in reports.",
+      "Because descriptive essays must avoid chronological order."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Tuna Creole is an example of an 'explanatory process' (chronological steps). The Chinese New Year notes are for a 'journal entry' focusing on 'sensory details' (description).",
+    "incorrectExplanations": {
+      "A": "Correct. The purpose of the writing determines the emphasis (process vs. atmosphere).",
+      "B": "Tuna Creole is used as a real example of a recipe process.",
+      "C": "Sensory details are primarily for descriptive writing, not reports.",
+      "D": "While description focuses on qualities, narrative/chronology can still be part of a larger descriptive piece; it's not 'forbidden'."
+    },
+    "keywords": [
+      "sensory details",
+      "process vs description",
+      "context"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W4Q029",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Paragraph Structure",
+    "subTopic": "Advanced Refinement",
+    "difficulty": "Hard",
+    "question": "Source 23849 suggests varying sentence length and structure to improve paragraphs. What is the intended effect of 'throwing in a two- or three-word sentence'?",
+    "options": [
+      "To make the paragraph look more symmetric on the page.",
+      "To break up a series of longer sentences and emphasize a specific point.",
+      "To show that the writer has run out of things to say.",
+      "To confuse the reader into thinking the paragraph is over."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states: 'Throw in a two- or three-word sentence to break up a series of longer ones, particularly if you have something you wish to emphasize.'",
+    "incorrectExplanations": {
+      "A": "Paragraph refinement is about rhythm and emphasis, not visual symmetry.",
+      "B": "Correct. Variety in length keeps the reader engaged and highlights key ideas.",
+      "C": "Brevity can be a powerful tool for emphasis, not necessarily a sign of lack of ideas.",
+      "D": "The goal is clarity and flow, not confusion."
+    },
+    "keywords": [
+      "sentence length",
+      "emphasis",
+      "paragraph variety"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W4Q030",
+    "week": 4,
+    "weekTitle": "Writing Activities I",
+    "topic": "Essay Writing II",
+    "subTopic": "Revision Checklist",
+    "difficulty": "Hard",
+    "question": "A writer completing an argumentative essay uses a 'Revision Content' checklist. Which question best evaluates the 'Argumentative' success of the essay?",
+    "options": [
+      "Are there enough pictures and graphs?",
+      "Is the argument grounded in facts and evidence with proof?",
+      "Is every word spelled correctly?",
+      "Does the essay avoid a concluding summary?"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Argumentative writing must be 'grounded in facts, evidence with proof... to ensure it convinces the reader'. This is the core success metric.",
+    "incorrectExplanations": {
+      "A": "Visual aids are optional/supportive for reports but not the core of an argumentative logic.",
+      "B": "Correct. Credibility and logic are the foundations of effective arguments.",
+      "C": "Spelling is a mechanical check (Proofreading), not a 'Content' check for the argument's validity.",
+      "D": "Effective essays *should* have a concluding part that wraps up the discussion."
+    },
+    "keywords": [
+      "revision checklist",
+      "argumentative writing",
+      "evidence"
+    ],
+    "estimatedTime": 55
+  }
+]

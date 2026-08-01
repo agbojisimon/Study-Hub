@@ -1,0 +1,886 @@
+[
+  {
+    "id": "W3Q001",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Nouns",
+    "difficulty": "Easy",
+    "question": "In the sentence 'Love, freedom, and courage are essential,' which type of noun is being demonstrated according to the course categories?",
+    "options": [
+      "Person",
+      "Place",
+      "Thing",
+      "Idea"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The course materials specifically list 'Love, freedom, courage' as examples of nouns that represent an idea.",
+    "incorrectExplanations": {
+      "A": "These nouns do not refer to individuals or groups of people.",
+      "B": "These nouns do not refer to geographical locations.",
+      "C": "These nouns do not refer to physical objects.",
+      "D": "Correct. They represent abstract concepts or ideas."
+    },
+    "keywords": [
+      "noun",
+      "idea",
+      "abstract"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q002",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Pronouns",
+    "difficulty": "Easy",
+    "question": "Which of the following is the fundamental definition of a 'Pronoun' provided in the materials?",
+    "options": [
+      "A word that expresses an action.",
+      "A word that takes the place of a noun.",
+      "A word that modifies an adjective.",
+      "A word that shows a relationship between words."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials define a pronoun as a word that takes the place of a noun in a sentence.",
+    "incorrectExplanations": {
+      "A": "This is the definition of a verb.",
+      "B": "Correct. Pronouns function as noun substitutes.",
+      "C": "This is the definition of an adverb.",
+      "D": "This is the definition of a preposition."
+    },
+    "keywords": [
+      "pronoun",
+      "definition"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q003",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Verbs",
+    "difficulty": "Easy",
+    "question": "Based on the course examples, which of the following are classified as 'State of Being' verbs?",
+    "options": [
+      "Run, eat, write",
+      "Am, is, are, was, were",
+      "Quickly, gracefully",
+      "Although, because"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials distinguish between action verbs (run, eat) and state of being verbs (am, is, are, was, were).",
+    "incorrectExplanations": {
+      "A": "These are action verbs.",
+      "B": "Correct. These indicate a state of existence rather than a physical action.",
+      "C": "These are adverbs.",
+      "D": "These are subordinating conjunctions."
+    },
+    "keywords": [
+      "verbs",
+      "state of being"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q004",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Adverbs",
+    "difficulty": "Easy",
+    "question": "An adverb is defined as a word that can modify which of the following groups?",
+    "options": [
+      "Nouns and Pronouns",
+      "Prepositions and Conjunctions",
+      "Verbs, Adjectives, or another Adverb",
+      "Only physical actions"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The material states that an adverb modifies a verb, adjective, or another adverb.",
+    "incorrectExplanations": {
+      "A": "Nouns and pronouns are modified by adjectives.",
+      "B": "Adverbs do not typically modify these structural word classes.",
+      "C": "Correct. This follows the provided definition.",
+      "D": "Adverbs can also modify qualities (adjectives) and other adverbs."
+    },
+    "keywords": [
+      "adverb",
+      "modification"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q005",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Prepositions",
+    "difficulty": "Easy",
+    "question": "What is the role of a 'Preposition' in a sentence?",
+    "options": [
+      "To connect clauses",
+      "To show the relationship between a noun or pronoun and other words",
+      "To express strong emotion",
+      "To replace a proper noun"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A preposition shows the relationship between a noun or pronoun and other words in a sentence.",
+    "incorrectExplanations": {
+      "A": "This is the role of a conjunction.",
+      "B": "Correct. It indicates relationships like position or time.",
+      "C": "This is the role of an interjection.",
+      "D": "This is the role of a pronoun."
+    },
+    "keywords": [
+      "preposition",
+      "relationship"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q006",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Function Words",
+    "difficulty": "Easy",
+    "question": "Which of the following is another term used in the course for 'Function Words'?",
+    "options": [
+      "Lexical words",
+      "Content words",
+      "Structure words",
+      "Descriptive words"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Function words are also known as grammatical words or structure words.",
+    "incorrectExplanations": {
+      "A": "Lexical words is a synonym for content words.",
+      "B": "Content words are the opposite category of function words.",
+      "C": "Correct. This term highlights their role in building sentence structure.",
+      "D": "Descriptive words usually refer to adjectives/adverbs (content words)."
+    },
+    "keywords": [
+      "function words",
+      "structure words"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q007",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Content Words",
+    "difficulty": "Easy",
+    "question": "Content words are characterized by which of the following features?",
+    "options": [
+      "They have little or no meaning on their own.",
+      "They carry the main meaning in a sentence.",
+      "They are always non-stressed in speech.",
+      "They consist only of articles and prepositions."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Content words, also referred to as lexical words, carry the main meaning in a sentence.",
+    "incorrectExplanations": {
+      "A": "This describes function words.",
+      "B": "Correct. They convey real-world or abstract entities and actions.",
+      "C": "Content words are typically accentuated or stressed in speech.",
+      "D": "Articles and prepositions are function words."
+    },
+    "keywords": [
+      "content words",
+      "meaning"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q008",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Statistics",
+    "difficulty": "Easy",
+    "question": "According to James Pennebaker, function words make up approximately what percentage of the words we use?",
+    "options": [
+      "10 percent",
+      "30 percent",
+      "60 percent",
+      "90 percent"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text quotes Pennebaker stating that function words make up almost 60 percent of the words you use.",
+    "incorrectExplanations": {
+      "A": "The text says they account for less than one-tenth of 1 percent of vocabulary, not usage.",
+      "B": "This is incorrect based on the text.",
+      "C": "Correct. They are high-frequency words in usage.",
+      "D": "This is an overestimation based on the provided text."
+    },
+    "keywords": [
+      "Pennebaker",
+      "function words",
+      "statistics"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q009",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Reasoning",
+    "difficulty": "Easy",
+    "question": "What is the primary method used in 'Inductive Reasoning'?",
+    "options": [
+      "Using mathematical proofs for absolute certainty.",
+      "Looking for patterns to draw probable conclusions.",
+      "Denying the consequent to prove a fact.",
+      "Relying solely on interjections to express logic."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In inductive reasoning, the method is to look for patterns to draw conclusions or make a generalization.",
+    "incorrectExplanations": {
+      "A": "Mathematical proofs are associated with deductive reasoning.",
+      "B": "Correct. Induction moves from specific observations to probable conclusions.",
+      "C": "This describes Modus Tollens, a deductive argument form.",
+      "D": "Interjections are for emotions, not logical reasoning."
+    },
+    "keywords": [
+      "inductive reasoning",
+      "patterns",
+      "probability"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W3Q010",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Conjunctions",
+    "difficulty": "Medium",
+    "question": "Which of the following contains only 'Subordinating Conjunctions' according to the course materials?",
+    "options": [
+      "And, but, or, for",
+      "Although, because, if, while",
+      "Nor, so, yet",
+      "In, on, under, between"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The course lists 'Although, because, if, while' as specific examples of subordinating conjunctions.",
+    "incorrectExplanations": {
+      "A": "These are coordinating conjunctions.",
+      "B": "Correct. These are used to connect subordinate clauses to main clauses.",
+      "C": "These are coordinating conjunctions.",
+      "D": "These are prepositions."
+    },
+    "keywords": [
+      "subordinating conjunctions",
+      "grammar"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W3Q011",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Pronouns",
+    "difficulty": "Medium",
+    "question": "Categorize 'This' and 'Those' based on the specific pronoun types listed in the text.",
+    "options": [
+      "Personal Pronouns",
+      "Possessive Pronouns",
+      "Demonstrative Pronouns",
+      "Relative Pronouns"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text lists 'This, that, these, those' under the category of Demonstrative Pronouns.",
+    "incorrectExplanations": {
+      "A": "Personal pronouns include I, you, he, she, etc.",
+      "B": "Possessive pronouns include mine, yours, his, etc.",
+      "C": "Correct. They are used to point out specific items.",
+      "D": "Relative pronouns are not explicitly categorized in this specific source overview."
+    },
+    "keywords": [
+      "demonstrative pronouns",
+      "pronoun types"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W3Q012",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Pronunciation",
+    "difficulty": "Medium",
+    "question": "How does familiarity with the content vs. function word distinction refine pronunciation skills?",
+    "options": [
+      "By ensuring function words are spoken more loudly.",
+      "By emphasizing content words while function words remain non-stressed.",
+      "By eliminating all function words from spoken sentences.",
+      "By pronouncing every word in a sentence with the same force."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The material states that emphasis in English conversation is placed on content words, while function words remain non-stressed.",
+    "incorrectExplanations": {
+      "A": "Function words are non-stressed, meaning they are usually quieter or shorter.",
+      "B": "Correct. This creates the natural rhythm of English speech.",
+      "C": "Function words are necessary for grammar; they are not eliminated.",
+      "D": "English is a stress-timed language where not every word has equal force."
+    },
+    "keywords": [
+      "pronunciation",
+      "stress",
+      "word classes"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W3Q013",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Deductive Structure",
+    "difficulty": "Medium",
+    "question": "Examine this structure: 'All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.' What is the technical term for this deductive form?",
+    "options": [
+      "Modus Ponens",
+      "Modus Tollens",
+      "Categorical Syllogism",
+      "Causal Inference"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The material identifies the Socrates example as a classic example of a categorical syllogism.",
+    "incorrectExplanations": {
+      "A": "Modus Ponens is a conditional 'If-Then' argument.",
+      "B": "Modus Tollens is a deductive argument that denies the consequent.",
+      "C": "Correct. It links categories (humans, mortals) to a specific individual.",
+      "D": "Causal inference is a type of inductive reasoning."
+    },
+    "keywords": [
+      "syllogism",
+      "deduction",
+      "Socrates"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W3Q014",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Conclusion Probability",
+    "difficulty": "Medium",
+    "question": "Which statement best describes the 'Certainty of Conclusions' in inductive vs. deductive reasoning?",
+    "options": [
+      "Both provide absolute certainty if the premises are true.",
+      "Deduction provides probable outcomes, while induction provides guaranteed facts.",
+      "Deduction provides certain conclusions (if valid/true), while induction provides likely or probable conclusions.",
+      "Neither provides certainty; all reasoning is based on 70% probability."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Deductive conclusions are certain when valid and premises are true, while inductive reasoning provides likely or probable conclusions.",
+    "incorrectExplanations": {
+      "A": "Inductive reasoning never provides absolute logical certainty.",
+      "B": "These definitions are reversed.",
+      "C": "Correct. This captures the fundamental distinction in logical strength.",
+      "D": "Only statistical inductive reasoning was cited with a percentage (70%) in the example."
+    },
+    "keywords": [
+      "certainty",
+      "probability",
+      "logic"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q015",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Modus Ponens",
+    "difficulty": "Medium",
+    "question": "In the Modus Ponens example 'If it’s raining, then the ground is wet,' what does 'it is raining' represent?",
+    "options": [
+      "The Consequent",
+      "The Antecedent",
+      "The General Conclusion",
+      "An Inductive Pattern"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Modus Ponens involves affirming the antecedent (the 'if' part of a conditional statement).",
+    "incorrectExplanations": {
+      "A": "The consequent is the 'then' part (the ground is wet).",
+      "B": "Correct. It is the condition that, when met, leads to the conclusion.",
+      "C": "The conclusion is 'the ground is wet.'",
+      "D": "Modus Ponens is a deductive, not inductive, form."
+    },
+    "keywords": [
+      "Modus Ponens",
+      "antecedent"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q016",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Qualifiers",
+    "difficulty": "Medium",
+    "question": "Which of the following sets contains words classified as 'Qualifiers' in the function words category?",
+    "options": [
+      "Who, Why, Where",
+      "Can, Could, May",
+      "Very, Too, Much",
+      "But, Although, Since"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The material lists 'Very, Too, Much, Quite, Somewhat' as examples of Qualifiers.",
+    "incorrectExplanations": {
+      "A": "These are question words.",
+      "B": "These are modals.",
+      "C": "Correct. They clarify or limit the degree of another word.",
+      "D": "These are conjunctions."
+    },
+    "keywords": [
+      "qualifiers",
+      "function words"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W3Q017",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Types",
+    "difficulty": "Medium",
+    "question": "A student observes that many people wear sunglasses on sunny days and concludes that 'People generally wear sunglasses on sunny days.' Which inductive reasoning type is this?",
+    "options": [
+      "Statistical Reasoning",
+      "Analogical Reasoning",
+      "Generalization",
+      "Modus Tollens"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Generalization is making a broad statement about a group or category based on specific observations.",
+    "incorrectExplanations": {
+      "A": "Statistical reasoning requires probability data (like 70% chance).",
+      "B": "Analogical reasoning compares two different situations or objects.",
+      "C": "Correct. The broad conclusion is based on multiple individual instances.",
+      "D": "Modus Tollens is a deductive logic form, not inductive."
+    },
+    "keywords": [
+      "generalization",
+      "inductive reasoning"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W3Q018",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Analysis",
+    "difficulty": "Medium",
+    "question": "In the course's library sentence example, which of the following words are identified specifically as pronouns?",
+    "options": [
+      "Library, novel, literature",
+      "Reading, explore, lost",
+      "She, he, this, his, they",
+      "Favorite, intriguing, captivating"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text lists 'She, he, this, his, they' as the pronouns in the provided sentence example about the library.",
+    "incorrectExplanations": {
+      "A": "These are nouns.",
+      "B": "These are verbs.",
+      "C": "Correct. They replace noun phrases or names.",
+      "D": "These are adjectives."
+    },
+    "keywords": [
+      "pronoun identification",
+      "sentence analysis"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W3Q019",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Deduction Criteria",
+    "difficulty": "Hard",
+    "question": "According to the materials, what two criteria must a deductive argument meet to be considered both valid and sound?",
+    "options": [
+      "The conclusion must be likely, and the patterns must be consistent.",
+      "The conclusion must follow logically from the premises, and the premises must be true.",
+      "The argument must use statistical data, and the sample size must be large.",
+      "The argument must affirm the antecedent and deny the consequent simultaneously."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A deductive argument is valid if the conclusion follows logically, and sound if the premises are also true.",
+    "incorrectExplanations": {
+      "A": "This describes the strength of an inductive argument.",
+      "B": "Correct. Validity is about structure; soundness is about truth.",
+      "C": "This relates to inductive statistical reasoning.",
+      "D": "Affirming antecedent is Modus Ponens; denying consequent is Modus Tollens. They are different structures."
+    },
+    "keywords": [
+      "validity",
+      "soundness",
+      "deductive reasoning"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W3Q020",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Modus Tollens",
+    "difficulty": "Hard",
+    "question": "Analyze the following: 'If it’s raining, the ground is wet. The ground is not wet. Therefore, it’s not raining.' This logic follows which pattern?",
+    "options": [
+      "If A, then B; A; therefore B",
+      "If A, then B; Not B; therefore Not A",
+      "My swan is white; Every observed swan is white; All swans are white",
+      "Premise 1 + Premise 2 = Probable Outbreak"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "This follows the pattern of Modus Tollens, which denies the consequent (Not B) to lead to the denial of the antecedent (Not A).",
+    "incorrectExplanations": {
+      "A": "This is Modus Ponens (affirming the antecedent).",
+      "B": "Correct. This is the structural representation of Modus Tollens.",
+      "C": "This is an example of inductive generalization.",
+      "D": "This is an example of inductive prediction/statistical reasoning."
+    },
+    "keywords": [
+      "Modus Tollens",
+      "logical pattern"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W3Q021",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Limitations",
+    "difficulty": "Hard",
+    "question": "Which of the following is NOT identified as a potential limitation or weakness of inductive reasoning in the text?",
+    "options": [
+      "Possibility of sampling bias",
+      "Reliance on incomplete data",
+      "Potential for coincidental patterns",
+      "The conclusion following necessarily from the premises"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The conclusion following necessarily from the premises is a characteristic of deductive reasoning, not a limitation of inductive reasoning.",
+    "incorrectExplanations": {
+      "A": "This is explicitly listed as a limitation of induction.",
+      "B": "This is explicitly listed as a limitation of induction.",
+      "C": "This is explicitly listed as a limitation of induction.",
+      "D": "Correct. This is the definition of a valid deductive conclusion."
+    },
+    "keywords": [
+      "inductive limitations",
+      "weaknesses"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q022",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Content Words",
+    "difficulty": "Hard",
+    "question": "How do content words contribute to the semantic role of a sentence compared to function words?",
+    "options": [
+      "They provide the structural skeleton but no specific information.",
+      "They carry information about real-world or abstract entities, actions, and qualities.",
+      "They only clarify the relationships between other content words.",
+      "They are 'empty words' that exist only to fill space in usage statistics."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Content words convey information about entities, actions, qualities, or relationships in the real or abstract world.",
+    "incorrectExplanations": {
+      "A": "This describes function words.",
+      "B": "Correct. They provide the 'lexical' meat of the sentence.",
+      "C": "Function words clarify relationships between content words.",
+      "D": "Function words are the ones sometimes called 'empty words'."
+    },
+    "keywords": [
+      "content words",
+      "semantics",
+      "meaning"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W3Q023",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Classification",
+    "difficulty": "Hard",
+    "question": "Which group of parts of speech entirely falls under the 'Function Words' category?",
+    "options": [
+      "Nouns, Verbs, Adjectives, Adverbs",
+      "Conjunctions, Prepositions, Articles, Pronouns",
+      "Modals, Nouns, Auxiliary verbs, Qualifiers",
+      "Interjections, Adverbs, Prepositions, Conjunctions"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials list conjunctions, auxiliary verbs, prepositions, articles, and pronouns as function words.",
+    "incorrectExplanations": {
+      "A": "These are all content words.",
+      "B": "Correct. Every item in this list is structural/grammatical.",
+      "C": "Nouns are content words.",
+      "D": "Adverbs are content words."
+    },
+    "keywords": [
+      "function words",
+      "parts of speech"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q024",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Analogical vs Statistical",
+    "difficulty": "Hard",
+    "question": "A logic problem states: 'Since whales and dolphins share similar physiological traits, and dolphins are highly social, whales are likely social too.' What type of reasoning is used?",
+    "options": [
+      "Statistical Reasoning",
+      "Analogical Reasoning",
+      "Modus Ponens",
+      "Categorical Syllogism"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Analogical reasoning draws conclusions based on similarities between different objects or situations.",
+    "incorrectExplanations": {
+      "A": "No statistical probability data was used.",
+      "B": "Correct. It uses the shared traits as an analogy for shared behavior.",
+      "C": "It is not a conditional 'If-then' deductive argument.",
+      "D": "It does not establish a necessary logical category link."
+    },
+    "keywords": [
+      "analogical reasoning",
+      "logic"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W3Q025",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Parts of Speech",
+    "subTopic": "Syntactic Analysis",
+    "difficulty": "Hard",
+    "question": "Analyze this sentence from Source 6: 'Although Mary... always dreamed... she found solace...' Identify the conjunction and the verb 'found' according to the course categories.",
+    "options": [
+      "Subordinating Conjunction and Action Verb",
+      "Coordinating Conjunction and State of Being Verb",
+      "Preposition and Action Verb",
+      "Subordinating Conjunction and State of Being Verb"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "'Although' is a subordinating conjunction, and 'found' represents an action performed by the subject (Mary/she).",
+    "incorrectExplanations": {
+      "A": "Correct. This accurately identifies the specific grammatical roles.",
+      "B": "'Although' is not coordinating (like 'and, but').",
+      "C": "'Although' is not a preposition.",
+      "D": "'Found' is an action verb in this context, not a state of being like 'is' or 'was'."
+    },
+    "keywords": [
+      "syntactic structure",
+      "analysis",
+      "conjunctions"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W3Q026",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Case Study Analysis",
+    "difficulty": "Hard",
+    "question": "In the case study about mosquito activity and disease outbreaks, why is the conclusion 'likely' rather than 'certain'?",
+    "options": [
+      "Because the logic follows a Modus Tollens pattern.",
+      "Because it is an inductive prediction based on past patterns, which doesn't guarantee future events.",
+      "Because the statistics used were less than 70%.",
+      "Because mosquito activity is a content word, while disease is a function word."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text explains this as an example of inductive reasoning where conclusions are probable/likely based on patterns, not guaranteed.",
+    "incorrectExplanations": {
+      "A": "Modus Tollens is deductive and would lead to certainty if premises were true.",
+      "B": "Correct. Past correlations do not create logical necessity for the future.",
+      "C": "The text does not assign a specific percentage to the mosquito case.",
+      "D": "This is a misuse of word class terminology; both are content words (nouns)."
+    },
+    "keywords": [
+      "inductive reasoning",
+      "prediction",
+      "probability"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W3Q027",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Function Words",
+    "difficulty": "Hard",
+    "question": "Which list strictly contains 'Modals' and 'Question Words' that fall under the function word category?",
+    "options": [
+      "Can, Should, Will; Who, Why, Which",
+      "Am, Is, Was; A, An, The",
+      "Very, Too, Much; And, But, If",
+      "Table, Table, Boy; Drown, Dig, Kill"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The materials list 'Can, Should, Will' as Modals and 'Who, Why, Which' as Question Words (in some cases) under function words.",
+    "incorrectExplanations": {
+      "A": "Correct. These are the specific groupings provided in the function word examples.",
+      "B": "These are helping verbs and articles.",
+      "C": "These are qualifiers and conjunctions.",
+      "D": "These are nouns and verbs (content words)."
+    },
+    "keywords": [
+      "modals",
+      "question words",
+      "function words"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q028",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Modus Ponens",
+    "difficulty": "Hard",
+    "question": "What happens in a Modus Ponens argument if the 'antecedent' is affirmed and the conditional statement is true?",
+    "options": [
+      "The consequent might be true depending on probability.",
+      "The consequent must necessarily be true.",
+      "The entire argument is considered inductive.",
+      "The antecedent is automatically denied."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Modus Ponens demonstrates that if you affirm the antecedent and the statement is true, then the consequent must be true.",
+    "incorrectExplanations": {
+      "A": "This describes induction; Modus Ponens is deductive and certain.",
+      "B": "Correct. This is the logical guarantee of this valid form.",
+      "C": "It is a deductive form.",
+      "D": "Denying the antecedent is a logical fallacy, not Modus Ponens."
+    },
+    "keywords": [
+      "Modus Ponens",
+      "logic",
+      "guarantee"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W3Q029",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Word Classes",
+    "subTopic": "Summary",
+    "difficulty": "Hard",
+    "question": "Based on the summary of word classes, why is understanding the content/function dichotomy 'crucial' for communication?",
+    "options": [
+      "It allows speakers to memorize more lexical words.",
+      "It is the only way to pass the crossword puzzle challenge.",
+      "It facilitates constructing grammatically correct sentences and refining pronunciation.",
+      "It proves that function words are useless in high-level discourse."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The summary states that understanding this dichotomy is crucial for grammatically correct sentences, comprehension, and pronunciation skills.",
+    "incorrectExplanations": {
+      "A": "Memorization is a small part; the 'roles' in structure and stress are the key benefits.",
+      "B": "The puzzle is a practice tool, not the primary 'crucial' reason for the knowledge.",
+      "C": "Correct. It covers both structural (writing) and phonetic (speaking) mastery.",
+      "D": "The text notes that function words are NOT useless despite carrying little individual meaning."
+    },
+    "keywords": [
+      "word class summary",
+      "communication",
+      "grammar"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W3Q030",
+    "week": 3,
+    "weekTitle": "Grammar",
+    "topic": "Reasoning",
+    "subTopic": "Summary",
+    "difficulty": "Hard",
+    "question": "The materials contrast the two forms of reasoning by describing one as 'akin to all or nothing logic.' Which form is being described?",
+    "options": [
+      "Inductive Reasoning",
+      "Deductive Reasoning",
+      "Analogical Reasoning",
+      "Abductive Reasoning"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The summary at the end of the lesson states: 'Deductive reasoning is akin to \"all or nothing\" logic'.",
+    "incorrectExplanations": {
+      "A": "Inductive reasoning is described as acknowledging 'nuances and probabilities'.",
+      "B": "Correct. If the structure is valid and premises true, the result is 100% certain.",
+      "C": "This is a sub-type of induction.",
+      "D": "This is mentioned as a type of inductive reasoning to 'find out more about'."
+    },
+    "keywords": [
+      "all or nothing",
+      "logic summary",
+      "deduction"
+    ],
+    "estimatedTime": 55
+  }
+]

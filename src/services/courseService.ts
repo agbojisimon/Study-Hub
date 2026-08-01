@@ -1,82 +1,94 @@
 import type { Course, Question, WeekMeta } from '@/types';
+import { COURSES, getCourseDefinition } from '@/data/courses';
 
-import week1 from '@/data/COS102/week1.json';
-import week2 from '@/data/COS102/week2.json';
-import week3 from '@/data/COS102/week3.json';
-import week4 from '@/data/COS102/week4.json';
-import week5 from '@/data/COS102/week5.json';
-import week6 from '@/data/COS102/week6.json';
-import week7 from '@/data/COS102/week7.json';
-import week8 from '@/data/COS102/week8.json';
-import week9 from '@/data/COS102/week9.json';
+import cosWeek1 from '@/data/COS102/week1.json';
+import cosWeek2 from '@/data/COS102/week2.json';
+import cosWeek3 from '@/data/COS102/week3.json';
+import cosWeek4 from '@/data/COS102/week4.json';
+import cosWeek5 from '@/data/COS102/week5.json';
+import cosWeek6 from '@/data/COS102/week6.json';
+import cosWeek7 from '@/data/COS102/week7.json';
+import cosWeek8 from '@/data/COS102/week8.json';
+import cosWeek9 from '@/data/COS102/week9.json';
 
-const weekData: Record<number, Question[]> = {
-  1: week1 as Question[],
-  2: week2 as Question[],
-  3: week3 as Question[],
-  4: week4 as Question[],
-  5: week5 as Question[],
-  6: week6 as Question[],
-  7: week7 as Question[],
-  8: week8 as Question[],
-  9: week9 as Question[],
-};
+import gstWeek1 from '@/data/GST122/week1.json';
+import gstWeek2 from '@/data/GST122/week2.json';
+import gstWeek3 from '@/data/GST122/week3.json';
+import gstWeek4 from '@/data/GST122/week4.json';
+import gstWeek5 from '@/data/GST122/week5.json';
+import gstWeek6 from '@/data/GST122/week6.json';
+import gstWeek7 from '@/data/GST122/week7.json';
+import gstWeek8 from '@/data/GST122/week8.json';
+import gstWeek9 from '@/data/GST122/week9.json';
+import gstWeek10 from '@/data/GST122/week10.json';
 
-const weekTitles: Record<number, string> = {
-  1: 'Understanding the Problem',
-  2: 'An Overview of Problem Solving Strategies',
-  3: 'Divide and Conquer',
-  4: 'Algorithm Concept',
-  5: 'Flowchart Concepts',
-  6: 'Pseudocode',
-  7: 'Program Objects Concept',
-  8: 'Abstraction Concepts',
-  9: 'Statements and Blocks',
-};
-
-const courseMetadata: Record<string, { title: string; description: string }> = {
+const courseQuestionBanks: Record<string, Record<number, Question[]>> = {
   COS102: {
-    title: 'Introduction to Problem Solving',
-    description:
-      'A foundational course covering problem-solving strategies, algorithm development, flowcharting, pseudocode, object-oriented concepts, abstraction, and control flow in C programming.',
+    1: cosWeek1 as Question[],
+    2: cosWeek2 as Question[],
+    3: cosWeek3 as Question[],
+    4: cosWeek4 as Question[],
+    5: cosWeek5 as Question[],
+    6: cosWeek6 as Question[],
+    7: cosWeek7 as Question[],
+    8: cosWeek8 as Question[],
+    9: cosWeek9 as Question[],
+  },
+  GST122: {
+    1: gstWeek1 as Question[],
+    2: gstWeek2 as Question[],
+    3: gstWeek3 as Question[],
+    4: gstWeek4 as Question[],
+    5: gstWeek5 as Question[],
+    6: gstWeek6 as Question[],
+    7: gstWeek7 as Question[],
+    8: gstWeek8 as Question[],
+    9: gstWeek9 as Question[],
+    10: gstWeek10 as Question[],
   },
 };
 
-const AVAILABLE_COURSES: Course[] = Object.keys(courseMetadata).map((code) => {
-  const weeks: WeekMeta[] = Object.keys(weekData)
-    .map((w) => parseInt(w, 10))
-    .sort((a, b) => a - b)
-    .map((w) => ({
-      week: w,
-      weekTitle: weekTitles[w] ?? `Week ${w}`,
-      questionCount: weekData[w].length,
-    }));
+function buildCourse(courseCode: string): Course | undefined {
+  const definition = getCourseDefinition(courseCode);
+  if (!definition) return undefined;
+
+  const weekBank = courseQuestionBanks[courseCode] ?? {};
+  const weeks: WeekMeta[] = definition.weekTitles.map((weekTitle, index) => {
+    const week = index + 1;
+    return {
+      week,
+      weekTitle,
+      questionCount: weekBank[week]?.length ?? 0,
+    };
+  });
 
   return {
-    code,
-    title: courseMetadata[code].title,
-    description: courseMetadata[code].description,
+    code: definition.code,
+    title: definition.title,
+    description: definition.description,
     weeks,
-    totalQuestions: weeks.reduce((sum, w) => sum + w.questionCount, 0),
+    totalQuestions: weeks.reduce((sum, week) => sum + week.questionCount, 0),
   };
-});
+}
+
+const AVAILABLE_COURSES: Course[] = COURSES.map((course) => buildCourse(course.code)).filter(
+  (course): course is Course => Boolean(course),
+);
 
 export function getAvailableCourses(): Course[] {
   return AVAILABLE_COURSES;
 }
 
 export function getCourse(courseCode: string): Course | undefined {
-  return AVAILABLE_COURSES.find((c) => c.code === courseCode);
+  return AVAILABLE_COURSES.find((course) => course.code === courseCode);
 }
 
 export function getQuestionsByWeek(courseCode: string, week: number): Question[] {
-  if (courseCode !== 'COS102') return [];
-  return weekData[week] ?? [];
+  return courseQuestionBanks[courseCode]?.[week] ?? [];
 }
 
 export function getAllQuestions(courseCode: string): Question[] {
-  if (courseCode !== 'COS102') return [];
-  return Object.values(weekData).flat();
+  return Object.values(courseQuestionBanks[courseCode] ?? {}).flat();
 }
 
 export function getQuestionsForQuiz(
@@ -85,7 +97,7 @@ export function getQuestionsForQuiz(
   difficulty: string,
   count: number | 'all',
 ): Question[] {
-  let pool: Question[];
+  let pool: Question[] = [];
   if (week === 'all') {
     pool = getAllQuestions(courseCode);
   } else {

@@ -11,9 +11,9 @@ export function SearchPage() {
   const [week, setWeek] = useState<number | 'all'>('all');
 
   const courses = useMemo(() => getAvailableCourses(), []);
-  const courseCode = courses[0]?.code ?? 'COS102';
+  const [courseCode, setCourseCode] = useState<string>(courses[0]?.code ?? '');
 
-  const allWeeks = courses[0]?.weeks ?? [];
+  const allWeeks = courses.find((course) => course.code === courseCode)?.weeks ?? [];
 
   const results = useMemo(() => {
     return searchQuestions(courseCode, query, {
@@ -42,6 +42,25 @@ export function SearchPage() {
         </div>
 
         <div className="mt-4 grid gap-4 sm:grid-cols-2">
+          <div>
+            <label className="mb-1.5 block text-sm font-semibold text-gray-700 dark:text-gray-200">
+              Course
+            </label>
+            <select
+              value={courseCode}
+              onChange={(e) => {
+                setCourseCode(e.target.value);
+                setWeek('all');
+              }}
+              className="w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 focus:border-primary-500 focus:ring-1 focus:ring-primary-500 dark:border-gray-700 dark:bg-gray-900 dark:text-white"
+            >
+              {courses.map((course) => (
+                <option key={course.code} value={course.code}>
+                  {course.code} — {course.title}
+                </option>
+              ))}
+            </select>
+          </div>
           <div>
             <label className="mb-1.5 block text-sm font-semibold text-gray-700 dark:text-gray-200">
               Difficulty

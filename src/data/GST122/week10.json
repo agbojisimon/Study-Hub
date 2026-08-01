@@ -1,0 +1,903 @@
+[
+  {
+    "id": "W10Q001",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "Based on the materials in Study Session 7, how is 'speaking' fundamentally defined in the context of speechmaking?",
+    "options": [
+      "The one-way transmission of data",
+      "An interactive process of constructing meaning",
+      "The physical act of reading symbols on paper",
+      "The memorisation of a written manuscript"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Speaking is defined as an 'interactive process of constructing meaning' which involves both the speaker and the audience.",
+    "incorrectExplanations": {
+      "A": "Speaking is described as interactive, not a one-way transmission.",
+      "B": "Correct. This definition highlights the collaborative nature of communication.",
+      "C": "This is the definition of reading, not speaking.",
+      "D": "Memorisation is a technique, but the fundamental definition is about meaning construction."
+    },
+    "keywords": [
+      "speaking",
+      "definition",
+      "meaning"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q002",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Strategies",
+    "difficulty": "Easy",
+    "question": "Which of the following is listed as a strategy for effective speaking in the course materials?",
+    "options": [
+      "Using complex jargon to show expertise",
+      "Maintaining eye contact with the audience",
+      "Avoiding transitions to save time",
+      "Focusing exclusively on the visual aid"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Strategies for effective speaking explicitly include eye contact, simplicity, and relaxation.",
+    "incorrectExplanations": {
+      "A": "Simplicity is recommended over complex jargon for clarity.",
+      "B": "Correct. Eye contact is a primary engagement strategy mentioned in Session 7.",
+      "C": "Transitions are encouraged to ensure a smooth flow of ideas.",
+      "D": "The text warns against focusing on visual aids instead of the audience."
+    },
+    "keywords": [
+      "strategies",
+      "eye contact",
+      "effectiveness"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q003",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Visual Aids",
+    "difficulty": "Easy",
+    "question": "According to Study Session 7, what is a common mistake speakers make when using visual aids?",
+    "options": [
+      "Using aids that are too large",
+      "Speaking to the visual aid instead of the audience",
+      "Using only one color in the design",
+      "Forgetting to provide a bibliography"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The source notes that speakers sometimes make the mistake of looking at the visual aid (like a book cover) rather than the audience.",
+    "incorrectExplanations": {
+      "A": "The text does not identify size as the primary behavioral mistake.",
+      "B": "Correct. Delivery should be directed at the listeners, not the aid.",
+      "C": "Design aesthetics are not the focus of the speaking mistake mentioned.",
+      "D": "Bibliographies are a written report requirement, not a visual aid 'speaking' mistake."
+    },
+    "keywords": [
+      "visual aids",
+      "audience",
+      "mistakes"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q004",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Special Occasions",
+    "difficulty": "Easy",
+    "question": "When speaking at a wedding banquet, what is the defined topic of the speech according to the examples in the text?",
+    "options": [
+      "A summary of current business projects",
+      "A toast or introductory remarks for the bride and groom",
+      "The history of quantum physics",
+      "The socio-economic impacts of urbanization"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text uses a wedding banquet toast as an example where the topic is defined by the occasion and the specific request of the hosts.",
+    "incorrectExplanations": {
+      "A": "This is the example given for a workplace request from a boss.",
+      "B": "Correct. The occasion dictates the relevant topic.",
+      "C": "This is an example used for a university lecture.",
+      "D": "This is the topic of Sarah's dissertation in the vocabulary usage examples."
+    },
+    "keywords": [
+      "special occasion",
+      "topic",
+      "toast"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q005",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Pre-speaking Steps",
+    "difficulty": "Easy",
+    "question": "What is the first recommended step to follow 'before speaking' in a guided task?",
+    "options": [
+      "Start telling a joke to the audience",
+      "Identify the goal and purpose of the task",
+      "Hand out the visual aids immediately",
+      "Ask for a higher grade"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Steps to Follow Before Speaking' list identifying the goal and purpose as the initial priority.",
+    "incorrectExplanations": {
+      "A": "Humor is a strategy 'during' the speech, not the first preparatory step.",
+      "B": "Correct. Understanding the 'why' of the task is crucial for planning.",
+      "C": "Visual aids are tools used during delivery.",
+      "D": "The focus is on task comprehension and demonstration of skills."
+    },
+    "keywords": [
+      "pre-speaking",
+      "goal",
+      "purpose"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q006",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Strategies",
+    "difficulty": "Easy",
+    "question": "Why is 'simplicity' recommended as a strategy for effective speaking?",
+    "options": [
+      "To reduce the number of pages in the script",
+      "To ensure the audience can easily follow and understand the ideas",
+      "To avoid having to do any research",
+      "To make the speech as short as possible"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Simplicity is a strategy to ensure clarity so that the 'interactive process' of meaning construction is successful.",
+    "incorrectExplanations": {
+      "A": "Scripts for speaking aren't evaluated by page count like reports.",
+      "B": "Correct. Clear ideas facilitate audience engagement.",
+      "C": "Research is still required to define purpose and content.",
+      "D": "Effective speeches can be long or short; simplicity is about ease of comprehension."
+    },
+    "keywords": [
+      "simplicity",
+      "clarity",
+      "strategies"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q007",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Strategies",
+    "difficulty": "Easy",
+    "question": "In speechmaking, 'restating points' is a strategy used to:",
+    "options": [
+      "Annoy the audience with repetition",
+      "Ensure impact and reinforce key concepts",
+      "Show that the speaker has forgotten the next part",
+      "Hide a lack of transitions"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Restating points is a recognized strategy to ensure the main ideas have impact and are retained by the listeners.",
+    "incorrectExplanations": {
+      "A": "Repetition for impact is a skill, not an attempt to annoy.",
+      "B": "Correct. It serves to emphasize the most important information.",
+      "C": "It is a deliberate structural choice for clarity.",
+      "D": "The text lists transitions as a separate, complementary strategy."
+    },
+    "keywords": [
+      "restating",
+      "impact",
+      "reinforcement"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q008",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Audience Analysis",
+    "difficulty": "Easy",
+    "question": "According to the guidelines for special occasions, what must a speaker consider about their audience?",
+    "options": [
+      "What they'll want to hear the speaker say",
+      "The color of the audience members' clothing",
+      "The exact age of every person present",
+      "How many books the audience has read"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The guidelines state: 'You'll want to think about your audience, considering who will be present... and what they'll want to hear you say'.",
+    "incorrectExplanations": {
+      "A": "Correct. Aligning the message with audience expectations is vital.",
+      "B": "This is an irrelevant visual detail.",
+      "C": "While demographics matter, 'what they want to hear' is the specific instruction in the text.",
+      "D": "The focus is on the current speaking situation and context."
+    },
+    "keywords": [
+      "audience",
+      "expectations",
+      "special occasions"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q009",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Clarification",
+    "difficulty": "Easy",
+    "question": "What should a student do if they are unsure how to perform a specific speaking task?",
+    "options": [
+      "Guess the instructions to save time",
+      "Ask for clarification of the task’s goal or purpose",
+      "Skip the task and move to the next one",
+      "Speak in a different language"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The guidelines explicitly advise: 'It is advisable to ask for clarification of the task if you are unsure of its goal, purpose, or how you are to do'.",
+    "incorrectExplanations": {
+      "A": "Guessing can lead to failing the assessment requirements.",
+      "B": "Correct. Ensuring understanding of the target is a key pre-speaking step.",
+      "C": "Skipping avoids the learning objective entirely.",
+      "D": "The task is likely focused on English communication skills."
+    },
+    "keywords": [
+      "clarification",
+      "task",
+      "goal"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W10Q010",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Contextual Differences",
+    "difficulty": "Medium",
+    "question": "How does the 'topic' selection process differ between a workplace request and a social request like a wedding?",
+    "options": [
+      "In the workplace, the topic is random; at a wedding, it is academic.",
+      "Both are defined by the audience and situation, such as summarizing projects for a boss versus a toast for a couple.",
+      "Workplace speaking does not require eye contact, but wedding speaking does.",
+      "There is no difference; the speaker always chooses their own favorite topic."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The source explains that the topic is 'defined for you, to some extent' based on the role and request (e.g., boss vs. bride/groom).",
+    "incorrectExplanations": {
+      "A": "The text defines both through specific, relevant roles.",
+      "B": "Correct. Topic relevance is tied to the specific communicative context.",
+      "C": "Effective strategies like eye contact apply to all speaking contexts.",
+      "D": "The text emphasizes that the situation often defines the topic for the speaker."
+    },
+    "keywords": [
+      "topic",
+      "context",
+      "workplace vs social"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q011",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Visual Aid Misuse",
+    "difficulty": "Medium",
+    "question": "What is the psychological risk of a speaker providing 'lovely artwork' as an illustration during a speech?",
+    "options": [
+      "The audience will find the speaker too talented.",
+      "The audience may contemplate the artwork rather than listening to the speaker's words.",
+      "The artwork will cause the speaker to forget their name.",
+      "The artwork will replace the need for an introduction."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The source warns: 'you don’t want them to be contemplating your lovely artwork rather than listening to your words'.",
+    "incorrectExplanations": {
+      "A": "The risk is a breakdown in verbal communication, not a perception of talent.",
+      "B": "Correct. The visual aid can become a distraction if not integrated correctly.",
+      "C": "Nervousness might cause memory issues, but the text links artwork to audience distraction.",
+      "D": "A 'clear introduction' is a structural requirement that visual aids do not replace."
+    },
+    "keywords": [
+      "visual aid",
+      "distraction",
+      "listening"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q012",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Preparation Logic",
+    "difficulty": "Medium",
+    "question": "Why is 'managing anxiety' listed as a step to follow 'before' speaking?",
+    "options": [
+      "Because anxiety is a type of vocabulary.",
+      "To ensure the speaker is in the right mental state to execute their plan and goals.",
+      "Because the audience prefers speakers who are nervous.",
+      "To increase the speed of the speech."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Preparation involves psychological readiness to facilitate 'relaxation' and 'simplicity' during the actual performance.",
+    "incorrectExplanations": {
+      "A": "Anxiety is an emotional state, not a linguistic category.",
+      "B": "Correct. Mental preparation is essential for effective delivery.",
+      "C": "The text lists 'relaxation' as a strategy for *effectiveness*, implying nervousness is a barrier.",
+      "D": "Pacing and clarity are preferred over raw speed."
+    },
+    "keywords": [
+      "anxiety",
+      "pre-speaking",
+      "relaxation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q013",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Structural Flow",
+    "difficulty": "Medium",
+    "question": "In a persuasive essay or speech, what is the primary function of 'polishing transitions' between ideas?",
+    "options": [
+      "To make the speech longer",
+      "To ensure a smooth and logical flow, enhancing coherence",
+      "To avoid having to use content words",
+      "To replace the conclusion"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Polishing transitions ensures that the 'symphony of ideas' flows logically, which is 'crucial for maintaining professionalism and readability'.",
+    "incorrectExplanations": {
+      "A": "Transitions improve quality/flow, not just quantity.",
+      "B": "Correct. Coherence depends on the clear connection of parts.",
+      "C": "Transitions are often function words that help connect the meaningful content words.",
+      "D": "A 'thoughtful conclusion' is a separate required structural element."
+    },
+    "keywords": [
+      "transitions",
+      "flow",
+      "coherence"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q014",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Cognitive Strategies",
+    "difficulty": "Medium",
+    "question": "What does it mean to 'activate background knowledge' before a speaking task?",
+    "options": [
+      "Recalling what you already know about the specific situation or topic",
+      "Reading a dictionary from A to Z",
+      "Asking the audience for their background information",
+      "Checking if the room has a background wall"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The guidelines define this as accessing your existing mental schemas regarding the task at hand.",
+    "incorrectExplanations": {
+      "A": "Correct. This primes the brain for the upcoming communicative challenge.",
+      "B": "This is an inefficient and unrelated task.",
+      "C": "Activating knowledge is an internal cognitive step for the speaker.",
+      "D": "This is a literal, non-academic interpretation of 'background'."
+    },
+    "keywords": [
+      "background knowledge",
+      "preparation",
+      "cognition"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q015",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Strategies",
+    "difficulty": "Medium",
+    "question": "Which of these pairs represents two essential elements of 'Effective SpeechMaking' mentioned in Session 7?",
+    "options": [
+      "Complex Jargon and Avoidance",
+      "Simplicity and Humour",
+      "Silent Reading and Formatting",
+      "Deduction and Citations"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text lists 'simplicity, humour, eye contact, and relaxation' as core strategies.",
+    "incorrectExplanations": {
+      "A": "Jargon and avoidance are contrary to the advice given.",
+      "B": "Correct. Both are listed as tools to improve audience engagement.",
+      "C": "These relate to written reports or basic reading, not effective speech delivery.",
+      "D": "These are concepts from reasoning and academic writing, not the primary strategies for speechmaking listed in Session 7."
+    },
+    "keywords": [
+      "speechmaking",
+      "strategies",
+      "humour"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q016",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Prediction",
+    "difficulty": "Medium",
+    "question": "Why is 'predicting the vocabulary' a useful pre-speaking step?",
+    "options": [
+      "To ensure the speaker can spell the words correctly on paper",
+      "To anticipate the linguistic needs of the task and ensure a smooth flow of ideas",
+      "To avoid using any new words during the speech",
+      "To check if the audience has a large vocabulary"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Predicting vocabulary helps the speaker prepare for the specific context and goals of the prompt.",
+    "incorrectExplanations": {
+      "A": "Spelling is a mechanical writing concern, not the goal of speaking preparation.",
+      "B": "Correct. Linguistic preparation supports oral fluency.",
+      "C": "The goal is to use the *right* words for the task, not avoid new ones.",
+      "D": "Prediction is about the speaker's own output, not an audience test."
+    },
+    "keywords": [
+      "vocabulary",
+      "prediction",
+      "preparation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q017",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Association",
+    "difficulty": "Medium",
+    "question": "Relating a current speaking task to a 'similar situation' is a technique used to:",
+    "options": [
+      "Make associations that help in planning and predicting challenges",
+      "Copy what someone else said word-for-word",
+      "Find an excuse to speak about a different topic",
+      "Ensure the speech is exactly 10 minutes long"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Making associations with previous experiences helps the speaker identify goals and potential hurdles.",
+    "incorrectExplanations": {
+      "A": "Correct. This is a cognitive strategy for effective planning.",
+      "B": "The text emphasizes constructing original meaning for the current context.",
+      "C": "Associations should support the current task, not distract from it.",
+      "D": "Timing is a logistics concern, not the definition of association."
+    },
+    "keywords": [
+      "association",
+      "planning",
+      "challenges"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q018",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Response Analysis",
+    "subTopic": "Structure",
+    "difficulty": "Medium",
+    "question": "What structural components should a 'comprehensive' response to a speaking prompt include?",
+    "options": [
+      "Only a list of findings",
+      "A clear introduction, comprehensive analysis, and thoughtful conclusion",
+      "A bibliography and five topic sentences",
+      "Humor and eye contact only"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Response Analysis' notes that successful responses follow a structured format with introduction, analysis, and conclusion.",
+    "incorrectExplanations": {
+      "A": "Analysis and introduction are missing.",
+      "B": "Correct. This structure ensures the articulated ideas are well-organized.",
+      "C": "These are specific to written essays and reports.",
+      "D": "These are delivery strategies, not the structural components of the response content."
+    },
+    "keywords": [
+      "response structure",
+      "analysis",
+      "conclusion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W10Q019",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Interaction Logic",
+    "difficulty": "Hard",
+    "question": "If speaking is an 'interactive process of constructing meaning,' what is the logical consequence of a speaker ignoring the audience's reactions?",
+    "options": [
+      "The speaker will achieve a higher degree of simplicity.",
+      "The process of constructing meaning may fail because the interactive component is broken.",
+      "The speech will naturally follow a more logical flow.",
+      "The speaker will be better able to manage their anxiety."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Because meaning is constructed interactively, the audience's role is essential; ignoring them breaks the fundamental definition of speaking provided in Session 7.",
+    "incorrectExplanations": {
+      "A": "Simplicity is a delivery choice, but interactivity is the process definition.",
+      "B": "Correct. Meaning depends on the relationship between speaker and listener.",
+      "C": "Flow is achieved through transitions and planning, not by ignoring listeners.",
+      "D": "Eye contact and audience connection are tools to manage the situation, not ignore it."
+    },
+    "keywords": [
+      "interaction",
+      "meaning",
+      "audience"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q020",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Vocabulary Application",
+    "subTopic": "Kairos",
+    "difficulty": "Hard",
+    "question": "Based on the glossary, how would the concept of 'Kairos' apply to a speaker's strategy during a project summary?",
+    "options": [
+      "It refers to the speaker's use of a harsh, discordant mixture of voices.",
+      "It is the identification of the 'opportune moment' to deliver a key piece of information for maximum impact.",
+      "It is the practice of emphasizing moral messages during the report.",
+      "It describes the use of a syllogism to prove the project's success."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Kairos is defined as the 'opportune moment for effective communication,' which is a strategic timing skill in speaking.",
+    "incorrectExplanations": {
+      "A": "This describes cacophony.",
+      "B": "Correct. Strategic timing enhances the effectiveness of the speech.",
+      "C": "This describes didacticism.",
+      "D": "A syllogism is a reasoning form, not the definition of Kairos."
+    },
+    "keywords": [
+      "kairos",
+      "strategy",
+      "impact"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q021",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Visual Rhetoric",
+    "difficulty": "Hard",
+    "question": "Analyze the instruction: 'you don’t want them to be contemplating your lovely artwork rather than listening to your words.' What does this imply about the relationship between visual and verbal communication?",
+    "options": [
+      "Visual communication is always more important than verbal.",
+      "Visual aids must be subordinate to and supportive of the verbal message to avoid cognitive distraction.",
+      "Artwork should never be used in a speech.",
+      "Listening is a passive activity that does not require visual support."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text suggests that visual aids can become 'distractions' if they overpower the 'interactive process' of verbal meaning construction.",
+    "incorrectExplanations": {
+      "A": "The text warns that the visual can distract from the verbal, implying the verbal is the primary focus.",
+      "B": "Correct. Balance is required to ensure the 'target' of the lesson is met.",
+      "C": "Aids are recommended, but their misuse is cautioned against.",
+      "D": "Speaking is defined as an *interactive* process, which is active, not passive."
+    },
+    "keywords": [
+      "visual vs verbal",
+      "distraction",
+      "rhetoric"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q022",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Metacognitive Planning",
+    "difficulty": "Hard",
+    "question": "How does 'predicting challenges' as a pre-speaking step contribute to the strategy of 'relaxation' mentioned in Session 7?",
+    "options": [
+      "By allowing the speaker to avoid the challenge entirely.",
+      "By reducing uncertainty through anticipation, thereby decreasing anxiety and allowing for a more relaxed delivery.",
+      "By forcing the speaker to use more complex transitions.",
+      "It doesn't; predicting challenges actually increases anxiety."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Predicting challenges is a form of preparation that leads to better control of the situation, which facilitates the 'relaxation' needed for effectiveness.",
+    "incorrectExplanations": {
+      "A": "The goal is to meet the 'target of the lesson,' not avoid it.",
+      "B": "Correct. Mental preparation is a known antidote to speaking anxiety.",
+      "C": "Transitions are a separate tool for flow, not the direct outcome of predicting challenges.",
+      "D": "Proactive planning is presented in the text as a positive, advisable step."
+    },
+    "keywords": [
+      "challenges",
+      "anxiety",
+      "relaxation",
+      "prediction"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q023",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Impact Strategy",
+    "difficulty": "Hard",
+    "question": "A speaker who uses 'restating points' and 'clear transitions' is primarily addressing which two aspects of a professional response?",
+    "options": [
+      "Humor and Accuracy",
+      "Impact and Coherence",
+      "Anxiety and Visual Appeal",
+      "Didacticism and Syllogism"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Restating points provides 'impact,' and transitions ensure 'logical flow/coherence'.",
+    "incorrectExplanations": {
+      "A": "Restating is for impact, while accuracy is a matter of content.",
+      "B": "Correct. These strategies work together to build a strong, followable argument.",
+      "C": "Visual appeal relates to aids; transitions relate to structural flow.",
+      "D": "These are types of messages or reasoning, not the structural strategies described here."
+    },
+    "keywords": [
+      "impact",
+      "coherence",
+      "strategies"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q024",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Lecture Context",
+    "difficulty": "Hard",
+    "question": "In the 'Usage' example for 'Lecture' (Source 93), the professor delivers a talk on quantum physics. According to the strategies in Session 7, how could this professor best ensure 'impact' for such a complex topic?",
+    "options": [
+      "By speaking as fast as possible to cover all the data.",
+      "By using simplicity, restating key concepts, and maintaining eye contact with the students.",
+      "By providing a written bibliography to every student before the talk.",
+      "By only looking at the chalkboard/slides to maintain focus."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Session 7 strategies (simplicity, restating, eye contact) are universal tools for ensuring effectiveness, regardless of the subject's complexity.",
+    "incorrectExplanations": {
+      "A": "Excessive speed hinders comprehension of complex topics.",
+      "B": "Correct. These strategies bridge the gap between complex content and audience understanding.",
+      "C": "A bibliography is a post-writing/report tool, not a speech delivery strategy.",
+      "D": "The text specifically warns against looking at objects/aids instead of the audience."
+    },
+    "keywords": [
+      "lecture",
+      "impact",
+      "complexity"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q025",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Clarification Strategy",
+    "difficulty": "Hard",
+    "question": "Why is 'asking for clarification of the task' considered an advanced speaking skill in the guidelines?",
+    "options": [
+      "Because it shows the student hasn't studied.",
+      "Because it ensures the student is aligned with the 'goal and purpose,' preventing a failure to hit the target of the lesson.",
+      "Because it makes the speaking task longer.",
+      "Because it is a requirement for achieveing tenure."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Professional communication requires ensuring the objective is understood before execution to ensure the 'nuanced understanding' and 'critical thinking' are relevant.",
+    "incorrectExplanations": {
+      "A": "Clarification is a mark of professional diligence, not lack of study.",
+      "B": "Correct. Accuracy in meeting the prompt is vital for success.",
+      "C": "Clarification happens *before* the task, and does not necessarily change its length.",
+      "D": "Tenure is an employment status for professors, not the goal of a single speaking guideline."
+    },
+    "keywords": [
+      "clarification",
+      "target",
+      "alignment"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q026",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Interaction vs Transmission",
+    "difficulty": "Hard",
+    "question": "Differentiate between a speaker who views speech as 'data transmission' versus the 'interactive process' described in the text.",
+    "options": [
+      "The former uses content words; the latter uses function words.",
+      "The former focuses on accuracy of data only; the latter focuses on audience engagement and mutual meaning-making.",
+      "The former is always formal; the latter is always informal.",
+      "There is no difference according to the materials."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text's definition of speaking as an 'interactive process' emphasizes the creation of understanding between people, not just the output of facts.",
+    "incorrectExplanations": {
+      "A": "Both categories of words are needed for any grammatical speech.",
+      "B": "Correct. Interactivity implies responding to and involving the audience.",
+      "C": "Both can be formal or informal; the difference is the communicative philosophy.",
+      "D": "The text provides a specific 'interactive' definition that contrasts with simple one-way delivery."
+    },
+    "keywords": [
+      "interaction",
+      "meaning construction",
+      "philosophy"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q027",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Strategy Integration",
+    "difficulty": "Hard",
+    "question": "How does 'simplicity' in speechmaking interact with the goal of 'comprehensive analysis' mentioned in the response analysis?",
+    "options": [
+      "They are contradictory; you cannot have analysis and simplicity.",
+      "Simplicity is applied to the 'articulation of complex ideas' to ensure they are accessible without losing the depth of the analysis.",
+      "Simplicity means only using easy vocabulary like 'sun' or 'run'.",
+      "Comprehensive analysis requires avoiding simplicity entirely."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Effective speakers translate 'complex ideas' into clear, simple language so that their 'nuanced understanding' can be received by the audience.",
+    "incorrectExplanations": {
+      "A": "Professional communication balances depth of thought with clarity of expression.",
+      "B": "Correct. Clarity supports the delivery of complex content.",
+      "C": "Simplicity is about logical structure and clear language choice for the context, not childish vocabulary.",
+      "D": "The source identifies both as traits of a successful response."
+    },
+    "keywords": [
+      "simplicity",
+      "analysis",
+      "complex ideas"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q028",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Visual Distraction",
+    "difficulty": "Hard",
+    "question": "A speaker 'looking at a book cover' while presenting is failing which specific effectiveness strategy from Session 7?",
+    "options": [
+      "Simplicity",
+      "Eye contact",
+      "Humour",
+      "Restating points"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text notes that speakers look at their aids *instead* of the audience, which is a direct failure to maintain eye contact and interactive connection.",
+    "incorrectExplanations": {
+      "A": "They might be using simple words, but the failure is in their physical engagement.",
+      "B": "Correct. Connection with the audience is broken when the speaker's gaze is on the aid.",
+      "C": "Humor is a verbal/mood strategy; eye contact is about delivery direction.",
+      "D": "Restating points is a content strategy."
+    },
+    "keywords": [
+      "eye contact",
+      "visual aids",
+      "failure"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q029",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Speaking Prompts",
+    "subTopic": "Planning associations",
+    "difficulty": "Hard",
+    "question": "When 'relating the task to a similar situation,' how does the speaker use 'associations' to manage the challenge of a new prompt?",
+    "options": [
+      "By using the same script from the old situation.",
+      "By identifying successful strategies used previously and adapting them to meet the new task's unique goals.",
+      "By proving that the situations are identical so no new thinking is required.",
+      "By ignoring the current prompt's goal."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Associations allow the speaker to apply 'what they already know' to 'predict challenges' in the current, albeit different, task.",
+    "incorrectExplanations": {
+      "A": "Speaking tasks require 'constructing meaning' for the current context.",
+      "B": "Correct. This is the strategic purpose of making associations.",
+      "C": "Every prompt has a specific 'target of the lesson' that requires analysis.",
+      "D": "The guidelines state you must 'Identify the goal' first."
+    },
+    "keywords": [
+      "association",
+      "adaptation",
+      "preparation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W10Q030",
+    "week": 10,
+    "weekTitle": "Speaking II",
+    "topic": "Effective Speechmaking",
+    "subTopic": "Metacognition",
+    "difficulty": "Hard",
+    "question": "Based on the comprehensive materials, how does 'metacognition' support the 'Steps to Follow Before Speaking'?",
+    "options": [
+      "It doesn't; metacognition is for reading, not speaking.",
+      "It allows the speaker to be aware of their own thinking processes while identifying goals, predicting challenges, and planning strategies.",
+      "It replaces the need for an audience entirely.",
+      "It is a verb form used to give commands."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Metacognition (thinking about thinking) is the overarching mental process used to consciously execute all pre-speaking and delivery strategies.",
+    "incorrectExplanations": {
+      "A": "The vocabulary materials (Source 92) show metacognition applies to overall 'problem-solving strategies'.",
+      "B": "Correct. Self-awareness of cognitive abilities supports better preparation.",
+      "C": "Speaking is defined as interactive, requiring an audience.",
+      "D": "This is the definition of 'imperative'."
+    },
+    "keywords": [
+      "metacognition",
+      "pre-speaking",
+      "awareness"
+    ],
+    "estimatedTime": 60
+  }
+]

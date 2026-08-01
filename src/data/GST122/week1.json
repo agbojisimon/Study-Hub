@@ -1,0 +1,885 @@
+[
+  {
+    "id": "W1Q001",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Key Language Skills",
+    "subTopic": "Classification of Skills",
+    "difficulty": "Easy",
+    "question": "Which of the following pair of language skills are classified as 'receptive skills'?",
+    "options": [
+      "Speaking and Writing",
+      "Listening and Reading",
+      "Speaking and Reading",
+      "Writing and Listening"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Listening and reading are considered receptive skills because they involve receiving and processing information from external sources.",
+    "incorrectExplanations": {
+      "A": "Speaking and writing are expressive skills used to produce and convey information.",
+      "B": "Correct. These involve receiving information rather than producing it.",
+      "C": "Speaking is an expressive skill, while reading is a receptive skill.",
+      "D": "Writing is an expressive skill, while listening is a receptive skill."
+    },
+    "keywords": [
+      "receptive skills",
+      "listening",
+      "reading"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q002",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Definition of Writing",
+    "difficulty": "Easy",
+    "question": "Writing is fundamentally defined as the act of putting down ideas and emotions on paper using what?",
+    "options": [
+      "Vocal sounds",
+      "Physical gestures",
+      "Symbols",
+      "Thought patterns"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Writing is defined as the act of using symbols (written or printed) to represent ideas, feelings, and emotions on paper.",
+    "incorrectExplanations": {
+      "A": "Vocal sounds are associated with the expressive skill of speaking.",
+      "B": "Physical gestures are paralinguistic features of speaking, not the basis of writing.",
+      "C": "Correct. Symbols are the written or printed representations used in writing.",
+      "D": "Thought patterns are the internal process that precedes the act of writing."
+    },
+    "keywords": [
+      "writing definition",
+      "symbols"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q003",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Key Language Skills",
+    "subTopic": "Expressive Skills",
+    "difficulty": "Easy",
+    "question": "Apart from writing, which other language skill is categorized as an 'expressive skill'?",
+    "options": [
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Thinking"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Speaking and writing are the two expressive skills because they involve the production and presentation of thoughts and feelings.",
+    "incorrectExplanations": {
+      "A": "Reading is a receptive skill.",
+      "B": "Listening is a receptive skill.",
+      "C": "Correct. Speaking is the second expressive skill alongside writing.",
+      "D": "Thinking is a cognitive process but is not listed as one of the four primary language skills."
+    },
+    "keywords": [
+      "expressive skills",
+      "speaking"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q004",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Aims of Writing",
+    "difficulty": "Easy",
+    "question": "According to the course material, all writing aims to accomplish at least one of four basic purposes. Which of these is NOT one of those four aims?",
+    "options": [
+      "To inform",
+      "To persuade",
+      "To criticize",
+      "To be creative"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The four basic aims of writing are to inform, to persuade, to express, and to be creative.",
+    "incorrectExplanations": {
+      "A": "Informing is one of the four basic aims.",
+      "B": "Persuading is one of the four basic aims.",
+      "C": "Correct. To criticize is not listed as one of the four basic foundational aims of writing.",
+      "D": "Being creative is one of the four basic aims."
+    },
+    "keywords": [
+      "aims of writing",
+      "purposes"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q005",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "The Writing Process",
+    "difficulty": "Easy",
+    "question": "Which stage of the writing process focuses primarily on discovering, creating, and clarifying ideas?",
+    "options": [
+      "Revision",
+      "Early stages/Planning",
+      "Editing",
+      "Proofreading"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In the early stages of the writing process, the writer should concentrate on discovering, creating, and clarifying ideas.",
+    "incorrectExplanations": {
+      "A": "Revision focuses on refining the draft and structure.",
+      "B": "Correct. The initial phase is for idea generation and clarification.",
+      "C": "Editing focuses on conventions like spelling and punctuation.",
+      "D": "Proofreading is a late-stage activity to catch errors before submission."
+    },
+    "keywords": [
+      "writing process",
+      "planning"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W1Q006",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Pronunciation",
+    "difficulty": "Easy",
+    "question": "The rhythm of speech is primarily achieved through which patterns?",
+    "options": [
+      "Spelling and Punctuation",
+      "Stress and Intonation",
+      "Handwriting and Margin",
+      "Vocabulary and Grammar"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The rhythm of speech is achieved through stress and intonation patterns, which infuse conversations with meaning.",
+    "incorrectExplanations": {
+      "A": "These are conventions of written language.",
+      "B": "Correct. Stress and intonation create the rhythm of spoken language.",
+      "C": "These are physical or formatting elements of writing.",
+      "D": "While important for speech, these do not directly create the 'rhythm'."
+    },
+    "keywords": [
+      "rhythm of speech",
+      "stress",
+      "intonation"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q007",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Role of Pronunciation",
+    "difficulty": "Easy",
+    "question": "What is considered the foundation of spoken language and effective communication according to the material?",
+    "options": [
+      "Body language and Eye contact",
+      "Consonant and Vowel sounds",
+      "Visual aids and Humor",
+      "Writing and Reading"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Consonant and vowel sounds constitute the building blocks of spoken language, and understanding them lays the foundation for communication.",
+    "incorrectExplanations": {
+      "A": "These are paralinguistic elements, not the building blocks of the language sounds themselves.",
+      "B": "Correct. Sounds (phonemes) are the basic blocks of speech.",
+      "C": "These are secondary strategies for speech preparation, not the foundational building blocks.",
+      "D": "These are separate language skills from speaking."
+    },
+    "keywords": [
+      "spoken language",
+      "consonants",
+      "vowels"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q008",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Easy",
+    "question": "Which quality of good writing refers to using concise language and avoiding wordiness?",
+    "options": [
+      "Clarity",
+      "Simplicity",
+      "Economy",
+      "Coherence"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Economy refers to possessing an 'economy of words' in the sense of using concise language.",
+    "incorrectExplanations": {
+      "A": "Clarity refers to clear exposition of ideas.",
+      "B": "Simplicity refers to avoiding unnecessary complexity.",
+      "C": "Correct. Economy is the term used for being concise.",
+      "D": "Coherence refers to the smooth progression of thoughts."
+    },
+    "keywords": [
+      "writing qualities",
+      "economy"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q009",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Aims of Writing",
+    "difficulty": "Easy",
+    "question": "Which aim of writing is primarily used when a writer wants to change the reader's mind or behavior?",
+    "options": [
+      "To inform",
+      "To express",
+      "To be creative",
+      "To persuade"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "Persuasion is the aim used when a writer intends to influence or change the audience's perspective or actions.",
+    "incorrectExplanations": {
+      "A": "Informing is used to provide facts or knowledge.",
+      "B": "Expressing is used to share personal feelings or thoughts.",
+      "C": "Creative writing is used for artistic purposes.",
+      "D": "Correct. Persuasion target's the audience's beliefs or actions."
+    },
+    "keywords": [
+      "persuasion",
+      "aims of writing"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W1Q010",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Listening Skills",
+    "subTopic": "Hearing vs Listening",
+    "difficulty": "Medium",
+    "question": "Based on the course's distinction between language skills, why is 'Listening' considered an interactive process rather than a passive one?",
+    "options": [
+      "It only requires the physical sense of hearing.",
+      "It involves producing and processing information based on context.",
+      "It is a receptive skill that does not require any mental effort.",
+      "It is identical to the act of hearing sounds."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Speaking (and by extension listening in dialogue) is an interactive process of constructing meaning that involves producing, receiving, and processing information depending on context.",
+    "incorrectExplanations": {
+      "A": "Hearing is the physical sense; listening is the intentional cognitive process.",
+      "B": "Correct. Meaning is constructed through active processing of information.",
+      "C": "Receptive skills still require significant mental effort to interpret meaning.",
+      "D": "The material highlights a difference between simple hearing and active listening."
+    },
+    "keywords": [
+      "listening skills",
+      "interactive process"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q011",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Medium",
+    "question": "In the context of written communication, what is the primary function of the 'thesis statement'?",
+    "options": [
+      "To summarize the points in the conclusion.",
+      "To introduce the writer's point of view or main topic in the first paragraph.",
+      "To provide transition words between different paragraphs.",
+      "To eliminate grammatical errors and wordiness."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The thesis statement, usually contained in the first paragraph, introduces the writer’s point of view or subject matter.",
+    "incorrectExplanations": {
+      "A": "Summary sentences usually finish paragraphs or the whole essay, but the thesis starts it.",
+      "B": "Correct. It sets the direction and perspective of the writing.",
+      "C": "Transitional words provide coherence, while the thesis provides unity.",
+      "D": "Editing and proofreading eliminate errors, not the thesis statement."
+    },
+    "keywords": [
+      "thesis statement",
+      "writing structure"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q012",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "The Writing Process",
+    "difficulty": "Medium",
+    "question": "Why does the course suggest that 'good writing is often a product of re-writing'?",
+    "options": [
+      "Because the first draft is always the most accurate representation of ideas.",
+      "Because drafting, revision, and editing are necessary to make material clear and logical.",
+      "Because academic papers must be written at least three times to be valid.",
+      "Because symbols must be rearranged to ensure the grammar is incorrect."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Drafting, revision, and editing are necessary processes to make the written material clear, lucid, logical, and free of error.",
+    "incorrectExplanations": {
+      "A": "The material explicitly states NOT to submit just the first draft.",
+      "B": "Correct. Improvement happens through iterative processes of revision.",
+      "C": "There is no specific rule for 'three times,' but a general rule for 're-writing.'",
+      "D": "Rearranging symbols for 'incorrect' grammar is nonsensical."
+    },
+    "keywords": [
+      "re-writing",
+      "revision",
+      "editing"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q013",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Speech Making",
+    "difficulty": "Medium",
+    "question": "How do 'paralinguistic' elements differ from 'linguistic' elements in speech making?",
+    "options": [
+      "Linguistic refers to body language, while paralinguistic refers to vocabulary.",
+      "Linguistic refers to the written script, while paralinguistic refers to the audience.",
+      "Linguistic refers to word choices, while paralinguistic refers to gestures, eye contact, and voice modulation.",
+      "There is no difference; they are synonymous terms for speaking skills."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Speech making involves linguistic (word choice) and paralinguistic aspects (body language, gestures, voice modulation) for interpretation.",
+    "incorrectExplanations": {
+      "A": "The definitions are swapped.",
+      "B": "These definitions do not capture the 'paralinguistic' features described in the text.",
+      "C": "Correct. Linguistic is verbal; paralinguistic is non-verbal/voice quality.",
+      "D": "The text highlights them as different categories that must both be effective."
+    },
+    "keywords": [
+      "linguistic",
+      "paralinguistic",
+      "speech making"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q014",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Language Skills Overview",
+    "subTopic": "Skill Integration",
+    "difficulty": "Medium",
+    "question": "When language skills are combined effectively, what secondary academic benefits does the learner gain according to the materials?",
+    "options": [
+      "Better physical health and faster typing speed.",
+      "Enhanced critical thinking and the ability to engage in complex discourse.",
+      "A higher grade point average without studying.",
+      "Increased popularity in group discussions."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Effective combination of these skills enhances critical thinking, the ability to engage in complex discourse, and provides a global perspective.",
+    "incorrectExplanations": {
+      "A": "These are not listed as benefits of language skill integration.",
+      "B": "Correct. These cognitive and intellectual benefits are explicitly mentioned.",
+      "C": "Academic success is mentioned as a result, but 'without studying' is false.",
+      "D": "While it might help, it is not the primary academic benefit listed."
+    },
+    "keywords": [
+      "critical thinking",
+      "skill integration"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q015",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Aims of Writing",
+    "difficulty": "Medium",
+    "question": "A student writing a personal journal entry about their daily feelings is primarily engaging which aim of writing?",
+    "options": [
+      "To inform",
+      "To persuade",
+      "To express",
+      "To be creative"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Writing to 'express' involves sharing ideas, feelings, and personal emotions.",
+    "incorrectExplanations": {
+      "A": "A personal journal is subjective, while informing is usually objective.",
+      "B": "The primary goal is self-reflection, not changing another's mind.",
+      "C": "Correct. Personal feelings fall under the 'expressive' aim.",
+      "D": "Creative writing often refers to literary forms like poetry or fiction."
+    },
+    "keywords": [
+      "expressive aim",
+      "journaling"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W1Q016",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Medium",
+    "question": "What is the result of achieving 'Coherence' in a piece of writing?",
+    "options": [
+      "The use of big, impressive words to show intelligence.",
+      "A smooth progression of thoughts from one sentence or paragraph to another.",
+      "The elimination of all supporting ideas to keep only the main points.",
+      "Ensuring the conclusion has exactly four sentences."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Coherence in writing means the smooth progression of thoughts from sentence to sentence and paragraph to paragraph.",
+    "incorrectExplanations": {
+      "A": "Coherence is about flow, not vocabulary difficulty.",
+      "B": "Correct. It ensures the reader can follow the development of ideas.",
+      "C": "Coherence supports the development of main ideas with supporting points, not their elimination.",
+      "D": "There is no such specific quantitative rule for coherence."
+    },
+    "keywords": [
+      "coherence",
+      "writing flow"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W1Q017",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Pronunciation",
+    "difficulty": "Medium",
+    "question": "Why is 'Accent' considered an important aspect of language learning in the material?",
+    "options": [
+      "It determines the correctness of a speaker's grammar.",
+      "It reflects cultural and regional diversity in language perception.",
+      "It is a sign of lack of practice in pronunciation.",
+      "It is the only way to achieve rhythmic speech."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Accent influences the perception of language and reflects cultural and regional diversity.",
+    "incorrectExplanations": {
+      "A": "Accent is phonological; grammar is syntactic. They are separate.",
+      "B": "Correct. The text notes accent as a reflection of diversity.",
+      "C": "Everyone has an accent; it is not a sign of poor practice.",
+      "D": "Rhythm is achieved through stress and intonation, not just accent."
+    },
+    "keywords": [
+      "accent",
+      "cultural diversity"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q018",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Speech Preparation",
+    "difficulty": "Medium",
+    "question": "Which of the following is identified as a vital step *before* engaging in a speaking task to manage challenges?",
+    "options": [
+      "Reading silently to the audience.",
+      "Predicting vocabulary that will be needed for the situation.",
+      "Avoiding eye contact to reduce anxiety.",
+      "Writing a 2,000-word essay first."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Steps before speaking include predicting what is going to happen, such as the vocabulary needed for the task.",
+    "incorrectExplanations": {
+      "A": "Silent reading does not help an audience understand a speech.",
+      "B": "Correct. Anticipating needed language tools is part of preparation.",
+      "C": "The text lists eye contact as a strategy for success, not something to avoid.",
+      "D": "Writing a long essay is not a standard pre-speaking preparation step in this context."
+    },
+    "keywords": [
+      "speech preparation",
+      "vocabulary prediction"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q019",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Hard",
+    "question": "If a writer ensures that all subsequent paragraphs in an essay unite to give a comprehensive explanation of the perspective introduced in the first paragraph, which quality is being demonstrated?",
+    "options": [
+      "Economy",
+      "Unity",
+      "Clarity",
+      "Simplicity"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Unity is achieved when the points developed in subsequent paragraphs unite to give a comprehensive explanation of the thesis statement.",
+    "incorrectExplanations": {
+      "A": "Economy deals with conciseness and brevity.",
+      "B": "Correct. Unity is the cohesive focus of all parts on the main thesis.",
+      "C": "Clarity is about the lack of ambiguity in the exposition.",
+      "D": "Simplicity is about avoiding unnecessary complexity in style."
+    },
+    "keywords": [
+      "unity",
+      "writing qualities",
+      "thesis statement"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q020",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Language Skills Overview",
+    "subTopic": "Expressive vs Receptive",
+    "difficulty": "Hard",
+    "question": "Analyze the following scenario: A student is watching a documentary and taking notes. Which combination of skills is the student using?",
+    "options": [
+      "Receptive (Listening) and Receptive (Reading)",
+      "Expressive (Speaking) and Expressive (Writing)",
+      "Receptive (Listening) and Expressive (Writing)",
+      "Receptive (Reading) and Expressive (Speaking)"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Watching/listening to a documentary is a receptive skill (Listening), while taking notes is an expressive skill (Writing).",
+    "incorrectExplanations": {
+      "A": "Note-taking is the production of information, making it expressive.",
+      "B": "Watching a film involves receiving information, making it receptive.",
+      "C": "Correct. The student receives audio info and produces written info.",
+      "D": "The student is not speaking, and is primarily listening rather than reading a text."
+    },
+    "keywords": [
+      "skill analysis",
+      "receptive",
+      "expressive"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W1Q021",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Aims of Writing",
+    "difficulty": "Hard",
+    "question": "A technical manual explaining how to assemble a computer would most likely utilize which primary aim or combination of aims?",
+    "options": [
+      "Creative and Persuasive",
+      "Informative and Expressive",
+      "To inform",
+      "To be creative"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Technical manuals are objective and factual, aiming to provide knowledge or instructions, which falls under 'To inform.'",
+    "incorrectExplanations": {
+      "A": "Manuals are not artistic/fictional (creative) nor generally trying to change a belief (persuasive).",
+      "B": "They are informative, but rarely 'expressive' of personal feelings.",
+      "C": "Correct. The primary goal is conveying factual instructions.",
+      "D": "Instructional writing avoids the unstructured nature of 'creative' aims."
+    },
+    "keywords": [
+      "informative aim",
+      "technical writing"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q022",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Interactive Nature",
+    "difficulty": "Hard",
+    "question": "The course states that the 'form and meaning' of speaking are dependent on several variables. Which of the following best synthesizes these variables?",
+    "options": [
+      "Grammar, Spelling, and Punctuation",
+      "Context, participants, physical environment, and purpose",
+      "Number of words used and the speaker's age",
+      "The written script and the use of a microphone"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Speaking's form and meaning are dependent on the context, participants, collective experiences, physical environment, and purposes.",
+    "incorrectExplanations": {
+      "A": "These are the constraints of written language, not the fluid variables of speech.",
+      "B": "Correct. These factors determine how meaning is constructed in a moment.",
+      "C": "These are superficial factors not emphasized as core meaning-shaping variables.",
+      "D": "Speech is described as often spontaneous, rather than being bound to a script."
+    },
+    "keywords": [
+      "speaking variables",
+      "context"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W1Q023",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Mastering Skills",
+    "difficulty": "Hard",
+    "question": "How does the master of written communication differentiate between 'graphic representation of speech' and 'structured writing'?",
+    "options": [
+      "Graphic representation is the use of symbols, while structured writing is the organized development of thoughts.",
+      "There is no difference; all symbols automatically create structure.",
+      "Graphic representation is expressive, while structured writing is receptive.",
+      "Graphic representation is for novelists, while structured writing is for students."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Writing involves not just graphic representation (use of symbols), but the development and presentation of thoughts and emotions in a structured manner.",
+    "incorrectExplanations": {
+      "A": "Correct. Structure adds organization to the raw act of symbol-making.",
+      "B": "The text states writing is 'not just' a graphic representation, implying two levels.",
+      "C": "Both levels described are part of the expressive skill of writing.",
+      "D": "Both are necessary for any proficient writer, regardless of profession."
+    },
+    "keywords": [
+      "structure",
+      "graphic representation",
+      "writing mastery"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W1Q024",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Communicative Competence",
+    "difficulty": "Hard",
+    "question": "What is the ultimate goal of working on 'troublesome sound segments' like stress and rhythm in language learning?",
+    "options": [
+      "To sound exactly like a native speaker.",
+      "To make speech clearer and more comprehensible to listeners.",
+      "To avoid having an accent entirely.",
+      "To eliminate the need for body language."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The goal of working on these segments is to improve communicative competence by making speech clearer and more comprehensible.",
+    "incorrectExplanations": {
+      "A": "The text focuses on 'clarity and comprehension,' not mimicking specific identities.",
+      "B": "Correct. Comprehensibility is the core objective of pronunciation practice.",
+      "C": "Accents are reflections of diversity and are not something the material suggests 'eliminating.'",
+      "D": "Paralinguistic features (body language) remain vital regardless of pronunciation."
+    },
+    "keywords": [
+      "comprehensibility",
+      "pronunciation",
+      "stress"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q025",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "The Writing Process",
+    "difficulty": "Hard",
+    "question": "During which stages of the writing process should conventions like spelling and punctuation be primarily emphasized?",
+    "options": [
+      "Planning and Drafting",
+      "Revision and Editing",
+      "Only during Publishing",
+      "When discovering and clarifying ideas"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "During the revision and editing stages, conventions such as spelling and punctuation are emphasized.",
+    "incorrectExplanations": {
+      "A": "These early stages should focus on ideas and discovery.",
+      "B": "Correct. Formal accuracy is the focus of the later 'polishing' stages.",
+      "C": "By the publishing stage, these should already be resolved.",
+      "D": "Focusing on punctuation while brainstorming can hinder the flow of ideas."
+    },
+    "keywords": [
+      "editing",
+      "conventions",
+      "spelling"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q026",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Hard",
+    "question": "In a persuasive essay, why is it critical to avoid 'emotional language' according to the summarized best practices?",
+    "options": [
+      "Because readers only care about the writer's feelings.",
+      "Because effective argumentation relies on logical structuring and addressing opposing viewpoints.",
+      "Because emotional language is always too simple for academic writing.",
+      "Because it makes the essay too long and wordy."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Effective argumentation involves logical structuring and addressing opposing viewpoints, rather than relying on emotional language.",
+    "incorrectExplanations": {
+      "A": "The 'expressive' aim cares about feelings; 'persuasion' requires logic.",
+      "B": "Correct. Logic is the foundation of scholarly persuasion.",
+      "C": "Complexity is not the issue; credibility and logical validity are.",
+      "D": "Length is not the primary reason to avoid emotional appeals in a logical argument."
+    },
+    "keywords": [
+      "argumentation",
+      "logic",
+      "persuasion"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W1Q027",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Language Skills Overview",
+    "subTopic": "Evolution of Skills",
+    "difficulty": "Hard",
+    "question": "Based on the conclusion of the 'Language Skills' lesson, which statement best describes the nature of these skills in a person's life?",
+    "options": [
+      "They are fixed tools acquired in childhood and never change.",
+      "They are a lifelong journey that evolves as an individual grows.",
+      "They are only relevant during one's time in a university setting.",
+      "They are purely academic requirements for graduation."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The material states that language skills are a lifelong journey that keep evolving as we grow.",
+    "incorrectExplanations": {
+      "A": "The text emphasizes growth and evolution over time.",
+      "B": "Correct. They are viewed as life companions that develop continuously.",
+      "C": "They are described as guiding one's contributions to the world beyond education.",
+      "D": "They are described as 'allies in personal and intellectual growth,' not just requirements."
+    },
+    "keywords": [
+      "lifelong learning",
+      "skill evolution"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W1Q028",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Hard",
+    "question": "Examine the following: 'Writers always have a reason for dealing with words.' This 'reason' is most accurately mapped to which concept in the writing process?",
+    "options": [
+      "The Topic",
+      "The Audience",
+      "The Aim or Purpose",
+      "The Symbols"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Writers have an aim or purpose—something they want to accomplish—which is the reason they use words.",
+    "incorrectExplanations": {
+      "A": "The topic is *what* they write about, not *why* they write.",
+      "B": "The audience is *who* they write for.",
+      "C": "Correct. Aim and purpose provide the 'why' behind the communication.",
+      "D": "Symbols are the tools used, not the reason for using them."
+    },
+    "keywords": [
+      "aim",
+      "purpose",
+      "writing reasoning"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W1Q029",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Speaking Skills",
+    "subTopic": "Meaning Interpretation",
+    "difficulty": "Hard",
+    "question": "If a speaker uses appropriate voice modulation but displays closed body language (like crossed arms), how might this impact the interpretation of the speech?",
+    "options": [
+      "It won't matter because only linguistic choices define meaning.",
+      "The paralinguistic aspects might conflict, hindering the intended meaning interpretation.",
+      "The listener will ignore the body language and only focus on the words.",
+      "Closed body language is a requirement for serious informative speeches."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Both linguistic and paralinguistic choices are crucial to meaning interpretation; inappropriate body language can interfere with understanding.",
+    "incorrectExplanations": {
+      "A": "Paralinguistic features are described as 'very crucial' to meaning.",
+      "B": "Correct. Conflict between tone and body language can confuse the message.",
+      "C": "Research and the text suggest paralinguistic elements are vital for interpretation.",
+      "D": "Open and effective body language is generally preferred for enhancement of understanding."
+    },
+    "keywords": [
+      "meaning interpretation",
+      "paralinguistics"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W1Q030",
+    "week": 1,
+    "weekTitle": "Language Skills I",
+    "topic": "Understanding Writing Skills",
+    "subTopic": "Writing Qualities",
+    "difficulty": "Hard",
+    "question": "Coherence is specifically achieved through which two types of arrangement of ideas?",
+    "options": [
+      "Subjective and Objective",
+      "Chronological or Logical",
+      "Brief or Condensing",
+      "Linguistic or Paralinguistic"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Coherence could be achieved through chronological or logical arrangement of thoughts and ideas.",
+    "incorrectExplanations": {
+      "A": "These describe points of view, not the flow/arrangement of a text.",
+      "B": "Correct. These are the two methods listed for achieving a smooth progression of thoughts.",
+      "C": "These describe the act of summarizing, not the internal flow/arrangement.",
+      "D": "These are categories related to speaking skills, not the arrangement of written thoughts."
+    },
+    "keywords": [
+      "coherence",
+      "logical arrangement",
+      "chronological arrangement"
+    ],
+    "estimatedTime": 55
+  }
+]

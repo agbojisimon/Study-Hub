@@ -1,0 +1,906 @@
+[
+  {
+    "id": "W8Q001",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Inference",
+    "difficulty": "Easy",
+    "question": "According to the course glossary, which of the following best defines 'Inference'?",
+    "options": [
+      "A summary of a text's main ideas",
+      "A conclusion drawn based on evidence and reasoning",
+      "A direct quotation from a primary source",
+      "The literal meaning of an idiomatic expression"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The glossary explicitly defines inference as a conclusion drawn based on evidence and reasoning.",
+    "incorrectExplanations": {
+      "A": "This describes a summary, not the logical leap of an inference.",
+      "B": "Correct. It is a derivation from known facts.",
+      "C": "This is a citation or evidence, not the conclusion derived from it.",
+      "D": "Inferences often go beyond literal interpretations."
+    },
+    "keywords": [
+      "inference",
+      "reasoning",
+      "logic"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q002",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Synthesis",
+    "difficulty": "Easy",
+    "question": "In an academic context, what is the core goal of 'Synthesis'?",
+    "options": [
+      "To repeat information in a different order",
+      "To combine different ideas to create a new understanding",
+      "To critique the flaws of a single source",
+      "To list all relevant sources alphabetically"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Synthesis is the combination of different ideas, concepts, or information to create a new understanding.",
+    "incorrectExplanations": {
+      "A": "Repetition without integration is not synthesis.",
+      "B": "Correct. It involves creating new meaning from multiple parts.",
+      "C": "Critique is an analytical step that may precede or follow synthesis.",
+      "D": "This describes a bibliography or reference list."
+    },
+    "keywords": [
+      "synthesis",
+      "integration",
+      "understanding"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q003",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Interdisciplinary",
+    "difficulty": "Easy",
+    "question": "Which term describes an approach involving multiple academic fields or fields of study?",
+    "options": [
+      "Monodisciplinary",
+      "Interdisciplinary",
+      "Didacticism",
+      "Epistemology"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Interdisciplinary is defined as involving multiple academic disciplines or fields of study, emphasizing collaboration.",
+    "incorrectExplanations": {
+      "A": "This describes a single field, the opposite of the definition provided.",
+      "B": "Correct. It refers to the integration of diverse perspectives.",
+      "C": "Didacticism refers to instructional or moral messages.",
+      "D": "Epistemology is a specific branch of philosophy."
+    },
+    "keywords": [
+      "interdisciplinary",
+      "disciplines",
+      "collaboration"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q004",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Rubric",
+    "difficulty": "Easy",
+    "question": "What is the primary function of a 'Rubric' in university education?",
+    "options": [
+      "To serve as a syllabus for the semester",
+      "To provide guidelines or criteria for grading assignments",
+      "To list the mandatory prerequisites for a course",
+      "To provide a summary of a lecture"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A rubric is a set of guidelines or criteria used to evaluate and grade academic assignments.",
+    "incorrectExplanations": {
+      "A": "A syllabus outlines the entire course, not just specific grading criteria.",
+      "B": "Correct. It ensures transparency and clarifies expectations.",
+      "C": "Prerequisites are requirements completed before taking a course.",
+      "D": "This is a post-lecture summary, not a grading tool."
+    },
+    "keywords": [
+      "rubric",
+      "grading",
+      "criteria"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q005",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Epistemology",
+    "difficulty": "Easy",
+    "question": "Which branch of philosophy deals specifically with the nature and scope of knowledge?",
+    "options": [
+      "Etymology",
+      "Epistemology",
+      "Entomology",
+      "Ecology"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Epistemology is the branch of philosophy concerned with the nature, origin, and scope of knowledge.",
+    "incorrectExplanations": {
+      "A": "Etymology is the study of word origins, not knowledge itself.",
+      "B": "Correct. It explores how we know what we know.",
+      "C": "Entomology is the study of insects.",
+      "D": "Ecology is the study of organisms and their environment."
+    },
+    "keywords": [
+      "epistemology",
+      "philosophy",
+      "knowledge"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q006",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Didacticism",
+    "difficulty": "Easy",
+    "question": "If a text is described as 'Didactic,' what is its most likely purpose?",
+    "options": [
+      "To entertain through fictional storytelling",
+      "To instruct or teach, often with a moral message",
+      "To confuse the reader with harsh sounds",
+      "To present raw data without analysis"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Didacticism is the practice of emphasizing moral or educational messages in literature, art, or teaching.",
+    "incorrectExplanations": {
+      "A": "While it can be in literature, its core purpose is instructional rather than just entertainment.",
+      "B": "Correct. It is intended to give information or moral instruction.",
+      "C": "This describes cacophony, not didacticism.",
+      "D": "Didactic texts often involve heavy interpretation and messaging."
+    },
+    "keywords": [
+      "didactic",
+      "moral",
+      "instruction"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q007",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Inductive vs Deductive",
+    "difficulty": "Easy",
+    "question": "Which type of reasoning provides conclusions that are 'probable' or 'likely' rather than guaranteed?",
+    "options": [
+      "Deductive reasoning",
+      "Inductive reasoning",
+      "Syllogistic reasoning",
+      "Mathematical proof"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Inductive reasoning provides conclusions that are probable or likely, but not guaranteed to be true.",
+    "incorrectExplanations": {
+      "A": "Deductive reasoning aims for absolute logical certainty if premises are true.",
+      "B": "Correct. It is based on patterns and generalizations.",
+      "C": "Syllogisms are a common form of deductive reasoning.",
+      "D": "Proofs are deductive and absolute."
+    },
+    "keywords": [
+      "inductive",
+      "probability",
+      "logic"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q008",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "A 'Syllogism' is a form of reasoning where a conclusion is drawn from how many premises?",
+    "options": [
+      "One single observation",
+      "Two given or assumed propositions",
+      "A large dataset of thousands of points",
+      "A random guess"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A syllogism is a form of reasoning in which a conclusion is drawn from two given or assumed propositions (premises).",
+    "incorrectExplanations": {
+      "A": "Single observations are the basis of induction, not the formal syllogism structure.",
+      "B": "Correct. This is the standard deductive structure identified in the text.",
+      "C": "Large datasets are typically associated with quantitative analysis or induction.",
+      "D": "Logic is systematic investigation, not random guessing."
+    },
+    "keywords": [
+      "syllogism",
+      "premises",
+      "deductive"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q009",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Peer Review",
+    "difficulty": "Easy",
+    "question": "What is the term for the evaluation of scholarly work by experts in the same field before publication?",
+    "options": [
+      "Citing",
+      "Peer review",
+      "Synthesis",
+      "Inference"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Peer review is the evaluation of scholarly work by experts in the same field before it is published.",
+    "incorrectExplanations": {
+      "A": "Citing is acknowledging an author, not evaluating the work for publication.",
+      "B": "Correct. It is a quality control mechanism in academia.",
+      "C": "Synthesis is combining ideas into new understanding.",
+      "D": "Inference is a logical conclusion from evidence."
+    },
+    "keywords": [
+      "peer review",
+      "evaluation",
+      "experts"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q010",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Quantitative Analysis",
+    "difficulty": "Medium",
+    "question": "A researcher using numerical and statistical methods to identify trends in a large dataset is performing what task?",
+    "options": [
+      "Didacticism",
+      "Epistemological shift",
+      "Quantitative Analysis",
+      "Cacophony reduction"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Quantitative Analysis is the examination of data through numerical and statistical methods to identify patterns and trends.",
+    "incorrectExplanations": {
+      "A": "Didacticism is about teaching moral lessons, not statistical analysis.",
+      "B": "This refers to the philosophy of how knowledge changes over time.",
+      "C": "Correct. It uses mathematical rigor to process datasets.",
+      "D": "Cacophony refers to mixtures of harsh sounds, unrelated to statistics."
+    },
+    "keywords": [
+      "quantitative",
+      "statistics",
+      "numerical"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q011",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Metacognition",
+    "difficulty": "Medium",
+    "question": "What is the primary focus of 'Metacognition' in the context of learning?",
+    "options": [
+      "Memorizing the vocabulary of a foreign language",
+      "Thinking about and being aware of one's own thinking processes",
+      "Participating in interdisciplinary dialogues",
+      "Writing a dissertation after years of research"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Metacognition involves thinking about one’s own thinking processes, including awareness of one’s cognitive abilities.",
+    "incorrectExplanations": {
+      "A": "This is a specific memory task, not the self-awareness of the process itself.",
+      "B": "Correct. It is the awareness and management of how one learns.",
+      "C": "This is a collaborative activity between disciplines.",
+      "D": "A dissertation is a final product, whereas metacognition is an ongoing cognitive process."
+    },
+    "keywords": [
+      "metacognition",
+      "thinking processes",
+      "awareness"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q012",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Strength",
+    "difficulty": "Medium",
+    "question": "On what two factors does the 'strength' of an inductive conclusion primarily depend?",
+    "options": [
+      "The font size and the page count of the report",
+      "The quantity and quality of the evidence",
+      "The number of prerequisites and the lecturer's tone",
+      "The use of synonyms and idiomatic expressions"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state that the strength of an inductive conclusion 'depends on the quantity and quality of the evidence'.",
+    "incorrectExplanations": {
+      "A": "These are superficial visual traits that do not impact logical strength.",
+      "B": "Correct. More relevant and consistent data leads to a higher probability of truth.",
+      "C": "Prerequisites and tone are classroom/speaking factors.",
+      "D": "These are linguistic tools that do not define logical probability."
+    },
+    "keywords": [
+      "inductive strength",
+      "evidence",
+      "probability"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q013",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Case Study Analysis",
+    "difficulty": "Medium",
+    "question": "In the case study regarding mosquito activity and disease outbreaks, why is the conclusion described as 'likely'?",
+    "options": [
+      "Because the researchers used deductive reasoning",
+      "Because past patterns do not guarantee that future events will always follow the same correlation",
+      "Because the study involved more than 2,000 students",
+      "Because the data was based on a random guess"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In inductive reasoning, conclusions are based on probabilities from observed patterns; they are not guaranteed to be true.",
+    "incorrectExplanations": {
+      "A": "Deductive reasoning would lead to a certain conclusion if the logic were categorical.",
+      "B": "Correct. Induction acknowledges that patterns are likely but not absolute.",
+      "C": "The student count (2000) was from the abstinence-only study, not the mosquito case.",
+      "D": "The case is based on 'Premise 1: In the past...' which is evidence, not a guess."
+    },
+    "keywords": [
+      "case study",
+      "mosquito",
+      "likely",
+      "induction"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q014",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Sampling Bias",
+    "difficulty": "Medium",
+    "question": "Which limitation of inductive reasoning occurs when the observations do not represent the entire group being studied?",
+    "options": [
+      "Epistemological shift",
+      "Sampling bias",
+      "Didacticism",
+      "Syllogistic fallacy"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text lists 'sampling bias' as a potential limitation and weakness of inductive reasoning.",
+    "incorrectExplanations": {
+      "A": "This refers to changes in how knowledge is understood, not a logical error in sampling.",
+      "B": "Correct. Skewed observations lead to unreliable generalizations.",
+      "C": "Didacticism is an instructional style, not a statistical sampling error.",
+      "D": "This relates to deductive errors, while the question focuses on observational generalizations."
+    },
+    "keywords": [
+      "sampling bias",
+      "limitations",
+      "induction"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q015",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Synthesis vs Summary",
+    "difficulty": "Medium",
+    "question": "How does 'Synthesis' provide a more advanced level of comprehension than a simple 'Summary'?",
+    "options": [
+      "Synthesis is always longer and contains more details",
+      "Synthesis combines ideas to create new understanding rather than just condensing existing points",
+      "Summary is only used for letters, while synthesis is for reports",
+      "Synthesis removes the need for citations and references"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "While summarizing distills existing main ideas, synthesis involves combining different ideas to create a 'new understanding'.",
+    "incorrectExplanations": {
+      "A": "Length is not the distinguishing factor; conceptual integration is.",
+      "B": "Correct. Synthesis is a constructive act of linking diverse concepts.",
+      "C": "Both are used across various academic writing types.",
+      "D": "Citations are essential in all academic writing, especially when integrating sources."
+    },
+    "keywords": [
+      "synthesis",
+      "summary",
+      "comprehension"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q016",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Prerequisite",
+    "difficulty": "Medium",
+    "question": "What is the meaning of the term 'Prerequisite' in an academic system?",
+    "options": [
+      "A final examination taken at the end of a degree",
+      "A required course or condition that must be completed before an advanced one",
+      "A set of guidelines for formatting a research paper",
+      "The vocab of a specific branch of knowledge"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A prerequisite is defined as a required course or condition that must be completed before taking a more advanced course.",
+    "incorrectExplanations": {
+      "A": "This is a capstone or final requirement, not a preceding one.",
+      "B": "Correct. It represents a sequential requirement for progress.",
+      "C": "This is a rubric or formatting guideline.",
+      "D": "This describes 'vocabulary' or 'jargon'."
+    },
+    "keywords": [
+      "prerequisite",
+      "requirement",
+      "advanced"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q017",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Scholarship",
+    "difficulty": "Medium",
+    "question": "Which term describes both academic achievement and a grant made to support a student's education?",
+    "options": [
+      "Epistemology",
+      "Scholarship",
+      "Rubric",
+      "Didacticism"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Scholarship is defined as academic study or achievement, as well as a grant or payment made to support education.",
+    "incorrectExplanations": {
+      "A": "This is the study of knowledge itself.",
+      "B": "Correct. The term encompasses both the act of study and financial support.",
+      "C": "A rubric is a grading tool.",
+      "D": "This is an instructional practice/focus."
+    },
+    "keywords": [
+      "scholarship",
+      "achievement",
+      "grant"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q018",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Cacophony",
+    "difficulty": "Medium",
+    "question": "In a description of a university cafeteria, what would 'a harsh, discordant mixture of sounds' be called?",
+    "options": [
+      "Kairos",
+      "Cacophony",
+      "Syllogism",
+      "Intonation"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Cacophony is defined as a harsh, discordant mixture of sounds or voices.",
+    "incorrectExplanations": {
+      "A": "Kairos is the opportune moment for effective communication.",
+      "B": "Correct. It accurately describes the chaotic sound environment.",
+      "C": "Syllogism is a logical reasoning form.",
+      "D": "Intonation is the variation in pitch for meaning while speaking."
+    },
+    "keywords": [
+      "cacophony",
+      "sounds",
+      "mixture"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q019",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Validity vs Soundness",
+    "difficulty": "Hard",
+    "question": "For a 'Deductive Argument' to be successful, it must follow a certain structure. What is the fundamental requirement for its conclusion to be considered absolute?",
+    "options": [
+      "The conclusion must be checked by experts in the same field",
+      "The conclusion must follow logically from premises that are also true",
+      "The researcher must use quantitative analysis to prove the premises",
+      "The argument must rely on general patterns from the past"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Deductive reasoning aims for certainty; if the structure is valid and the premises are true, the conclusion is guaranteed.",
+    "incorrectExplanations": {
+      "A": "This describes peer review, a quality control process, not a logical requirement.",
+      "B": "Correct. Both logical validity and factual truth (soundness) are required.",
+      "C": "Quantitative analysis is a method of study, not the definition of deductive success.",
+      "D": "Relying on general patterns is the method of inductive reasoning."
+    },
+    "keywords": [
+      "deductive",
+      "premises",
+      "logic",
+      "certainty"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q020",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Limitations",
+    "difficulty": "Hard",
+    "question": "Which of the following is NOT listed as a potential weakness or limitation of 'Inductive Reasoning' in the course materials?",
+    "options": [
+      "Reliance on incomplete data",
+      "Potential for coincidental patterns",
+      "Possibility of sampling bias",
+      "Drawing conclusions from two given propositions"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "Drawing conclusions from two given propositions is the definition of a syllogism (deduction), not a limitation of induction.",
+    "incorrectExplanations": {
+      "A": "This is explicitly listed as a limitation of induction.",
+      "B": "This is explicitly listed as a limitation of induction.",
+      "C": "This is explicitly listed as a limitation of induction.",
+      "D": "Correct. This describes a specific deductive form, not an inductive failure."
+    },
+    "keywords": [
+      "induction",
+      "weaknesses",
+      "limitations"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q021",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Coincidental Patterns",
+    "difficulty": "Hard",
+    "question": "A student notices that every time they wear blue socks, they pass a test. Concluding that 'blue socks cause success' would be a failure in reasoning due to which inductive limitation?",
+    "options": [
+      "Sampling bias",
+      "Potential for coincidental patterns",
+      "Lack of interdisciplinary dialogue",
+      "Failure to use a rubric"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text warns of the 'potential for coincidental patterns' as a weakness where two unrelated events appear linked by chance.",
+    "incorrectExplanations": {
+      "A": "Sampling bias is about the size/diversity of the group, not the chance nature of the event itself.",
+      "B": "Correct. Correlation does not imply causation in this inductive flaw.",
+      "C": "Interdisciplinary dialogue involves combining diverse academic perspectives.",
+      "D": "A rubric is a tool for grading, not for logical causal analysis."
+    },
+    "keywords": [
+      "coincidental",
+      "logic",
+      "causation",
+      "limitation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q022",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Epistemology Usage",
+    "difficulty": "Hard",
+    "question": "Based on the usage example, how does Maria's study of 'Epistemology' relate to 'Paradigms'?",
+    "options": [
+      "She uses epistemology to count how many paradigms exist",
+      "She explores how paradigms shift and how knowledge evolves",
+      "She argues that paradigms are a type of harsh sound",
+      "She uses epistemology to replace peer review"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The usage example says Maria 'delved into the epistemology... exploring how paradigms shift and knowledge evolves'.",
+    "incorrectExplanations": {
+      "A": "Epistemology is about the nature of knowledge, not just counting.",
+      "B": "Correct. It looks at the framework of understanding and its change over time.",
+      "C": "Harsh sounds are described as cacophony.",
+      "D": "Peer review and epistemology are distinct academic concepts."
+    },
+    "keywords": [
+      "epistemology",
+      "paradigms",
+      "usage"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q023",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Interdisciplinary",
+    "difficulty": "Hard",
+    "question": "Why is 'Interdisciplinary Dialogue' emphasized in the usage example of a scholarly conference?",
+    "options": [
+      "To ensure that only one discipline's terminology is used",
+      "To bring together scholars from various backgrounds to explore common themes",
+      "To provide a single moral message for all participants",
+      "To ensure the lecture gerenci managed to be didactic"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The example states the dialogue aimed to 'bring together scholars from various backgrounds to explore common themes' through integrated perspectives.",
+    "incorrectExplanations": {
+      "A": "Interdisciplinary work requires the 'integration of diverse perspectives' from multiple fields.",
+      "B": "Correct. It fosters collaboration across boundaries.",
+      "C": "Emphasizing moral messages is the focus of didacticism.",
+      "D": "The text notes a lecture manage to captivate 'though didactic in nature,' which is a separate context."
+    },
+    "keywords": [
+      "interdisciplinary",
+      "common themes",
+      "scholars"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q024",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Inductive Case Study",
+    "difficulty": "Hard",
+    "question": "Analyze the mosquito case study's structure. If 'Premise 2' were removed, what would be the result for the 'General Conclusion'?",
+    "options": [
+      "The conclusion would become absolute and certain",
+      "The conclusion could not be logically drawn because the specific current case would be missing",
+      "The conclusion would turn into a categorical syllogism",
+      "The conclusion would remain 'likely' based only on past patterns"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Inductive prediction requires both a general pattern (Premise 1) and a specific current event (Premise 2) to lead to a conclusion about a likely outcome.",
+    "incorrectExplanations": {
+      "A": "Induction never leads to absolute certainty regardless of premise count.",
+      "B": "Correct. Without Premise 2 ('recent increase'), there is no reason to predict a current outbreak.",
+      "C": "A syllogism requires two premises to derive a conclusion.",
+      "D": "A prediction requires a current fact to apply the past pattern to; without it, you only have the pattern."
+    },
+    "keywords": [
+      "logic analysis",
+      "premises",
+      "prediction"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q025",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Syllogism Structure",
+    "difficulty": "Hard",
+    "question": "Based on the definition of a 'Syllogism,' which of the following represents a classic deductive structure matching the description?",
+    "options": [
+      "I observed one swan is white; therefore all swans are white",
+      "All humans are mortal; Socrates is a human; therefore Socrates is mortal",
+      "Mosquito activity increased in the past; activity is increasing now; there will likely be a disease",
+      "A set of guidelines used to evaluate an assignment"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A syllogism draws a conclusion from two assumed propositions. The Socrates example is a classic categorical syllogism.",
+    "incorrectExplanations": {
+      "A": "This is an inductive generalization from a single point.",
+      "B": "Correct. This follows the rule of conclusion from two premises.",
+      "C": "This is inductive reasoning (probabilistic prediction).",
+      "D": "This is the definition of a rubric."
+    },
+    "keywords": [
+      "syllogism",
+      "deduction",
+      "Socrates"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q026",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Rubric and Transparency",
+    "difficulty": "Hard",
+    "question": "According to the vocabulary usage notes, why does a professor provide a detailed rubric?",
+    "options": [
+      "To ensure that every student gets the same grade",
+      "To ensure transparency in grading and clarify expectations",
+      "To increase the word count of the research paper",
+      "To identify the socio-economic impacts of urbanization"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The usage note says the rubric is provided 'to clarify the expectations... ensuring transparency in grading'.",
+    "incorrectExplanations": {
+      "A": "Rubrics allow for different grades based on different performance levels against the criteria.",
+      "B": "Correct. It makes the evaluation process visible and fair.",
+      "C": "Rubrics are guides for evaluation, not the content of the paper itself.",
+      "D": "This is a topic Sarah used for her dissertation, not the purpose of a rubric."
+    },
+    "keywords": [
+      "rubric",
+      "transparency",
+      "expectations"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q027",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Synthesis Application",
+    "difficulty": "Hard",
+    "question": "A student is task with a 'Synthesis' assignment. What activity must they demonstrate to succeed?",
+    "options": [
+      "Condensing a long article into a few short sentences",
+      "Linking multiple concepts and ideas to form a deeper understanding",
+      "Identifying typographical errors in a draft",
+      "Reading complex academic material quickly"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Synthesis is the combination of different ideas/concepts to create a new understanding.",
+    "incorrectExplanations": {
+      "A": "This is a summary, not a synthesis.",
+      "B": "Correct. It requires the integration of diverse components.",
+      "C": "This is proofreading.",
+      "D": "Speed is not the objective; analytical integration is."
+    },
+    "keywords": [
+      "synthesis",
+      "integration",
+      "new understanding"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q028",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Citation and Integrity",
+    "difficulty": "Hard",
+    "question": "Why is 'Proper Citation' explicitly linked to 'scholarly integrity' in the materials?",
+    "options": [
+      "Because citation is a prerequisite for graduating",
+      "Because it acknowledges and gives credit to the original author, avoiding plagiarism",
+      "Because it makes the paper management manageable",
+      "Because it helps Maria explore paradigms in her thesis"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Citation is used to acknowledge the original author, which is essential to avoid plagiarism and uphold integrity.",
+    "incorrectExplanations": {
+      "A": "While required, the 'reason' for the link to integrity is ethical attribution.",
+      "B": "Correct. Ethics and attribution are the core goals.",
+      "C": "This is a logistical benefit, not the core ethical reason.",
+      "D": "This is a specific example of usage, not the general reason for integrity."
+    },
+    "keywords": [
+      "citation",
+      "integrity",
+      "plagiarism"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q029",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Scholarly Vocabulary",
+    "subTopic": "Analysis Types",
+    "difficulty": "Hard",
+    "question": "Differentiate between 'Quantitative Analysis' and 'Research' based on the definitions in Source 101-104.",
+    "options": [
+      "Quantitative analysis is numerical, whereas research is the systematic investigation into sources to establish facts",
+      "Quantitative analysis is for philosophy, whereas research is for science only",
+      "Research is a form of didacticism, whereas quantitative analysis is synthesis",
+      "There is no difference; they are synonymous terms"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Source 101 defines quantitative analysis by its numerical/statistical method. Source 104 defines research as the systematic investigation into materials to establish facts.",
+    "incorrectExplanations": {
+      "A": "Correct. One is a specific data processing method; the other is the broader systematic study.",
+      "B": "Both can be used in science and social research.",
+      "C": "Research and analysis are distinct from didacticism (instructional style).",
+      "D": "They are distinct academic terms with specific roles in the study process."
+    },
+    "keywords": [
+      "quantitative",
+      "research",
+      "differentiation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q030",
+    "week": 8,
+    "weekTitle": "Comprehension Strategies II",
+    "topic": "Reasoning",
+    "subTopic": "Logical Summary",
+    "difficulty": "Hard",
+    "question": "Based on the comprehensive view of logical reasoning, what makes 'Deductive' logic 'akin to all or nothing' compared to induction?",
+    "options": [
+      "It requires more words to explain",
+      "If the structure is valid and premises are true, the conclusion MUST be true, whereas induction only deals in probabilities",
+      "Deduction is only for experts who do peer review",
+      "Deduction excludes the possibility of using content words"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Deduction provides absolute logical guarantees, unlike induction which only acknowledge nuances and probabilities.",
+    "incorrectExplanations": {
+      "A": "Efficiency is not the hallmark; structural certainty is.",
+      "B": "Correct. It is structurally definitive.",
+      "C": "All researchers can use logic; peer review is an external evaluation process.",
+      "D": "All reasoning uses content words to convey meaning."
+    },
+    "keywords": [
+      "deductive",
+      "certainty",
+      "probability",
+      "logic"
+    ],
+    "estimatedTime": 60
+  }
+]

@@ -1,0 +1,894 @@
+[
+  {
+    "id": "W2Q001",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Listening Skills",
+    "subTopic": "Active vs. Passive Listening",
+    "difficulty": "Easy",
+    "question": "Which of the following describes 'Active Listening' as defined in the course materials?",
+    "options": [
+      "Merely hearing sounds without deep comprehension",
+      "Involving full engagement and interpretation of the message",
+      "Listening to background music while studying",
+      "The physical ability of the ear to detect vibrations"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Active listening involves full engagement with the speaker, while passive listening is described as merely hearing without deep comprehension.",
+    "incorrectExplanations": {
+      "A": "This describes passive listening, not active listening.",
+      "B": "Correct. Active listening requires engagement and processing of information.",
+      "C": "This is an example provided for passive listening.",
+      "D": "This refers to the physical sense of hearing rather than the cognitive skill of active listening."
+    },
+    "keywords": [
+      "active listening",
+      "passive listening",
+      "engagement"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q002",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Listening Skills",
+    "subTopic": "Definition and Scope",
+    "difficulty": "Easy",
+    "question": "The course defines 'Listening' as the ability to perform which three actions regarding spoken language?",
+    "options": [
+      "Hear, Repeat, and Memorize",
+      "Understand, Interpret, and Respond",
+      "Record, Transcribe, and Edit",
+      "Ignore, Filter, and Select"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Listening is defined as the ability to understand, interpret, and respond to spoken language.",
+    "incorrectExplanations": {
+      "A": "While these involve audio, they do not capture the interpretive and responsive nature of listening defined in the text.",
+      "B": "Correct. These three components form the core definition of the skill.",
+      "C": "These are technical or writing-related tasks, not the definition of the listening skill.",
+      "D": "These describe selective attention or poor listening habits, not the skill itself."
+    },
+    "keywords": [
+      "listening definition",
+      "interpret",
+      "respond"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q003",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R Components",
+    "difficulty": "Easy",
+    "question": "In the SQ3R reading strategy, what does the 'S' stand for?",
+    "options": [
+      "Summarize",
+      "Select",
+      "Survey",
+      "Scan"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The acronym SQ3R stands for Survey, Question, Read, Recite, and Review.",
+    "incorrectExplanations": {
+      "A": "Summarizing is an outcome of good reading but not the 'S' in this specific acronym.",
+      "B": "Selection is not the first step of the SQ3R method.",
+      "C": "Correct. Surveying is the initial scanning of the text for structure.",
+      "D": "Scanning is a technique used during the Survey phase, but the step itself is called 'Survey'."
+    },
+    "keywords": [
+      "SQ3R",
+      "Survey",
+      "reading strategy"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q004",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "What does 'Vocabulary Expansion' refer to in the context of language development?",
+    "options": [
+      "Using the same words repeatedly to ensure accuracy",
+      "The process of increasing one’s repertoire of words and expressions",
+      "Removing complex words from one's writing to improve clarity",
+      "The study of how vowels and consonants are formed"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Vocabulary expansion refers to the process of increasing one’s repertoire of words and expressions in a language.",
+    "incorrectExplanations": {
+      "A": "Repeated use of the same words is the opposite of expansion.",
+      "B": "Correct. It is about building a broader range of linguistic tools.",
+      "C": "While clarity is important, expansion specifically refers to adding to one's word bank.",
+      "D": "This describes phonetics/pronunciation, not vocabulary expansion."
+    },
+    "keywords": [
+      "vocabulary expansion",
+      "repertoire"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q005",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Easy",
+    "question": "Which term is defined as 'Thinking about one’s own thinking processes'?",
+    "options": [
+      "Semiotics",
+      "Syllogism",
+      "Metacognition",
+      "Didacticism"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Metacognition is defined as thinking about one’s own thinking processes, including awareness and understanding of one’s cognitive abilities.",
+    "incorrectExplanations": {
+      "A": "Semiotics is the study of signs and symbols.",
+      "B": "Syllogism is a logical argument form.",
+      "C": "Correct. This term refers to self-awareness of cognitive processes.",
+      "D": "Didacticism refers to the practice of emphasizing moral or educational messages."
+    },
+    "keywords": [
+      "metacognition",
+      "thinking processes"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q006",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Reading Skills",
+    "subTopic": "Comprehension Elements",
+    "difficulty": "Easy",
+    "question": "According to the materials, effective reading involves understanding which three elements?",
+    "options": [
+      "Grammar, Spelling, and Font",
+      "Main ideas, Context, and Subtext",
+      "Title, Author, and Publication date",
+      "Nouns, Verbs, and Adjectives"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Effective reading involves understanding main ideas, context, and subtext.",
+    "incorrectExplanations": {
+      "A": "These are surface-level conventions, not the core interpretive elements listed.",
+      "B": "Correct. These allow for a deeper understanding of the text's meaning.",
+      "C": "These are bibliographic details, not the comprehension elements of the content itself.",
+      "D": "These are parts of speech, which contribute to meaning but are not the three specific elements highlighted for comprehension."
+    },
+    "keywords": [
+      "reading comprehension",
+      "main ideas",
+      "subtext"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q007",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R - Survey",
+    "difficulty": "Easy",
+    "question": "What is the primary activity performed during the 'Survey' phase of SQ3R?",
+    "options": [
+      "Answering end-of-chapter questions",
+      "Writing a detailed summary of every paragraph",
+      "Quickly scanning headings, subheadings, and images",
+      "Memorizing the first and last sentences of the text"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Surveying involves quickly scanning the entire text—looking at headings, subheadings, and images—to get a sense of structure and main ideas.",
+    "incorrectExplanations": {
+      "A": "Answering questions happens during or after the 'Read' phase.",
+      "B": "Writing summaries is part of the 'Review' or 'Recite' phases.",
+      "C": "Correct. It provides an overview before detailed reading begins.",
+      "D": "Memorization is not the goal of surveying."
+    },
+    "keywords": [
+      "survey",
+      "scanning",
+      "SQ3R"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q008",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Easy",
+    "question": "Which term refers to the 'study of signs and symbols and their role in communication'?",
+    "options": [
+      "Phonetics",
+      "Semantics",
+      "Semiotics",
+      "Syntax"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Semiotics is the study of signs and symbols, their interpretation, and their role in communication.",
+    "incorrectExplanations": {
+      "A": "Phonetics is the study of speech sounds.",
+      "B": "Semantics is the study of meaning in language, but semiotics specifically targets signs/symbols.",
+      "C": "Correct. This definition matches the vocabulary section exactly.",
+      "D": "Syntax refers to the arrangement of words in sentences."
+    },
+    "keywords": [
+      "semiotics",
+      "symbols",
+      "communication"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q009",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Listening Skills",
+    "subTopic": "Examples",
+    "difficulty": "Easy",
+    "question": "Which of the following is an example provided in the text for 'Active Listening'?",
+    "options": [
+      "Listening to background music",
+      "Hearing birds chirping in the distance",
+      "Listening to a TED Talk and summarizing the main ideas",
+      "Daydreaming while someone else is speaking"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Listening to a TED Talk and summarizing the main ideas is provided as an example of active listening.",
+    "incorrectExplanations": {
+      "A": "This is an example of passive listening.",
+      "B": "This is an example of hearing, not active listening.",
+      "C": "Correct. It involves engagement and processing (summarizing).",
+      "D": "This describes a lack of listening/engagement."
+    },
+    "keywords": [
+      "active listening example",
+      "TED Talk"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W2Q010",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Reading Skills",
+    "subTopic": "Comprehension Elements",
+    "difficulty": "Medium",
+    "question": "How does the course distinguish between 'Context' and 'Subtext' in reading comprehension?",
+    "options": [
+      "Context is the physical book; subtext is the digital version.",
+      "Context is the surrounding information; subtext is the underlying or hidden meaning.",
+      "Context is the author's biography; subtext is the table of contents.",
+      "Context is the main idea; subtext is the summary."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In effective reading, understanding context involves the situation or surrounding info, while subtext involves deeper, hidden meanings.",
+    "incorrectExplanations": {
+      "A": "These refer to the medium of delivery, not interpretive elements.",
+      "B": "Correct. Context provides the setting; subtext provides the implied message.",
+      "C": "These are external or structural features, not comprehension elements.",
+      "D": "The main idea is a separate element from context and subtext."
+    },
+    "keywords": [
+      "context",
+      "subtext",
+      "reading comprehension"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q011",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R - Question",
+    "difficulty": "Medium",
+    "question": "During the 'Question' phase of SQ3R, what is the source of the questions the reader should ask?",
+    "options": [
+      "The questions found in the Tutor-Marked Assessment",
+      "Questions generated by the reader based on the initial survey",
+      "Questions provided by the lecturer before the class",
+      "Random questions from a dictionary or thesaurus"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In the Question phase, you generate questions based on what you've discovered during the survey to guide your reading.",
+    "incorrectExplanations": {
+      "A": "While helpful, the strategy specifically calls for reader-generated questions first.",
+      "B": "Correct. The reader creates their own inquiries to focus their attention.",
+      "C": "The strategy emphasizes active reader participation over passive reception.",
+      "D": "Questions must be relevant to the material discovered in the survey."
+    },
+    "keywords": [
+      "SQ3R",
+      "Question phase",
+      "reader-generated"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q012",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R - Read",
+    "difficulty": "Medium",
+    "question": "The 'Read' phase of the SQ3R strategy identifies two main goals. What are they?",
+    "options": [
+      "Reading for speed and reading for grammar errors",
+      "Reading to answer generated questions and reading for a fuller understanding",
+      "Reading out loud and reading silently",
+      "Reading the introduction and reading the conclusion"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The two goals of the Read phase are: 1. Read to answer the questions you generated; 2. Read to engage with material for a fuller understanding.",
+    "incorrectExplanations": {
+      "A": "Speed is not a primary goal of this comprehension-focused strategy.",
+      "B": "Correct. It combines goal-oriented searching with general engagement.",
+      "C": "These are methods of reading, not the analytical goals identified.",
+      "D": "These are parts of the survey or specific locations, not the overarching goals."
+    },
+    "keywords": [
+      "SQ3R",
+      "Read phase",
+      "goals"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q013",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Academic Impact",
+    "difficulty": "Medium",
+    "question": "How does a diverse vocabulary specifically benefit academic performance according to the text?",
+    "options": [
+      "It allows students to finish exams faster.",
+      "It facilitates acquiring specialized vocabulary relevant to specific subjects.",
+      "It ensures a student never makes a grammatical error.",
+      "It replaces the need for studying subject-specific concepts."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Diverse vocabulary improves academic performance by helping students acquire and apply specialized vocabulary relevant to specific subjects or disciplines.",
+    "incorrectExplanations": {
+      "A": "While it might help, speed is not the benefit highlighted in the text.",
+      "B": "Correct. It enables the handling of subject-specific terminology.",
+      "C": "Vocabulary and grammar are different skills; vocabulary alone does not fix grammar.",
+      "D": "Vocabulary supports the understanding of concepts; it does not replace it."
+    },
+    "keywords": [
+      "academic performance",
+      "specialized vocabulary"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q014",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Medium",
+    "question": "Differentiate between a 'Lecture' and a 'Seminar' based on the course's vocabulary definitions.",
+    "options": [
+      "A lecture is for science; a seminar is for arts.",
+      "A lecture is an educational talk to an audience; a seminar involves a small group in advanced study.",
+      "A lecture is always recorded; a seminar is always live.",
+      "A lecture is for undergraduates; a seminar is only for professors."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A lecture is an educational talk to an audience, typically for a college course. A seminar is a small group of students engaged in advanced study under a professor.",
+    "incorrectExplanations": {
+      "A": "The text does not restrict these formats to specific disciplines.",
+      "B": "Correct. The distinction is based on group size and level of engagement.",
+      "C": "The text defines them by their pedagogical nature, not their delivery medium.",
+      "D": "While seminars are often for advanced study, they are not exclusively for professors."
+    },
+    "keywords": [
+      "lecture",
+      "seminar",
+      "vocabulary"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q015",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Strategies",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT listed as a strategy for vocabulary expansion in the materials?",
+    "options": [
+      "Reading widely and regularly",
+      "Using dictionaries and thesauruses",
+      "Memorizing the entire dictionary in alphabetical order",
+      "Engaging in conversations and debates"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Strategies listed include reading widely, using building tools (dictionaries/apps), engaging in discussions, and playing word games. Alphabetical memorization is not listed.",
+    "incorrectExplanations": {
+      "A": "This is a key strategy mentioned.",
+      "B": "This is a key strategy mentioned.",
+      "C": "Correct. This is an ineffective method not recommended by the course.",
+      "D": "This is a key strategy mentioned for reinforcing words."
+    },
+    "keywords": [
+      "vocabulary strategies",
+      "learning"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W2Q016",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Language Skills Overview",
+    "subTopic": "Skill Integration",
+    "difficulty": "Medium",
+    "question": "What 'superpower' does the course summary attribute to good communication?",
+    "options": [
+      "The ability to read people's minds",
+      "Transcending fields to shape one's career and personal life",
+      "Instant mastery of any foreign language",
+      "The power to write 100 pages an hour"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The summary states that 'Good communication is a superpower that transcends fields and can shape your career and personal life'.",
+    "incorrectExplanations": {
+      "A": "This is a literal superpower, not what the text describes metaphorically.",
+      "B": "Correct. It emphasizes the versatility and impact of the skill.",
+      "C": "Communication skills facilitate language learning but do not grant 'instant' mastery.",
+      "D": "This is a physical/technical exaggeration not mentioned in the text."
+    },
+    "keywords": [
+      "communication superpower",
+      "career impact"
+    ],
+    "estimatedTime": 40
+  },
+  {
+    "id": "W2Q017",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Medium",
+    "question": "In the context of scholarship and logic, what is a 'Syllogism'?",
+    "options": [
+      "A type of rhythmic poem",
+      "A compelling argument demonstrating logical progression from premises to a conclusion",
+      "A word that has two different meanings",
+      "The study of how students learn in groups"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A syllogism is presented as a compelling tool to support an argument, demonstrating the logical progression of ideas.",
+    "incorrectExplanations": {
+      "A": "This refers to a literary form, not the logical structure defined.",
+      "B": "Correct. It is a fundamental component of deductive reasoning/logic.",
+      "C": "This describes an 'ambiguity' or 'homonym,' not a syllogism.",
+      "D": "This describes 'pedagogy' or 'educational psychology'."
+    },
+    "keywords": [
+      "syllogism",
+      "logic",
+      "argument"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q018",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Reading Skills",
+    "subTopic": "Comprehension Strategy - SQ3R",
+    "difficulty": "Medium",
+    "question": "According to the SQ3R 'Review' step, what is the purpose of creating organized notes?",
+    "options": [
+      "To show the lecturer that you have read the book",
+      "To facilitate long-term recall and application for exams or discussions",
+      "To practice handwriting skills",
+      "To replace the original text so you can return it to the library"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The Review step ensures you maintain deep understanding and can recall and apply material for exams or discussions.",
+    "incorrectExplanations": {
+      "A": "This is a superficial motivation; the step is for the reader's own retention.",
+      "B": "Correct. Note-taking during review aids retention.",
+      "C": "The focus is on cognitive recall, not physical writing practice.",
+      "D": "Notes summarize; they do not fully 'replace' the depth of the original text."
+    },
+    "keywords": [
+      "SQ3R",
+      "Review",
+      "retention"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q019",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Reading Skills",
+    "subTopic": "Critical Reading",
+    "difficulty": "Hard",
+    "question": "Analyze the comprehension passage on 'Faking Mental Health Issues.' Which of the following is a societal danger mentioned?",
+    "options": [
+      "It causes people to stop believing in medical science entirely.",
+      "It perpetuates stigmas and diminishes the credibility of real cases.",
+      "It leads to a total collapse of the healthcare budget.",
+      "It encourages everyone to become medical doctors."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states that feigning mental health problems perpetuates stigmas and diminishes the credibility of real cases, making it harder for genuine sufferers to be taken seriously.",
+    "incorrectExplanations": {
+      "A": "The text mentions undermining specific cases, not a total rejection of science.",
+      "B": "Correct. It highlights the erosion of trust and increase in stigma.",
+      "C": "While it mentions 'misallocation of resources,' it does not claim total budget collapse.",
+      "D": "This is not mentioned as a consequence in the text."
+    },
+    "keywords": [
+      "critical reading",
+      "mental health",
+      "societal impact"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W2Q020",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R Application",
+    "difficulty": "Hard",
+    "question": "A student is surveying a history chapter on the Renaissance. Which of the following actions best aligns with the 'Survey' step instructions?",
+    "options": [
+      "Reading the first page five times to memorize names",
+      "Looking at chapter titles, subtitles, and illustration captions",
+      "Immediately answering the review questions at the back",
+      "Writing a 500-word essay on the period before reading"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text explicitly suggests looking for chapter titles, subtitles, and captions of illustrations to understand covered historical periods during a survey.",
+    "incorrectExplanations": {
+      "A": "Rereading a single page is not a survey of the 'entire text' structure.",
+      "B": "Correct. This scanning provides the necessary structural overview.",
+      "C": "Answering questions comes after surveying and questioning.",
+      "D": "Writing an essay happens after the reading and analysis phases."
+    },
+    "keywords": [
+      "SQ3R application",
+      "surveying",
+      "Renaissance"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W2Q021",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Language Skills Overview",
+    "subTopic": "Cross-Skill Benefits",
+    "difficulty": "Hard",
+    "question": "When you combine listening, speaking, reading, and writing effectively, what higher-level cognitive ability is enhanced according to the text?",
+    "options": [
+      "Photographic memory",
+      "Critical thinking and global perspective",
+      "Physical coordination and speed",
+      "The ability to predict the future"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Effective combination of these skills enhances critical thinking, the ability to engage in complex discourse, and provides a global perspective on issues.",
+    "incorrectExplanations": {
+      "A": "Memory might improve, but 'photographic memory' is not a claim made.",
+      "B": "Correct. These intellectual benefits are emphasized as the outcome of skill integration.",
+      "C": "These are physical traits, not the cognitive language benefits described.",
+      "D": "This is a supernatural claim not supported by the sources."
+    },
+    "keywords": [
+      "critical thinking",
+      "skill integration",
+      "global perspective"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W2Q022",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Critical Analysis",
+    "difficulty": "Hard",
+    "question": "How does an expanded vocabulary contribute specifically to 'Critical Analysis' as mentioned in the learning objectives?",
+    "options": [
+      "It allows the reader to count the number of words in a text more accurately.",
+      "It develops the capacity to analyze and interpret concepts and information more deeply.",
+      "It ensures the reader agrees with every point the author makes.",
+      "It provides the ability to rewrite any text into a simpler version."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "One learning objective is to 'Develop the capacity to critically analyze and interpret texts, concepts, and information through an expanded vocabulary'.",
+    "incorrectExplanations": {
+      "A": "Quantitative counting is not critical analysis.",
+      "B": "Correct. Better linguistic tools allow for more nuanced interpretation.",
+      "C": "Critical analysis often involves questioning or disagreeing with an author.",
+      "D": "Simplification is a specific task, not the core of critical analysis/interpretation."
+    },
+    "keywords": [
+      "critical analysis",
+      "vocabulary impact"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W2Q023",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R - Read vs. Recite",
+    "difficulty": "Hard",
+    "question": "What is the key difference between the 'Read' phase and the 'Recite' phase of the SQ3R strategy?",
+    "options": [
+      "Reading is done silently; Reciting must be done in a group.",
+      "Reading is for data collection; Reciting is for externalizing and checking comprehension.",
+      "There is no difference; they are alternative names for the same step.",
+      "Reading is done once; Reciting is done ten times."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Reading is to engage with material and answer questions, while Reciting involves checking if you can answer the questions without looking at the text (implied by the summary of the strategy).",
+    "incorrectExplanations": {
+      "A": "Reciting can be done individually to oneself.",
+      "B": "Correct. Reading takes info in; reciting tests if that info stayed.",
+      "C": "They are distinct steps in the 5-step process.",
+      "D": "Frequency is not the defining characteristic between these two steps."
+    },
+    "keywords": [
+      "SQ3R",
+      "Read",
+      "Recite",
+      "distinction"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W2Q024",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Word Usage",
+    "difficulty": "Hard",
+    "question": "Which sentence correctly applies the term 'Metacognition' as defined in the course?",
+    "options": [
+      "The student practiced metacognition by reflecting on how they solved the math problem.",
+      "The metacognition of the virus made it difficult to treat.",
+      "The professor used metacognition to write the signs on the door.",
+      "Metacognition is the study of old rock formations."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Metacognition is 'thinking about one's own thinking', so reflecting on problem-solving processes is a correct application.",
+    "incorrectExplanations": {
+      "A": "Correct. It involves self-awareness of cognitive strategies.",
+      "B": "Viruses do not have cognitive processes to 'think about'.",
+      "C": "Using signs is 'semiotics' or general communication, not necessarily metacognition.",
+      "D": "This is 'geology', not metacognition."
+    },
+    "keywords": [
+      "metacognition application",
+      "thinking"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W2Q025",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Hard",
+    "question": "A literary text that is heavily focused on delivering a moral lesson would be described by which vocabulary term from the course?",
+    "options": [
+      "Syllogistic",
+      "Didactic",
+      "Semiotics",
+      "Metacognitive"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Didacticism is the practice of emphasizing moral or educational messages in literature or art.",
+    "incorrectExplanations": {
+      "A": "Syllogistic refers to logical structures, not necessarily moral lessons.",
+      "B": "Correct. It refers to the instructional/moralizing nature of a text.",
+      "C": "Semiotics is about symbols and signs.",
+      "D": "Metacognitive refers to awareness of thinking, not the moral content of a text."
+    },
+    "keywords": [
+      "didactic",
+      "moral lesson",
+      "vocabulary"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W2Q026",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Scholarly Processes",
+    "difficulty": "Hard",
+    "question": "According to the crossword puzzle clues, what is the term for 'The evaluation of scholarly work by experts in the same field before it is published'?",
+    "options": [
+      "Seminar",
+      "Peer review",
+      "Scholarship",
+      "Synthesis"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The term for expert evaluation of work before publication is 'Peer review'.",
+    "incorrectExplanations": {
+      "A": "A seminar is a teaching/study group format.",
+      "B": "Correct. This ensures quality control in academic publishing.",
+      "C": "Scholarship refers to academic study or grant payments.",
+      "D": "Synthesis is the combination of different ideas to create understanding."
+    },
+    "keywords": [
+      "peer review",
+      "academic evaluation"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W2Q027",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Language Skills Overview",
+    "subTopic": "Lifelong Learning",
+    "difficulty": "Hard",
+    "question": "What metaphor does the text use to describe the evolution of language skills throughout a person's life?",
+    "options": [
+      "They are like 'temporary bridges' that fall after graduation.",
+      "They are like 'life companions' on a lifelong journey.",
+      "They are like 'software updates' for the brain.",
+      "They are like 'locked doors' that only a university can open."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The text states: 'Keep in mind that these skills are a lifelong journey... they're like life companions'.",
+    "incorrectExplanations": {
+      "A": "The text emphasizes they are lifelong, not temporary.",
+      "B": "Correct. The metaphor suggests constant presence and growth.",
+      "C": "This is a modern technology metaphor not used in the text.",
+      "D": "The text presents them as evolving tools for all aspects of life, not just university."
+    },
+    "keywords": [
+      "life companions",
+      "lifelong journey",
+      "metaphor"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W2Q028",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Specific Terminology",
+    "difficulty": "Hard",
+    "question": "Which term describes 'The combination of different ideas, concepts, or information to create a new understanding'?",
+    "options": [
+      "Summarization",
+      "Synthesis",
+      "Syllogism",
+      "Semiotics"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Synthesis is defined as the combination of different ideas, concepts, or information to create a new understanding.",
+    "incorrectExplanations": {
+      "A": "Summarization distills existing info; synthesis combines and creates new links.",
+      "B": "Correct. It involves integration of multiple sources/ideas.",
+      "C": "Syllogism is a specific logical progression from premises.",
+      "D": "Semiotics is the study of signs and symbols."
+    },
+    "keywords": [
+      "synthesis",
+      "integration",
+      "new understanding"
+    ],
+    "estimatedTime": 50
+  },
+  {
+    "id": "W2Q029",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Comprehension Strategies",
+    "subTopic": "SQ3R Purpose",
+    "difficulty": "Hard",
+    "question": "What is the primary reason the course gives for 'Have you ever read a text, and in a few minutes you forget what you just read?'?",
+    "options": [
+      "Lack of intelligence on the part of the reader",
+      "The text being too long for any human to remember",
+      "The lack of an effective reading strategy like SQ3R",
+      "Natural biological decay of information in the brain"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The text introduces SQ3R as the solution to the common problem of forgetting text immediately after reading, identifying it as an effective comprehension strategy.",
+    "incorrectExplanations": {
+      "A": "The text focuses on 'strategies' and 'techniques' rather than innate intelligence.",
+      "B": "The strategy is designed specifically for 'complex texts', implying they *can* be remembered with the right method.",
+      "C": "Correct. Retention is linked to the systematic approach of the strategy.",
+      "D": "While biological factors exist, the text highlights the absence of strategy as the solvable cause."
+    },
+    "keywords": [
+      "SQ3R",
+      "retention",
+      "comprehension problems"
+    ],
+    "estimatedTime": 55
+  },
+  {
+    "id": "W2Q030",
+    "week": 2,
+    "weekTitle": "Language Skills II",
+    "topic": "Vocabulary Expansion",
+    "subTopic": "Communication Impact",
+    "difficulty": "Hard",
+    "question": "A rich and diverse vocabulary 'reduces the likelihood of misunderstandings.' How does this happen according to the course's explanation of communication skills?",
+    "options": [
+      "By allowing individuals to express themselves more precisely",
+      "By making the speaker sound more intimidating and thus more authoritative",
+      "By forcing the listener to look up every word in a dictionary",
+      "By ensuring everyone uses exactly the same five hundred words"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "A varied vocabulary enables individuals to express themselves more precisely and effectively, leading to clearer communication and fewer misinterpretations.",
+    "incorrectExplanations": {
+      "A": "Correct. Precision in word choice removes ambiguity.",
+      "B": "Authority/intimidation is not the goal; clarity and understanding are.",
+      "C": "Misunderstanding increases if a listener doesn't know the words; the goal is clear expression for the audience.",
+      "D": "Expansion is about diversity and 'richness', not limitation to a small set."
+    },
+    "keywords": [
+      "vocabulary impact",
+      "misunderstandings",
+      "precision"
+    ],
+    "estimatedTime": 50
+  }
+]

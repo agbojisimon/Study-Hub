@@ -1,0 +1,902 @@
+[
+  {
+    "id": "W7Q001",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Definitions",
+    "difficulty": "Easy",
+    "question": "According to the materials, what does the 'S' in the SQ3R reading strategy stand for?",
+    "options": [
+      "Summarize",
+      "Scan",
+      "Survey",
+      "Search"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The acronym SQ3R stands for Survey, Question, Read, Recite, and Review.",
+    "incorrectExplanations": {
+      "A": "Summarization is a component of the 'Recite' or 'Review' phases, not the first step.",
+      "B": "Scanning is a technique used during the survey, but the step name is 'Survey'.",
+      "C": "Correct. Surveying provides the initial overview of the text structure.",
+      "D": "Searching for answers happens during the 'Read' phase."
+    },
+    "keywords": [
+      "SQ3R",
+      "Survey",
+      "Acronym"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q002",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Sequence of Steps",
+    "difficulty": "Easy",
+    "question": "Which of the following represents the correct sequence of the '3R' components in SQ3R?",
+    "options": [
+      "Read, Recite, Review",
+      "Review, Read, Recite",
+      "Recite, Read, Review",
+      "Read, Review, Recite"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct order of the three 'Rs' is Read (to find answers), Recite (to reinforce understanding), and Review (for long-term retention).",
+    "incorrectExplanations": {
+      "A": "Correct. This follows the logical progression of processing information.",
+      "B": "Review is the final step, not the first of the three Rs.",
+      "C": "You must read the text before you can recite what you have learned.",
+      "D": "Reciting happens before the final review phase to reinforce immediate understanding."
+    },
+    "keywords": [
+      "SQ3R",
+      "Sequence",
+      "Reading Steps"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q003",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Survey Phase",
+    "difficulty": "Easy",
+    "question": "What is the primary activity performed during the 'Survey' phase of SQ3R?",
+    "options": [
+      "Answering end-of-chapter questions",
+      "Writing a detailed summary",
+      "Quickly scanning headings and subheadings",
+      "Generating a hypothesis"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Survey involves quickly scanning the text, noting headings, subheadings, and structural elements to get an overview.",
+    "incorrectExplanations": {
+      "A": "Answering questions occurs during the 'Read' phase.",
+      "B": "Summarizing is part of the 'Recite' phase.",
+      "C": "Correct. Scanning structural elements provides a sense of the text's structure.",
+      "D": "Generating questions is the second step (Question), not the first."
+    },
+    "keywords": [
+      "Survey",
+      "Scanning",
+      "Structure"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q004",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Question Phase",
+    "difficulty": "Easy",
+    "question": "During the 'Question' phase of SQ3R, where should the questions come from?",
+    "options": [
+      "The back of the textbook",
+      "The reader's own brain based on the survey",
+      "A teacher's lecture notes",
+      "A list of definitions in the glossary"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In the Question phase, readers generate their own thought-provoking questions about the material to guide their reading.",
+    "incorrectExplanations": {
+      "A": "While textbook questions help, the strategy emphasizes reader-generated inquiries.",
+      "B": "Correct. This active engagement helps focus the reader's attention.",
+      "C": "Teacher notes are external; SQ3R is a strategy for independent comprehension.",
+      "D": "Glossaries provide facts, not the inquiry-based questions needed for this stage."
+    },
+    "keywords": [
+      "Question",
+      "Inquiry",
+      "Active Reading"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q005",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Read Phase",
+    "difficulty": "Easy",
+    "question": "What are readers actively seeking while engaging in the 'Read' phase of SQ3R?",
+    "options": [
+      "Typographical errors",
+      "Answers to their generated questions",
+      "New headings to add",
+      "The author's biography"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "During the 'Read' phase, readers actively read seeking answers to their questions and identifying key information.",
+    "incorrectExplanations": {
+      "A": "Proofreading for errors is a writing activity, not the goal of SQ3R reading.",
+      "B": "Correct. Reading becomes goal-oriented rather than passive.",
+      "C": "Headings are identified in the Survey phase.",
+      "D": "The focus is on the content of the text itself."
+    },
+    "keywords": [
+      "Read",
+      "Goal-oriented",
+      "Answers"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q006",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Recite Phase",
+    "difficulty": "Easy",
+    "question": "In the 'Recite' phase, how should a reader reinforce what they have learned?",
+    "options": [
+      "By reading the text one more time",
+      "By highlighting every sentence in the text",
+      "By verbally or mentally summarizing the information",
+      "By checking the bibliography"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Recite involves verbally or mentally summarizing what has been learned to reinforce understanding.",
+    "incorrectExplanations": {
+      "A": "Rereading is passive compared to the active retrieval of reciting.",
+      "B": "Excessive highlighting does not equate to internalizing information.",
+      "C": "Correct. Externalizing the information tests comprehension.",
+      "D": "Bibliographies provide sources, not reinforcement of the current text's content."
+    },
+    "keywords": [
+      "Recite",
+      "Summarize",
+      "Reinforcement"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q007",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Review Phase",
+    "difficulty": "Easy",
+    "question": "What is the primary objective of the 'Review' step in the SQ3R approach?",
+    "options": [
+      "To find new questions to ask",
+      "To ensure long-term retention",
+      "To change the structure of the text",
+      "To count the number of pages read"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Review' step involves revisiting notes and the text to ensure long-term retention of the material.",
+    "incorrectExplanations": {
+      "A": "Question generation happens earlier in the process.",
+      "B": "Correct. Reviewing prevents the forgetting of information over time.",
+      "C": "The reader cannot change the author's structure.",
+      "D": "Page counting is not a cognitive comprehension goal."
+    },
+    "keywords": [
+      "Review",
+      "Retention",
+      "Long-term"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q008",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Definitions",
+    "difficulty": "Easy",
+    "question": "SQ3R is described as a 'systematic' reading strategy. What does this imply?",
+    "options": [
+      "It is a random set of tips.",
+      "It is an automated computer program.",
+      "It is an organized, step-by-step approach.",
+      "It is only meant for scientists."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The material defines SQ3R as a 'systematic and effective reading strategy,' indicating it follows a structured process.",
+    "incorrectExplanations": {
+      "A": "The five specific steps make it the opposite of random.",
+      "B": "It is a cognitive human strategy, not a computer program.",
+      "C": "Correct. Each step builds logically on the previous one.",
+      "D": "Objectives state it has 'broader applicability... in various academic disciplines'."
+    },
+    "keywords": [
+      "Systematic",
+      "Strategy",
+      "Organized"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q009",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Survey Examples",
+    "difficulty": "Easy",
+    "question": "When surveying a history textbook, which feature should you look for to understand key events?",
+    "options": [
+      "The page numbers",
+      "Captions of illustrations",
+      "The color of the book cover",
+      "The font size of the index"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state: 'When surveying a history textbook, look for chapter titles, subtitles, and the captions of illustrations to understand historical periods and key events'.",
+    "incorrectExplanations": {
+      "A": "Page numbers provide location but not conceptual understanding of events.",
+      "B": "Correct. Captions often provide immediate context for the visual data presented.",
+      "C": "Visual aesthetics of the cover are irrelevant to content comprehension.",
+      "D": "The index is used for searching specific terms, not for the initial survey."
+    },
+    "keywords": [
+      "Survey",
+      "History Textbook",
+      "Illustrations"
+    ],
+    "estimatedTime": 30
+  },
+  {
+    "id": "W7Q010",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Cognitive Purpose",
+    "difficulty": "Medium",
+    "question": "Why does the SQ3R strategy emphasize 'active' reading over 'passive' reading?",
+    "options": [
+      "Because passive reading is faster for exams.",
+      "To enhance comprehension and retention of complex texts.",
+      "Because active reading doesn't require taking notes.",
+      "To help the reader fall asleep more easily while studying."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "SQ3R is designed to 'enhance comprehension and retention' specifically for 'complex texts' through active engagement.",
+    "incorrectExplanations": {
+      "A": "Passive reading may feel faster but results in poor comprehension of complex material.",
+      "B": "Correct. Intentional engagement is the key to deep learning.",
+      "C": "Active reading often includes note-taking during the Read and Review phases.",
+      "D": "SQ3R is meant to increase mental alertness and focus."
+    },
+    "keywords": [
+      "Active Reading",
+      "Comprehension",
+      "Retention"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q011",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Questioning Skills",
+    "difficulty": "Medium",
+    "question": "How does formulating questions in the SQ3R process assist in the subsequent 'Read' step?",
+    "options": [
+      "It eliminates the need to read the entire paragraph.",
+      "It allows the reader to ignore headings.",
+      "It guides the reading and helps the reader focus on critical information.",
+      "It provides a summary before reading."
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Generating questions 'should guide your reading and help you focus on the most critical information'.",
+    "incorrectExplanations": {
+      "A": "Questions provide focus, but full reading is still necessary to find the complete context.",
+      "B": "Headings are used to form the questions in the first place.",
+      "C": "Correct. Having a specific goal (answering a question) makes reading more efficient.",
+      "D": "Summary is an outcome (Recite), not a prerequisite of reading."
+    },
+    "keywords": [
+      "Questioning",
+      "Focus",
+      "Critical Information"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q012",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Application - Scientific Paper",
+    "difficulty": "Medium",
+    "question": "If you are surveying a scientific research paper, which of these questions would be appropriate for the 'Question' phase?",
+    "options": [
+      "Who designed the font used in this journal?",
+      "What methods are used to collect data?",
+      "How much does a subscription to this journal cost?",
+      "Where is the nearest library?"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The material provides examples of research-focused questions such as 'What is the primary hypothesis...?' or 'What methods are used to collect data?'.",
+    "incorrectExplanations": {
+      "A": "This is a trivial detail unrelated to comprehension of the study.",
+      "B": "Correct. This is a core question that drives understanding of scientific results.",
+      "C": "This is a logistical question, not a comprehension question.",
+      "D": "This is an external environmental question."
+    },
+    "keywords": [
+      "Scientific Paper",
+      "Data Collection",
+      "SQ3R Application"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q013",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Review Techniques",
+    "difficulty": "Medium",
+    "question": "During the 'Review' phase, what specific tools can a reader create to facilitate future study?",
+    "options": [
+      "New headings and subheadings",
+      "More organized notes or summaries",
+      "A new cover for the textbook",
+      "A list of words they already knew"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Review' phase suggests: 'Note that you may want to create more organised notes or summaries of the key information to facilitate your review'.",
+    "incorrectExplanations": {
+      "A": "Readers study existing headings; they do not write the book's structure.",
+      "B": "Correct. Condensing the learned info into organized notes aids recall.",
+      "C": "Unrelated to cognitive comprehension.",
+      "D": "The focus should be on 'key information' and new concepts learned."
+    },
+    "keywords": [
+      "Review",
+      "Notes",
+      "Study Facilitation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q014",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Skill Integration",
+    "difficulty": "Medium",
+    "question": "The SQ3R method aims to develop the ability to formulate 'advanced' questions. What is a defining characteristic of such questions?",
+    "options": [
+      "They only have one-word answers.",
+      "They are thought-provoking and engage with challenging material.",
+      "They are found at the bottom of the page.",
+      "They are written in a different language."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Learning objectives mention developing the ability to 'formulate advanced, thought-provoking questions when engaging with challenging academic material'.",
+    "incorrectExplanations": {
+      "A": "Advanced questions usually require deeper, multi-faceted answers.",
+      "B": "Correct. They require critical thinking rather than simple fact-finding.",
+      "C": "Location does not define the complexity of the inquiry.",
+      "D": "Language is not a requirement for an 'advanced' question."
+    },
+    "keywords": [
+      "Advanced Questions",
+      "Thought-provoking",
+      "Critical Thinking"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q015",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Academic Breadth",
+    "difficulty": "Medium",
+    "question": "Is the SQ3R method limited to language studies alone according to the learning objectives?",
+    "options": [
+      "Yes, it is only for English courses.",
+      "No, it has broader applicability in various academic disciplines.",
+      "It is only for graduate-level research.",
+      "It is only used for reading fiction novels."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "An objective of the lesson is to 'Recognise the broader applicability of the SQ3R method in various academic disciplines'.",
+    "incorrectExplanations": {
+      "A": "The material explicitly states its broad academic use.",
+      "B": "Correct. It is a universal tool for understanding complex texts in any field.",
+      "C": "It is taught in GST 122 (undergraduate level) for all students.",
+      "D": "It is designed specifically for 'complex academic texts' (non-fiction)."
+    },
+    "keywords": [
+      "Academic Disciplines",
+      "Applicability",
+      "SQ3R"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q016",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Reading Depth",
+    "difficulty": "Medium",
+    "question": "How does the 'Review' phase assist in real-world academic scenarios like exams or discussions?",
+    "options": [
+      "By allowing the student to skip the next chapter.",
+      "By ensuring they can recall and apply material when needed.",
+      "By making the exam questions easier to read.",
+      "By helping the student guess the author's age."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Review' step ensures readers 'maintain a deep understanding... and can recall and apply it when needed, such as in exams or discussions'.",
+    "incorrectExplanations": {
+      "A": "SQ3R is for deepening knowledge, not avoiding work.",
+      "B": "Correct. Retention and application are the outcomes of the review process.",
+      "C": "The questions remain the same; the student's preparation is what changes.",
+      "D": "This is an irrelevant detail."
+    },
+    "keywords": [
+      "Recall",
+      "Application",
+      "Exams"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q017",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Survey Outcome",
+    "difficulty": "Medium",
+    "question": "What 'sense' does the initial survey give a reader before they dive into the details?",
+    "options": [
+      "A sense of how many words are in the text",
+      "A sense of the text’s structure and main ideas",
+      "A sense of whether the author is famous",
+      "A sense of complete mastery of the subject"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Survey' phase 'gives you a sense of the text’s structure and main ideas'.",
+    "incorrectExplanations": {
+      "A": "Scanning headings doesn't provide word counts.",
+      "B": "Correct. It provides the 'mental map' needed for detailed reading.",
+      "C": "Author status is external to the text's structure/main ideas.",
+      "D": "Mastery is the final result, not the initial survey outcome."
+    },
+    "keywords": [
+      "Structure",
+      "Main Ideas",
+      "Survey Outcome"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q018",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Critical Thinking",
+    "difficulty": "Medium",
+    "question": "Actively seeking 'answers and connections' within a text is a method used to enhance which specific skill set?",
+    "options": [
+      "Physical speed",
+      "Critical thinking skills",
+      "Spelling and grammar",
+      "Handwriting accuracy"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The objectives specify: 'Enhance critical thinking skills by actively seeking answers and connections within the text'.",
+    "incorrectExplanations": {
+      "A": "SQ3R prioritizes depth over superficial speed.",
+      "B": "Correct. Thinking about connections requires higher-level analysis.",
+      "C": "While important for writing, SQ3R is primarily a comprehension (reading) strategy.",
+      "D": "Handwriting is not a component of reading comprehension."
+    },
+    "keywords": [
+      "Critical Thinking",
+      "Connections",
+      "SQ3R Objectives"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W7Q019",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Analytical Application",
+    "difficulty": "Hard",
+    "question": "Analyze the role of the 'Recite' phase. How does it act as a self-assessment tool for the reader?",
+    "options": [
+      "It tells the reader how many pages are left in the book.",
+      "It tests if the reader can externalize the information without looking at the text.",
+      "It allows the reader to skip the 'Review' phase entirely.",
+      "It provides a grade for the reader's performance."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "By verbally or mentally summarizing (reciting), readers 'reinforce understanding' and identify gaps in what they can recall, acting as a check on comprehension.",
+    "incorrectExplanations": {
+      "A": "Reciting focuses on what has already been read, not what is remaining.",
+      "B": "Correct. If you cannot recite it, you likely haven't comprehended it deeply enough.",
+      "C": "The 5-step process requires all steps for maximum effectiveness; reciting leads into review.",
+      "D": "It is a self-study check, not a formal grading system."
+    },
+    "keywords": [
+      "Recite",
+      "Self-assessment",
+      "Reinforcement"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q020",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Strategic Interconnectivity",
+    "difficulty": "Hard",
+    "question": "What is the logical consequence of a reader skipping the 'Survey' phase and going directly to 'Read'?",
+    "options": [
+      "They will save time and have better understanding.",
+      "They may lack the necessary overview of the text’s structure and main ideas to contextualize details.",
+      "They will automatically generate better questions.",
+      "There is no consequence; Survey is an optional step."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Since the survey 'gives you a sense of the text’s structure and main ideas,' skipping it removes the framework needed to organize detailed information during the 'Read' phase.",
+    "incorrectExplanations": {
+      "A": "Saving time on the survey usually leads to wasting more time later due to confusion.",
+      "B": "Correct. You lose the 'big picture' that headings and subheadings provide.",
+      "C": "Question generation depends on the findings from the survey.",
+      "D": "SQ3R is presented as a systematic whole; omitting steps reduces its effectiveness."
+    },
+    "keywords": [
+      "Survey",
+      "Structure",
+      "Contextualization"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q021",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Advanced Questioning",
+    "difficulty": "Hard",
+    "question": "In the SQ3R process, what differentiates 'Questioning' from simply reading the 'Review Questions' at the end of a chapter?",
+    "options": [
+      "Review questions are usually too easy.",
+      "Reader-generated questions align more closely with the reader's specific goals and identified gaps from their survey.",
+      "SQ3R forbids using the questions provided by the author.",
+      "There is no difference; they are the same activity."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Question' phase tasks the reader with generating questions 'based on what you've discovered during the survey,' making the process more personal and active than reading pre-made queries.",
+    "incorrectExplanations": {
+      "A": "Textbook questions can be quite difficult, but they are external to the reader's immediate discovery process.",
+      "B": "Correct. Developing your own inquiry drives active learning and critical thinking.",
+      "C": "The material doesn't 'forbid' author questions, but it emphasizes the cognitive benefit of generating one's own.",
+      "D": "Generation is an active synthesis; reading a list is a receptive task."
+    },
+    "keywords": [
+      "Questioning",
+      "Active Learning",
+      "Reader-generated"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q022",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Synthesis of Phases",
+    "difficulty": "Hard",
+    "question": "How does the 'Review' phase build upon the 'Recite' phase to ensure long-term retention?",
+    "options": [
+      "By adding new chapters to the study session.",
+      "By moving from immediate internal retrieval (Recite) to periodic revisiting of consolidated notes (Review).",
+      "By changing the language of the notes to make them harder.",
+      "By deleting the original text so the notes are all that remains."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Reciting reinforces understanding in the moment, while Review involves 'revisiting your notes and the text itself' for 'long-term retention'.",
+    "incorrectExplanations": {
+      "A": "Review focuses on the material already processed.",
+      "B": "Correct. It moves from understanding (Recite) to permanent storage (Review).",
+      "C": "Complexity shouldn't be added for the sake of it; notes should 'facilitate' study.",
+      "D": "The material suggests revisiting 'the text itself' during review, implying it is still needed."
+    },
+    "keywords": [
+      "Review",
+      "Recite",
+      "Long-term Retention"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q023",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Application - Renaissance Chapter",
+    "difficulty": "Hard",
+    "question": "A student surveying the Renaissance chapter (Source 86) notes 'Notable figures like Leonardo da Vinci' and 'shift from medieval traditions'. What is the next logical action for the student according to the strategy?",
+    "options": [
+      "Start writing a final essay on da Vinci.",
+      "Generate questions like 'What were da Vinci's specific contributions?' to guide their reading.",
+      "Skip to the Review step since they already know these names.",
+      "Close the book and take a break."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "After surveying structural elements (names/themes), the next step in SQ3R is to generate 'thought-provoking questions' about that material.",
+    "incorrectExplanations": {
+      "A": "Drafting an essay follows comprehension; they are still in the pre-reading phase.",
+      "B": "Correct. Turning a heading/fact into a question creates a goal for the 'Read' phase.",
+      "C": "Knowing names is only a 'sense of the structure,' not the deep understanding achieved after all 5 steps.",
+      "D": "Breaks are good, but the query asks for the next logical step in the *strategy*."
+    },
+    "keywords": [
+      "SQ3R Application",
+      "Renaissance",
+      "Question Generation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q024",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Strategic Evaluation",
+    "difficulty": "Hard",
+    "question": "Why is 'scanning images and structural features' during the Survey phase considered a cognitive investment in the final outcome of the study?",
+    "options": [
+      "Because pictures are easier to remember than words.",
+      "It builds a mental framework that allows for better integration of complex information during detailed reading.",
+      "It ensures the reader doesn't have to read the text later.",
+      "It is simply to see if the book is worth reading."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Surveying provides a 'sense of the text's structure,' which helps the reader place new facts into a logical hierarchy as they encounter them later.",
+    "incorrectExplanations": {
+      "A": "While true, the goal of SQ3R is systematic comprehension of the *entire text*, not just image recall.",
+      "B": "Correct. Structure is the 'skeleton' that supports the 'meat' of the information.",
+      "C": "Survey is a prerequisite for reading, not a replacement for it.",
+      "D": "SQ3R assumes the material is relevant academic content that *must* be understood."
+    },
+    "keywords": [
+      "Survey",
+      "Cognitive Framework",
+      "Information Integration"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q025",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Metacognition",
+    "difficulty": "Hard",
+    "question": "The SQ3R method aligns with which of the following vocabulary terms found in the broader course context (Source 95)?",
+    "options": [
+      "Cacophony",
+      "Syllogism",
+      "Metacognition",
+      "Didacticism"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "Metacognition is 'thinking about one's own thinking processes,' and SQ3R is a strategy used to consciously manage and evaluate one's comprehension.",
+    "incorrectExplanations": {
+      "A": "Cacophony is a mixture of harsh sounds, unrelated to strategy.",
+      "B": "Syllogism is a logical reasoning form, distinct from the five steps of reading comprehension.",
+      "C": "Correct. Being aware of and planning one's reading steps is a metacognitive activity.",
+      "D": "Didacticism refers to moral messages in literature."
+    },
+    "keywords": [
+      "Metacognition",
+      "Thinking Processes",
+      "Comprehension Strategy"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q026",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Phase Integration",
+    "difficulty": "Hard",
+    "question": "Which of the following scenarios best demonstrates a failure to correctly implement the 'Read' phase of SQ3R?",
+    "options": [
+      "A student reads every word but forgets their generated questions.",
+      "A student identifies key information related to their hypothesis.",
+      "A student takes notes while reading the main sections.",
+      "A student finds three answers to the five questions they asked."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The 'Read' phase specifically requires reading 'seeking answers to their questions'. Forgetting the questions turns the step into passive reading.",
+    "incorrectExplanations": {
+      "A": "Correct. This misses the 'goal-oriented' purpose of the 'Read' step.",
+      "B": "This is a successful implementation of seeking answers.",
+      "C": "Note-taking is an effective part of the reading process.",
+      "D": "Sometimes texts do not have every answer; finding most of them is successful engagement."
+    },
+    "keywords": [
+      "Read Phase Failure",
+      "Goal-oriented Reading",
+      "SQ3R"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q027",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Academic Rigor",
+    "difficulty": "Hard",
+    "question": "Source 88 notes that readers 'actively read the text, seeking answers to their questions'. What is the psychological effect of this active seeking compared to standard reading?",
+    "options": [
+      "It reduces the amount of brain power needed.",
+      "It creates a mental 'hook' for information, making the identified answers more likely to be retained.",
+      "It makes the reader more likely to disagree with the author.",
+      "It ensures that the reader never has to read the text again."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "By asking a question first, the brain is primed to recognize and prioritize the answer, leading to the 'enhanced comprehension and retention' mentioned in the definition.",
+    "incorrectExplanations": {
+      "A": "Active strategies require *more* initial cognitive effort.",
+      "B": "Correct. Goal-seeking reading leads to more effective neural connections.",
+      "C": "Critique may happen, but the primary psychological benefit is focused comprehension.",
+      "D": "The strategy still includes a 'Review' step, implying that rereading parts of the text is beneficial."
+    },
+    "keywords": [
+      "Active Seeking",
+      "Retention",
+      "Cognitive Psychology"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q028",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Survey Strategy",
+    "difficulty": "Hard",
+    "question": "During a survey of a complex text, why is it beneficial to note 'other structural elements' beyond just headings?",
+    "options": [
+      "To see if the publisher is professional.",
+      "Elements like bolded terms, graphs, or summary boxes provide additional clues about the conceptual hierarchy of the material.",
+      "To check for spelling mistakes before reading.",
+      "To avoid reading the sections that don't have images."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "A survey includes noting structural elements to get a full 'overview of the material'. Formatting clues help distinguish main points from supporting details.",
+    "incorrectExplanations": {
+      "A": "Irrelevant to comprehension strategy.",
+      "B": "Correct. Visual cues like graphs often summarize complex data points essential for the overview.",
+      "C": "Proofreading is a post-writing task.",
+      "D": "SQ3R is about understanding the *entire* text, not just the visual parts."
+    },
+    "keywords": [
+      "Structural Elements",
+      "Conceptual Hierarchy",
+      "Overview"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q029",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Application - Renaissance Characteristics",
+    "difficulty": "Hard",
+    "question": "In Source 86, the 'Review - Example' describes the Renaissance as a shift from 'medieval traditions to a focus on humanism'. In an SQ3R framework, where would this specific 'humanism' concept be most likely confirmed and explored?",
+    "options": [
+      "Only in the Survey phase",
+      "During the Read phase after asking 'What replaced medieval traditions?'",
+      "Only during the final Review step months later",
+      "During the initial Question generation phase"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Exploration of a concept happens during the 'Read' phase, where the student seeks the answer to a question derived from their initial survey finding.",
+    "incorrectExplanations": {
+      "A": "Survey identifies the term but does not explore its details.",
+      "B": "Correct. The Read phase is where the discovery of the concept's details occurs.",
+      "C": "Review reinforces what was already explored; it is not the primary time of discovery.",
+      "D": "Question generation *forms* the question but doesn't yet provide the exploration/answers."
+    },
+    "keywords": [
+      "Humanism",
+      "Read Phase",
+      "Concept Exploration"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W7Q030",
+    "week": 7,
+    "weekTitle": "Comprehension Strategies I",
+    "topic": "SQ3R Strategy",
+    "subTopic": "Strategic Outcome",
+    "difficulty": "Hard",
+    "question": "What is the ultimate 'target' of the SQ3R lesson for a student (Source 83)?",
+    "options": [
+      "To memorize the names of all the notable figures in the Renaissance.",
+      "To apply SQ3R components effectively to comprehend and analyse complex academic texts.",
+      "To learn how to write a scientific research paper from scratch.",
+      "To design a new set of headings for their textbooks."
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The primary learning objective is to 'Apply SQ3R components effectively to comprehend and analyse complex academic texts'.",
+    "incorrectExplanations": {
+      "A": "This is a specific content example, not the overarching objective of the strategy lesson.",
+      "B": "Correct. The goal is the acquisition of a versatile, high-level study skill.",
+      "C": "Report writing is a separate lesson (Types of Writing).",
+      "D": "Students are consumers of text in this strategy, not publishers."
+    },
+    "keywords": [
+      "SQ3R Target",
+      "Learning Objectives",
+      "Academic Analysis"
+    ],
+    "estimatedTime": 60
+  }
+]
