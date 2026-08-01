@@ -1,0 +1,782 @@
+[
+  {
+    "id": "W8Q001",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction",
+    "subTopic": "Formal Definition",
+    "difficulty": "Easy",
+    "question": "How is 'Abstraction' formally defined in the Week 8 materials?",
+    "options": [
+      "The process of making code as long as possible for better performance",
+      "The process of hiding the internal details of an application from the outer world",
+      "The method of converting a C program into a graphical flowchart",
+      "The act of deleting all comments from a source file"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Abstraction is defined as the process of hiding internal application details so that users or other programs only interact with what is necessary.",
+    "incorrectExplanations": {
+      "A": "Efficiency usually involves concise code, and abstraction often simplifies interaction.",
+      "B": "Correct. Hiding complexity is the core goal of abstraction.",
+      "C": "This is a form of documentation or visualization, not the logic of abstraction.",
+      "D": "Comments are helpful for humans and do not affect the logical abstraction of the program."
+    },
+    "keywords": ["definition", "abstraction", "hiding details"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q002",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction",
+    "subTopic": "Real-world Analogy",
+    "difficulty": "Easy",
+    "question": "According to the sources, which real-world action serves as an analogy for how abstraction works?",
+    "options": [
+      "Building a house from a blueprint",
+      "Turning on the ignition of a car",
+      "Sorting a list of library books",
+      "Choosing the shortest route on a map"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials use the car ignition as an analogy because we start the car without needing to understand the complex engine processes happening in between.",
+    "incorrectExplanations": {
+      "A": "Blueprints relate to the concept of classes (Week 7).",
+      "B": "Correct. It illustrates using a simple interface (the key) to trigger a complex internal process.",
+      "C": "This is a data organization task often used for sorting algorithm examples.",
+      "D": "This is a greedy algorithm example (Week 3)."
+    },
+    "keywords": ["analogy", "car ignition", "complexity"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q003",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Types",
+    "subTopic": "Data Abstraction",
+    "difficulty": "Easy",
+    "question": "Which of the following occurs when a program is written so that an object's data is not directly exposed?",
+    "options": [
+      "Functional abstraction",
+      "Data abstraction",
+      "Space complexity optimization",
+      "Posterior analysis"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Data abstraction ensures that the data of an object is hidden from the outside world and cannot be altered without proper permissions.",
+    "incorrectExplanations": {
+      "A": "Functional abstraction hides the implementation of methods, not the data itself.",
+      "B": "Correct. This focuses specifically on safeguarding information state.",
+      "C": "Space complexity is a performance metric, not an architectural abstraction.",
+      "D": "Posterior analysis is empirical testing after implementation."
+    },
+    "keywords": ["data abstraction", "exposure", "permissions"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q004",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Types",
+    "subTopic": "Functional Abstraction",
+    "difficulty": "Easy",
+    "question": "Functional abstraction involves hiding which specific part of an object?",
+    "options": [
+      "The name of the object",
+      "The implementation of the methods",
+      "The total amount of memory used",
+      "The date the code was written"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Functional abstraction hides how a method is implemented, allowing other programs to use the method without knowing its internal logic.",
+    "incorrectExplanations": {
+      "A": "The method name must be known to use it.",
+      "B": "Correct. Hiding the 'how' while revealing the 'what' is functional abstraction.",
+      "C": "Memory use is a resource concern, not part of functional definition hiding.",
+      "D": "Metadata like dates are for documentation, not logical abstraction."
+    },
+    "keywords": ["functional abstraction", "methods", "implementation"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q005",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Entry Point",
+    "difficulty": "Easy",
+    "question": "In the C programming language, which function serves as the mandatory entry-point?",
+    "options": [
+      "start()",
+      "main()",
+      "init()",
+      "entry()"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The sources state that all C programs have main() as the entry-point function.",
+    "incorrectExplanations": {
+      "A": "START is a flowchart terminator, not a standard C entry function.",
+      "B": "Correct. Execution of a C program always begins at main().",
+      "C": "Initialization logic is often placed in main() or called from it, but init() is not a keyword.",
+      "D": "This is not a standard keyword for C program entry."
+    },
+    "keywords": ["main", "entry-point", "C language"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q006",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Comment Syntax",
+    "difficulty": "Easy",
+    "question": "Which symbols are used to begin and terminate a multi-line comment in C?",
+    "options": [
+      "// and //",
+      "/* and */",
+      "# and #",
+      "<!-- and -->"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials specify that comments in C start with /* and are terminated with */.",
+    "incorrectExplanations": {
+      "A": "This is often used for single-line comments in many languages, but the source highlights /* */.",
+      "B": "Correct. This is the standard syntax for C comments.",
+      "C": "The hash symbol is for preprocessor directives like #include.",
+      "D": "These are HTML/XML comment tags."
+    },
+    "keywords": ["comments", "syntax", "C programming"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q007",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Newline",
+    "difficulty": "Easy",
+    "question": "What is the meaning of the escape sequence '\\n' in C?",
+    "options": [
+      "Null character",
+      "Newline",
+      "Next page",
+      "No sound"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Escape Sequences and Meaning' table identifies \\n as Newline.",
+    "incorrectExplanations": {
+      "A": "\\0 is the Null character.",
+      "B": "Correct. It moves the output cursor to the next line.",
+      "C": "\\f (Form Feed) is closer to a page movement, but \\n is strictly for lines.",
+      "D": "Escape sequences represent character formatting, not volume control."
+    },
+    "keywords": ["newline", "escape sequence", "\\n"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q008",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Implementation",
+    "subTopic": "Access Specifiers",
+    "difficulty": "Medium",
+    "question": "How do access specifiers like 'public' and 'private' help implement abstraction?",
+    "options": [
+      "By increasing the execution speed of the object's methods",
+      "By restricting the access of other programs to only specific properties and functions",
+      "By automatically translating C code into Python",
+      "By eliminating the need for a main() function"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Access specifiers are a tool for abstraction because they control visibility, ensuring only the intended parts of an object are accessible to the outside world.",
+    "incorrectExplanations": {
+      "A": "Specifiers impact logic and visibility, not raw processor speed.",
+      "B": "Correct. Restriction is the mechanism that enforces the 'hiding' required by abstraction.",
+      "C": "Abstraction is language-independent logic, not a translation tool.",
+      "D": "main() is always required as the entry point regardless of abstraction level."
+    },
+    "keywords": ["access specifiers", "restriction", "public", "private"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q009",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Implementation",
+    "subTopic": "Header Files",
+    "difficulty": "Medium",
+    "question": "What is a primary benefit of using header files to implement abstraction?",
+    "options": [
+      "They allow the use of functions without needing to know how they are implemented",
+      "They replace the need for variables and data structures",
+      "They ensure that the program can run without any computer hardware",
+      "They allow the programmer to write code using only emoji characters"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "By including a header file, a programmer can use pre-written library functions (like printf) without seeing or understanding the complex code behind them.",
+    "incorrectExplanations": {
+      "A": "Correct. This is a form of functional abstraction provided by libraries.",
+      "B": "Header files often declare variables and data structures for use; they don't replace them.",
+      "C": "All programs require hardware to execute.",
+      "D": "Programming languages like C require specific alphanumeric syntax."
+    },
+    "keywords": ["header files", "implementation", "library functions"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q010",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Benefits",
+    "subTopic": "Maintenance",
+    "difficulty": "Medium",
+    "question": "How does abstraction ensure that code can be changed without 'breaking' other parts of the system?",
+    "options": [
+      "By making the code unchangeable after it is compiled",
+      "By isolating the internal implementation of a method from the parts of the code that call it",
+      "By requiring every programmer to use the same variable names",
+      "By deleting the old code automatically"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Abstraction provides an interface. As long as the interface (method name/inputs) stays the same, the internal logic can be upgraded or fixed without affecting other components.",
+    "incorrectExplanations": {
+      "A": "Code must often be changed; abstraction makes those changes safer.",
+      "B": "Correct. Decoupling implementation from invocation is a key maintenance benefit.",
+      "C": "Abstraction allows for modular names, avoiding the need for global naming rules.",
+      "D": "Manual updates are performed by developers; abstraction simply organizes the impact of those updates."
+    },
+    "keywords": ["maintenance", "breaking code", "isolation"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q011",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Types",
+    "subTopic": "Interface Knowledge",
+    "difficulty": "Medium",
+    "question": "In functional abstraction, what three things must a program know to use a method of an object?",
+    "options": [
+      "Method name, memory address, and binary value",
+      "Method name, input format, and output format",
+      "Programmer's name, file size, and escape sequence",
+      "The car's make, color, and registration number"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The sources state: 'all they need to know is the method's name, the format of the input, and the format of the output.'",
+    "incorrectExplanations": {
+      "A": "Memory addresses are handled by the computer; the programmer uses the abstracted name.",
+      "B": "Correct. This constitutes the 'interface' for the method.",
+      "C": "These are external metadata or specific syntax details, not the method's interface requirements.",
+      "D": "These are attributes of the 'Car' example used to illustrate state, not the general requirements for functional abstraction."
+    },
+    "keywords": ["interface", "name", "input", "output"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q012",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Syntax Braces",
+    "difficulty": "Medium",
+    "question": "What do the braces '{' and '}' describe in a C program?",
+    "options": [
+      "The beginning and end of a comment block",
+      "The start and end of a function block",
+      "The location of the #include directive",
+      "The values contained within a single quote"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The materials state: 'The braces { and } describes the start and end of the function block.'",
+    "incorrectExplanations": {
+      "A": "Comments use /* and */.",
+      "B": "Correct. They encapsulate the instructions that belong to a specific function.",
+      "C": "Directives are at the top of the file, outside of function braces.",
+      "D": "Values in quotes are character literals or strings."
+    },
+    "keywords": ["braces", "function block", "C syntax"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q013",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Horizontal Tab",
+    "difficulty": "Medium",
+    "question": "Which escape sequence is used to insert a 'Horizontal Tab' in C output?",
+    "options": [
+      "\\v",
+      "\\t",
+      "\\r",
+      "\\b"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "According to the escape sequence table, \\t represents a Horizontal Tab.",
+    "incorrectExplanations": {
+      "A": "\\v is for Vertical Tab.",
+      "B": "Correct. It aligns output horizontally.",
+      "C": "\\r is for Carriage Return.",
+      "D": "\\b is for Backspace."
+    },
+    "keywords": ["tab", "horizontal", "\\t"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q014",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Bell/Alert",
+    "difficulty": "Medium",
+    "question": "The escape sequence '\\a' is used to represent which action?",
+    "options": [
+      "Add two numbers",
+      "Bell (or alert sound)",
+      "Animate a character",
+      "Alpha-numeric input"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The table in the sources explicitly links \\a to the 'Bell'.",
+    "incorrectExplanations": {
+      "A": "Addition is a mathematical operation (+), not an escape sequence.",
+      "B": "Correct. It triggers a system beep or alert sound.",
+      "C": "Animation requires complex graphics libraries, not a single escape sequence.",
+      "D": "Alpha-numeric refers to data types, not formatting actions."
+    },
+    "keywords": ["bell", "alert", "\\a"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q015",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Benefits",
+    "subTopic": "Duplication",
+    "difficulty": "Medium",
+    "question": "Abstraction helps prevent which common problem in software development?",
+    "options": [
+      "The use of the main() function",
+      "Duplication of codes",
+      "The use of comments",
+      "The installation of a text editor"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Benefits of abstraction' slide notes that it helps to 'prevent the duplication of codes.'",
+    "incorrectExplanations": {
+      "A": "main() is a requirement, not a problem.",
+      "B": "Correct. By reusing abstracted functions, developers avoid writing the same logic repeatedly.",
+      "C": "Comments are encouraged and beneficial.",
+      "D": "Text editors are necessary tools."
+    },
+    "keywords": ["duplication", "reusability", "abstraction benefits"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q016",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Implementation",
+    "subTopic": "Code Analysis",
+    "difficulty": "Hard",
+    "question": "In the provided 'Car' class example code, the variables (make, colour, registration_number) are marked as Private. What is the functional impact of this?",
+    "options": [
+      "They can only be accessed by the get_make() method within the class, not by outside programs.",
+      "They are deleted from the computer's memory to save space.",
+      "They can be modified by any other program as long as they know the car's registration number.",
+      "They are automatically converted to public variables during execution."
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "Marking them as Private implements data abstraction, restricting direct external access and requiring users to go through public methods (like get_make) to interact with the data.",
+    "incorrectExplanations": {
+      "A": "Correct. This demonstrates encapsulation and data hiding.",
+      "B": "Private variables still occupy memory during the object's lifecycle.",
+      "C": "The 'Private' keyword specifically prevents direct modification by external programs.",
+      "D": "Access levels are fixed in the code structure and do not change during runtime."
+    },
+    "keywords": ["Car example", "private variables", "access restriction"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q017",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Benefits",
+    "subTopic": "Security",
+    "difficulty": "Hard",
+    "question": "Why does abstraction specifically 'ensure that our applications are more secure'?",
+    "options": [
+      "Because it encrypts the entire program into a secret code",
+      "Because the implementation of the internal process is not exposed to the outside world",
+      "Because it requires a thumb-print scan to run the main() function",
+      "Because it prevents the computer from connecting to the internet"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Security is enhanced because external entities can only see the 'interface' and cannot tamper with or exploit the hidden 'implementation' details.",
+    "incorrectExplanations": {
+      "A": "Encryption is a different security process; abstraction is about structural visibility.",
+      "B": "Correct. Hiding implementation prevents unauthorized interference with core logic.",
+      "C": "This is biometric security, not logical software abstraction.",
+      "D": "Connectivity is unrelated to the logical design principle of abstraction."
+    },
+    "keywords": ["security", "exposure", "implementation details"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q018",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Standard Library",
+    "difficulty": "Hard",
+    "question": "What is the function of '#include <stdio.h>' in the Hello World example?",
+    "options": [
+      "To declare the main() function as the entry point",
+      "To include the header file necessary to use the printf() function",
+      "To tell the computer to stop execution immediately",
+      "To format the output as a double quote"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "stdio.h (Standard Input/Output) is the header file that contains the declarations for functions like printf. Including it is necessary to use those abstracted library functions.",
+    "incorrectExplanations": {
+      "A": "main() is defined by the programmer, not by the stdio.h include.",
+      "B": "Correct. This is a practical example of implementing abstraction via header files.",
+      "C": "Stopping execution is handled by the 'return 0' or similar commands.",
+      "D": "Escape sequences handle character formatting like quotes."
+    },
+    "keywords": ["stdio.h", "printf", "header files"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q019",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Null Character",
+    "difficulty": "Hard",
+    "question": "What is the purpose of the '\\0' escape sequence in C programming?",
+    "options": [
+      "To represent a zero value in a math calculation",
+      "To indicate a Null character (often used to mark the end of a string)",
+      "To restart the program from step zero",
+      "To increase the count of passes to zero"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The table lists \\0 as the 'Null' character, which is a fundamental part of how C manages data like strings.",
+    "incorrectExplanations": {
+      "A": "The digit 0 is used for math; \\0 is a specific non-printable character literal.",
+      "B": "Correct. It is a control character denoting the absence of a value or an endpoint.",
+      "C": "Restarting requires logic loops, not an escape sequence.",
+      "D": "Resetting counters is an assignment operation (count = 0), not an escape sequence."
+    },
+    "keywords": ["null", "\\0", "C strings"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q020",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Benefits",
+    "subTopic": "Readability",
+    "difficulty": "Hard",
+    "question": "How does abstraction contribute to 'Readability' according to the sources?",
+    "options": [
+      "By translating all technical code into natural language English",
+      "By allowing the code to focus on high-level logic rather than cluttered implementation details",
+      "By requiring every line of code to have at least three comments",
+      "By making the font size of the text editor larger"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Abstraction cleans up code by replacing complex logic blocks with simple method names, making it easier for humans to follow the 'story' of the program.",
+    "incorrectExplanations": {
+      "A": "Pseudocode (Week 6) is the bridge to natural language; abstraction is a structural code principle.",
+      "B": "Correct. It reduces 'clutter' by hiding the details 'under the hood.'",
+      "C": "Comments improve readability but are not the definition of abstraction.",
+      "D": "Readability in CS refers to the clarity of logic, not visual font size."
+    },
+    "keywords": ["readability", "logic", "clutter"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q021",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Function Result",
+    "difficulty": "Medium",
+    "question": "In the 'Hello World' code block, what does the 'return 0;' statement signify?",
+    "options": [
+      "The program has encountered a division by zero error",
+      "The successful completion of the main() function",
+      "The start of a new loop",
+      "The location of the stdio.h library"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "In C, returning 0 from the main function traditionally indicates to the operating system that the program has finished execution successfully.",
+    "incorrectExplanations": {
+      "A": "Errors are handled by specific logic or the EXCEPTION keyword.",
+      "B": "Correct. It is the 'exit status' of the program.",
+      "C": "Loops use WHILE or FOR constructs.",
+      "D": "Include directives (#include) specify library locations."
+    },
+    "keywords": ["return 0", "success", "C program"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q022",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Backspace",
+    "difficulty": "Medium",
+    "question": "Which of these escape sequences represents a 'Backspace'?",
+    "options": [
+      "\\f",
+      "\\b",
+      "\\v",
+      "\\r"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "As per the table, \\b is the escape sequence for Backspace.",
+    "incorrectExplanations": {
+      "A": "\\f is Form Feed.",
+      "B": "Correct. It moves the cursor back one position.",
+      "C": "\\v is Vertical Tab.",
+      "D": "\\r is Carriage Return."
+    },
+    "keywords": ["backspace", "\\b"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q023",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction",
+    "subTopic": "Change Management",
+    "difficulty": "Hard",
+    "question": "Why is the ability to change a method's implementation without breaking the code considered a major benefit of abstraction?",
+    "options": [
+      "Because it means the program never has to be tested",
+      "Because it allows developers to improve individual modules (e.g., for speed) as long as the inputs and outputs remain consistent",
+      "Because it forces the computer to use more RAM for the new implementation",
+      "Because it changes the program's language from C to Java automatically"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Abstraction provides 'loose coupling,' where the internals of a function are independent of the rest of the system, facilitating easier upgrades and fixes.",
+    "incorrectExplanations": {
+      "A": "Testing is always required after changes.",
+      "B": "Correct. The stability of the interface is what prevents 'breaking' the system.",
+      "C": "Improvements often aim to reduce RAM usage.",
+      "D": "Language changes require a full rewrite, regardless of abstraction level."
+    },
+    "keywords": ["implementation", "interface stability", "change management"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q024",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Output Function",
+    "difficulty": "Easy",
+    "question": "Which standard library function is used in the sources to print a character string to the screen?",
+    "options": [
+      "output()",
+      "printf()",
+      "display()",
+      "show()"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The 'Hello World' example uses the printf() function to display text.",
+    "incorrectExplanations": {
+      "A": "Output is a general term; printf() is the specific C function name.",
+      "B": "Correct. It stands for 'print formatted.'",
+      "C": "This is not a standard C output function.",
+      "D": "This is not a standard C output function."
+    },
+    "keywords": ["printf", "output", "string"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q025",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Backslash",
+    "difficulty": "Medium",
+    "question": "If you want to print a literal backslash symbol '\\' in a C string, which escape sequence must you use?",
+    "options": [
+      "\\",
+      "\\\\",
+      "\\b",
+      "\\s"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "To print a special character like a backslash, you must escape it with another backslash (\\\\), as shown in the table.",
+    "incorrectExplanations": {
+      "A": "A single backslash would start an escape sequence and cause an error if not followed by a valid character.",
+      "B": "Correct. This is the only way to display the literal character.",
+      "C": "\\b is Backspace.",
+      "D": "\\s is not a standard escape sequence listed in the Week 8 sources."
+    },
+    "keywords": ["backslash", "\\\\", "literal character"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q026",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Implementation",
+    "subTopic": "Private Methods",
+    "difficulty": "Hard",
+    "question": "In the Car class example code, the method 'create_spark()' is marked as Private. Why would a designer choose to do this?",
+    "options": [
+      "To allow the user to manually trigger the spark every time they drive",
+      "Because creating a spark is an internal implementation detail of the 'turn_on' process and should not be directly accessible to the user",
+      "To ensure that the spark uses the maximum amount of fuel possible",
+      "Because private methods are the only ones that can use the printf() function"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Creating a spark is a 'how it works' detail. The user only needs to know the 'turn_on' interface. Hiding the 'spark' logic is a perfect example of functional abstraction.",
+    "incorrectExplanations": {
+      "A": "Abstraction aims to reduce user interaction, not make it more technical.",
+      "B": "Correct. This focuses the user on the high-level objective rather than the sub-steps.",
+      "C": "Abstraction doesn't dictate fuel efficiency; it organizes logic.",
+      "D": "printf() can be used in any method, regardless of its access level."
+    },
+    "keywords": ["private method", "implementation detail", "spark"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q027",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "C Language Basics",
+    "subTopic": "Preprocessor Directive",
+    "difficulty": "Hard",
+    "question": "A line starting with the '#' symbol (like #include) is known in C as a:",
+    "options": [
+      "Comment",
+      "Preprocessor directive",
+      "Escape sequence",
+      "Function block"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "While the term 'preprocessor directive' is standard for C, the sources refer to these as the way we 'include header files' as part of the code initialization before compilation.",
+    "incorrectExplanations": {
+      "A": "Comments use /* */ or //.",
+      "B": "Correct. They tell the compiler to perform actions (like including files) before processing the code.",
+      "C": "Escape sequences start with a backslash \\.",
+      "D": "Function blocks are bounded by braces {}."
+    },
+    "keywords": ["#include", "directive", "C programming"],
+    "estimatedTime": 60
+  },
+  {
+    "id": "W8Q028",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction Implementation",
+    "subTopic": "Public Access",
+    "difficulty": "Medium",
+    "question": "In the context of abstraction, what is the role of 'Public' functions or properties?",
+    "options": [
+      "To store the secret passwords of the program",
+      "To provide the interface through which other programs or users interact with the object",
+      "To mark code that is broken and needs to be fixed",
+      "To hide the internal details of the main() function"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Public members are the 'exposed' parts that define the object's usable interface while keeping the rest hidden.",
+    "incorrectExplanations": {
+      "A": "Secret data (like passwords) should be marked as Private.",
+      "B": "Correct. They are the 'gateway' to the object's functionality.",
+      "C": "Access levels define visibility, not the quality of the code.",
+      "D": "The main() function's details are managed by the program structure, not public access specifiers on objects."
+    },
+    "keywords": ["public", "interface", "interaction"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q029",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Escape Sequences",
+    "subTopic": "Quotes",
+    "difficulty": "Medium",
+    "question": "Which escape sequence would you use if you needed to include a double quote (\") character inside a C string literal?",
+    "options": [
+      "\\'",
+      "\\\"",
+      "\\0",
+      "\\q"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "Since double quotes normally mark the start/end of a string, you must use \\\" to include a literal quote mark within the text.",
+    "incorrectExplanations": {
+      "A": "\\' is for a Single Quote.",
+      "B": "Correct. This prevents the compiler from thinking the string has ended.",
+      "C": "\\0 is the Null character.",
+      "D": "\\q is not a standard escape sequence."
+    },
+    "keywords": ["double quote", "\\\"", "string literal"],
+    "estimatedTime": 45
+  },
+  {
+    "id": "W8Q030",
+    "week": 8,
+    "weekTitle": "Abstraction and C Programming",
+    "topic": "Abstraction",
+    "subTopic": "Process Summary",
+    "difficulty": "Hard",
+    "question": "According to the final summary point in the sources, what does abstraction ultimately ensure for the future of a program?",
+    "options": [
+      "That the program will never need to be updated",
+      "That the implementation of a method can be changed without breaking other parts of the code",
+      "That the programmer will be replaced by a robot",
+      "That the program can run without a main() function"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The summary emphasizes that abstraction creates a robust architecture where internal changes do not cause a domino effect of errors in other components.",
+    "incorrectExplanations": {
+      "A": "Programs always need updates; abstraction makes those updates manageable.",
+      "B": "Correct. This is the strategic value of abstraction in software engineering.",
+      "C": "Abstraction is a human design tool, not a method of automation.",
+      "D": "main() remains a requirement for all C programs."
+    },
+    "keywords": ["summary", "breaking code", "change implementation"],
+    "estimatedTime": 60
+  }
+]
