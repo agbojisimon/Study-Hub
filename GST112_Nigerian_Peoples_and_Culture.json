@@ -2,7 +2,7 @@
   "courseCode": "GST112",
   "courseTitle": "Nigerian Peoples and Culture",
   "description": "100 exam-oriented objective questions based directly on the supplied GST 112 material.",
-  "totalQuestions": 100,
+  "totalQuestions": 118,
   "questionBank": [
     {
       "id": "Q001",
@@ -2903,6 +2903,528 @@
         "Solutions"
       ],
       "estimatedTime": 60
+    },
+    {
+      "id": "Q101",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Definition of Culture",
+      "difficulty": "Easy",
+      "question": "Culture is learned and transmitted from one generation to the next primarily through:",
+      "options": [
+        "Biological inheritance",
+        "Socialisation and learning",
+        "Geographic isolation",
+        "Genetic mutation"
+      ],
+      "correctAnswer": 1,
+      "correctOption": "B",
+      "explanation": "The correct answer is B: Socialisation and learning.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Definition of Culture"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q102",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Dimensions of Culture",
+      "difficulty": "Moderate",
+      "question": "In the context of the dimensions of culture, values may best be described as:",
+      "options": [
+        "The physical objects and tools produced by a society",
+        "The boundaries and territories of a kingdom",
+        "The standards and principles which a people regard as worthwhile and desirable",
+        "The languages spoken by the members of a society"
+      ],
+      "correctAnswer": 2,
+      "correctOption": "C",
+      "explanation": "The correct answer is C: The standards and principles which a people regard as worthwhile and desirable.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Dimensions of Culture"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q103",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Cultural Socialisation",
+      "difficulty": "Easy",
+      "question": "The process by which an individual acquires the culture of his or her society through upbringing is known as:",
+      "options": [
+        "Enculturation",
+        "Industrialisation",
+        "Urbanisation",
+        "Commercialisation"
+      ],
+      "correctAnswer": 0,
+      "correctOption": "A",
+      "explanation": "The correct answer is A: Enculturation.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Cultural Socialisation"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q104",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Cultural Imperialism",
+      "difficulty": "Moderate",
+      "question": "In the Nigerian context, cultural imperialism is most commonly associated with the influence of:",
+      "options": [
+        "Traditional festivals and ceremonies",
+        "Indigenous languages and dialects",
+        "Local religious beliefs and practices",
+        "Western culture through colonisation and globalisation"
+      ],
+      "correctAnswer": 3,
+      "correctOption": "D",
+      "explanation": "The correct answer is D: Western culture through colonisation and globalisation.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Cultural Imperialism"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q105",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Dimensions of Culture",
+      "difficulty": "Difficult",
+      "question": "According to the material, the relationship between culture and morality is best captured by the statement that:",
+      "options": [
+        "Morality is determined solely by legislation",
+        "Morality forms part of the normative dimension of a people's culture",
+        "Morality is independent of the culture of a people",
+        "Culture has no influence on what a society regards as right or wrong"
+      ],
+      "correctAnswer": 1,
+      "correctOption": "B",
+      "explanation": "The correct answer is B: Morality forms part of the normative dimension of a people's culture.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Dimensions of Culture"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q106",
+      "week": 2,
+      "weekTitle": "Culture and Cultural Concepts",
+      "topic": "Culture",
+      "subTopic": "Cultural Imperialism",
+      "difficulty": "Difficult",
+      "question": "One major negative consequence of cultural imperialism on a host society is that it:",
+      "options": [
+        "Erodes indigenous values and cultural identity",
+        "Strengthens the normative dimension of the local culture",
+        "Preserves every traditional institution",
+        "Promotes a balanced cultural exchange"
+      ],
+      "correctAnswer": 0,
+      "correctOption": "A",
+      "explanation": "The correct answer is A: Erodes indigenous values and cultural identity.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Culture",
+        "Cultural Imperialism"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q107",
+      "week": 5,
+      "weekTitle": "Middle Belt and Central Nigerian Peoples",
+      "topic": "Ebira",
+      "subTopic": "Traditional Institution",
+      "difficulty": "Easy",
+      "question": "The Ohonoyi is the paramount ruler of the:",
+      "options": [
+        "Igala",
+        "Tiv",
+        "Ebira",
+        "Birom"
+      ],
+      "correctAnswer": 2,
+      "correctOption": "C",
+      "explanation": "The correct answer is C: Ebira.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Ebira",
+        "Traditional Institution"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q108",
+      "week": 5,
+      "weekTitle": "Middle Belt and Central Nigerian Peoples",
+      "topic": "Igala",
+      "subTopic": "Political Organisation",
+      "difficulty": "Difficult",
+      "question": "Which of the following best describes the traditional political system of the Igala?",
+      "options": [
+        "A segmentary system without a central ruler",
+        "A centralised kingship headed by the Attah",
+        "A republic governed by an elected council",
+        "A colonial office created in 1945"
+      ],
+      "correctAnswer": 1,
+      "correctOption": "B",
+      "explanation": "The correct answer is B: A centralised kingship headed by the Attah.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Igala",
+        "Political Organisation"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q109",
+      "week": 7,
+      "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+      "topic": "Citizenship",
+      "subTopic": "Acquisition of Citizenship",
+      "difficulty": "Moderate",
+      "question": "Naturalisation, as a mode of acquiring Nigerian citizenship, is most appropriately applied to:",
+      "options": [
+        "Persons born in Nigeria to Nigerian parents",
+        "Persons born abroad to Nigerian parents",
+        "Children of settlers residing in the country",
+        "Qualified foreigners who seek citizenship through a formal process"
+      ],
+      "correctAnswer": 3,
+      "correctOption": "D",
+      "explanation": "The correct answer is D: Qualified foreigners who seek citizenship through a formal process.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Citizenship",
+        "Acquisition of Citizenship"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q110",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Easy",
+      "question": "Which of the following is identified in the material as an approach to addressing environmental challenges in Nigeria?",
+      "options": [
+        "Public education",
+        "Deforestation",
+        "Overgrazing",
+        "Urban migration"
+      ],
+      "correctAnswer": 0,
+      "correctOption": "A",
+      "explanation": "The correct answer is A: Public education.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q111",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Moderate",
+      "question": "Scientific assessment, as an approach to addressing environmental challenges, is primarily concerned with:",
+      "options": [
+        "Advertising the achievements of the government",
+        "Expanding industrial and urban activities",
+        "Establishing the facts of a problem through systematic investigation",
+        "Encouraging the migration of rural dwellers"
+      ],
+      "correctAnswer": 2,
+      "correctOption": "C",
+      "explanation": "The correct answer is C: Establishing the facts of a problem through systematic investigation.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q112",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Moderate",
+      "question": "In the context of the material, risk analysis is chiefly concerned with:",
+      "options": [
+        "Promoting the rapid growth of industries",
+        "Evaluating the dangers posed by environmental hazards",
+        "Increasing the volume of international trade",
+        "Reducing the size of the population"
+      ],
+      "correctAnswer": 1,
+      "correctOption": "B",
+      "explanation": "The correct answer is B: Evaluating the dangers posed by environmental hazards.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q113",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Easy",
+      "question": "Public education is employed in tackling environmental challenges mainly in order to:",
+      "options": [
+        "Reduce the number of schools and teachers",
+        "Encourage the dumping of waste into rivers",
+        "Restrict access to environmental information",
+        "Create awareness and change public attitudes toward the environment"
+      ],
+      "correctAnswer": 3,
+      "correctOption": "D",
+      "explanation": "The correct answer is D: Create awareness and change public attitudes toward the environment.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q114",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Difficult",
+      "question": "Political action, as one of the approaches to solving environmental challenges, involves the:",
+      "options": [
+        "Formulating and implementing policies that protect the environment",
+        "Restricting the activities of farmers and fishermen",
+        "Removing all taxes from industrial companies",
+        "Allowing each community to ignore environmental laws"
+      ],
+      "correctAnswer": 0,
+      "correctOption": "A",
+      "explanation": "The correct answer is A: Formulating and implementing policies that protect the environment.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q115",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Difficult",
+      "question": "The major significance of long-term evaluation in addressing environmental challenges is that it:",
+      "options": [
+        "Abolishing environmental regulatory bodies",
+        "Replacing local knowledge with imported ideas",
+        "Monitoring whether adopted solutions remain effective over time",
+        "Postponing action on all environmental problems"
+      ],
+      "correctAnswer": 2,
+      "correctOption": "C",
+      "explanation": "The correct answer is C: Monitoring whether adopted solutions remain effective over time.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q116",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Moderate",
+      "question": "Which of the following correctly distinguishes public education from political action as approaches to environmental challenges?",
+      "options": [
+        "Public education drives policy while political action shapes attitudes",
+        "Public education shapes attitudes while political action drives policy",
+        "Public education and political action are exactly the same measure",
+        "Public education and political action exclude citizens entirely"
+      ],
+      "correctAnswer": 1,
+      "correctOption": "B",
+      "explanation": "The correct answer is B: Public education shapes attitudes while political action drives policy.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
+    },
+    {
+      "id": "Q117",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Difficult",
+      "question": "According to the material, successfully addressing environmental challenges in Nigeria requires:",
+      "options": [
+        "A single emergency measure applied only once",
+        "Complete dependence on foreign assistance",
+        "Total indifference to local conditions",
+        "A sustained combination of assessment, awareness and action over time"
+      ],
+      "correctAnswer": 3,
+      "correctOption": "D",
+      "explanation": "The correct answer is D: A sustained combination of assessment, awareness and action over time.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 60
+    },
+    {
+      "id": "Q118",
+      "week": 9,
+      "weekTitle": "Environmental Challenges",
+      "topic": "Environmental Challenges",
+      "subTopic": "Solutions",
+      "difficulty": "Easy",
+      "question": "Which of the following is NOT one of the approaches to addressing environmental challenges identified in the material?",
+      "options": [
+        "Military conquest",
+        "Public education",
+        "Risk analysis",
+        "Long-term evaluation"
+      ],
+      "correctAnswer": 0,
+      "correctOption": "A",
+      "explanation": "The correct answer is A: Military conquest.",
+      "incorrectExplanations": {
+        "A": "This option is incorrect.",
+        "B": "This option is incorrect.",
+        "C": "This option is incorrect.",
+        "D": "This option is incorrect."
+      },
+      "keywords": [
+        "Environmental Challenges",
+        "Solutions"
+      ],
+      "estimatedTime": 45
     }
   ]
 }
