@@ -41,6 +41,23 @@ export const COURSES: CourseDefinition[] = [
       'Speaking II',
     ],
   },
+  {
+    code: 'GST112',
+    title: 'Nigerian Peoples and Culture',
+    description:
+      'An exam-oriented course covering the peoples, cultures, and historical development of Nigeria, from precolonial civilizations to the diversity of its ethnic groups and cultural institutions.',
+    weekTitles: [
+      'Precolonial Nigeria and Early Civilisations',
+      'Culture and Cultural Concepts',
+      'Niger Delta Peoples',
+      'Rain Forest Peoples',
+      'Middle Belt and Central Nigerian Peoples',
+      'Evolution of Nigeria',
+      'Citizenship, Settler-Indigene and National Identity',
+      'Trade and Economic Self-Reliance',
+      'Environmental Challenges',
+    ],
+  },
 ];
 
 export function getCourseDefinition(courseCode: string) {

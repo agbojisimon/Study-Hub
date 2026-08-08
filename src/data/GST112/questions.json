@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "Q001",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Nok Culture",
+    "difficulty": "Easy",
+    "question": "The oldest recognizable evidence of an organised society in Nigeria belongs to the ______ culture.",
+    "options": [
+      "Benin",
+      "Nok",
+      "Oyo",
+      "Igbo Ukwu"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Nok.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Nok Culture"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q002",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Nok Culture",
+    "difficulty": "Easy",
+    "question": "The Nok culture is generally dated to approximately:",
+    "options": [
+      "500 BCE–200 CE",
+      "9000 BCE–5000 BCE",
+      "1000 CE–1500 CE",
+      "1500 BCE–500 BCE"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: 500 BCE–200 CE.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Nok Culture"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q003",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Nok Culture",
+    "difficulty": "Easy",
+    "question": "The Nok culture was particularly famous for its:",
+    "options": [
+      "Bronze doors",
+      "Terra-cotta figurines",
+      "Ivory masks",
+      "Stone pyramids"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Terra-cotta figurines.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Nok Culture"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q004",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Nok Culture",
+    "difficulty": "Moderate",
+    "question": "The Nok culture made a significant technological transition from the:",
+    "options": [
+      "Bronze Age to Stone Age",
+      "Iron Age to Neolithic Age",
+      "Neolithic Age to Iron Age",
+      "Iron Age to Bronze Age"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Neolithic Age to Iron Age.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Nok Culture"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q005",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Nok Art",
+    "difficulty": "Moderate",
+    "question": "Which of the following is NOT identified as a distinctive feature of Nok art?",
+    "options": [
+      "Naturalism",
+      "Stylised treatment of the mouth and eyes",
+      "Distortion of human facial features",
+      "Complete rejection of animal forms"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The correct answer is D: Complete rejection of animal forms.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Nok Art"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q006",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo Ukwu",
+    "difficulty": "Easy",
+    "question": "The Igbo Ukwu bronzes have been dated to approximately the:",
+    "options": [
+      "5th century BCE",
+      "9th century CE",
+      "14th century CE",
+      "18th century CE"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: 9th century CE.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo Ukwu"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q007",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo Ukwu",
+    "difficulty": "Moderate",
+    "question": "The discovery of Igbo Ukwu bronzes suggested that the society had:",
+    "options": [
+      "No external economic contacts",
+      "A highly isolated economy",
+      "Wide-ranging economic relationships",
+      "No organised social structure"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Wide-ranging economic relationships.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo Ukwu"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q008",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo Ukwu",
+    "difficulty": "Difficult",
+    "question": "The coloured glass beads found at Igbo Ukwu may have originated from:",
+    "options": [
+      "China and Japan",
+      "Venice and India",
+      "Britain and France",
+      "Morocco and Spain"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Venice and India.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo Ukwu"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q009",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo Ukwu",
+    "difficulty": "Moderate",
+    "question": "The eze nri is described in the material as a:",
+    "options": [
+      "Military commander",
+      "Merchant king",
+      "Priest-king",
+      "Colonial administrator"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Priest-king.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo Ukwu"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q010",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Northern Political Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following was NOT listed among the major precolonial northern Nigerian political systems?",
+    "options": [
+      "Kanem-Borno",
+      "Hausa states",
+      "Jukun states",
+      "Benin Kingdom"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The correct answer is D: Benin Kingdom.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Northern Political Systems"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q011",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Hausa States",
+    "difficulty": "Easy",
+    "question": "Which of the following was a Hausa state?",
+    "options": [
+      "Kano",
+      "Oyo",
+      "Benin",
+      "Warri"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Kano.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Hausa States"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q012",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Hausa States",
+    "difficulty": "Moderate",
+    "question": "The Hausa states developed centralised political systems partly because of their:",
+    "options": [
+      "Isolation from trade routes",
+      "Strategic geographical location",
+      "Dependence exclusively on fishing",
+      "Lack of contact with neighbouring societies"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Strategic geographical location.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Hausa States"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q013",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Hausa States",
+    "difficulty": "Moderate",
+    "question": "Islam was introduced into Hausaland from the Mali Empire in the:",
+    "options": [
+      "10th century",
+      "12th century",
+      "14th century",
+      "18th century"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: 14th century.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Hausa States"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q014",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Hausa States",
+    "difficulty": "Difficult",
+    "question": "Despite the spread of Islam in Hausaland, pre-Islamic rites:",
+    "options": [
+      "Completely disappeared",
+      "Remained part of ceremonies supporting monarchical authority",
+      "Were replaced immediately by Christianity",
+      "Became illegal"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Remained part of ceremonies supporting monarchical authority.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Hausa States"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q015",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Ife",
+    "difficulty": "Easy",
+    "question": "Ife flourished particularly between the:",
+    "options": [
+      "5th and 8th centuries",
+      "11th and 15th centuries",
+      "15th and 18th centuries",
+      "18th and 20th centuries"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: 11th and 15th centuries.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Ife"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q016",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Ife",
+    "difficulty": "Moderate",
+    "question": "Divination in Ife was centred on the deity:",
+    "options": [
+      "Ogun",
+      "Sango",
+      "Ifa",
+      "Olokun"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Ifa.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Ife"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q017",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Ife",
+    "difficulty": "Moderate",
+    "question": "Yoruba monarchies claimed descent from Ife primarily to establish:",
+    "options": [
+      "Military superiority",
+      "Religious conversion",
+      "Political legitimacy",
+      "Economic independence"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Political legitimacy.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Ife"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q018",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Oyo",
+    "difficulty": "Moderate",
+    "question": "Oyo became an important emporium for exchanging northern goods for southern products. Which was a northern product?",
+    "options": [
+      "Kola nuts",
+      "Indigo",
+      "Rock salt",
+      "Cowries"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Rock salt.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Oyo"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q019",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Oyo",
+    "difficulty": "Difficult",
+    "question": "Oyo's cavalry advantage was particularly significant because:",
+    "options": [
+      "Horses could thrive everywhere in southern Nigeria",
+      "Tsetse flies prevented southern kingdoms from effectively using horses",
+      "Oyo had no access to northern trade",
+      "The southern kingdoms had superior cavalry"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Tsetse flies prevented southern kingdoms from effectively using horses.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Oyo"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q020",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Benin",
+    "difficulty": "Easy",
+    "question": "Benin art became particularly famous for:",
+    "options": [
+      "Bronze sculptures and bronze door panels",
+      "Stone pyramids",
+      "Paper paintings",
+      "Wooden skyscrapers"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Bronze sculptures and bronze door panels.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Benin"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q021",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Benin",
+    "difficulty": "Moderate",
+    "question": "When the Portuguese arrived in Benin in the 15th century, they found:",
+    "options": [
+      "A stateless society",
+      "A complex monarchy with chiefs and palace officials",
+      "A purely democratic republic",
+      "A nomadic society"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: A complex monarchy with chiefs and palace officials.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Benin"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q022",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo",
+    "difficulty": "Easy",
+    "question": "The traditional political organisation of much of Igboland was predominantly:",
+    "options": [
+      "Centralised monarchy",
+      "Decentralised",
+      "Military dictatorship",
+      "Colonial administration"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Decentralised.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q023",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Igbo",
+    "difficulty": "Moderate",
+    "question": "Igbo villages were governed partly through:",
+    "options": [
+      "Societies of elders and age-grade associations",
+      "European governors",
+      "Foreign merchants",
+      "Colonial courts"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Societies of elders and age-grade associations.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Igbo"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q024",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Atlantic Slave Trade",
+    "difficulty": "Difficult",
+    "question": "One major consequence of the Atlantic slave trade mentioned in the material was:",
+    "options": [
+      "Population growth everywhere",
+      "Political and economic dislocations",
+      "Elimination of intercommunal rivalry",
+      "Complete economic stability"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Political and economic dislocations.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Atlantic Slave Trade"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q025",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Sokoto Jihad",
+    "difficulty": "Easy",
+    "question": "The Sokoto Jihad was led by:",
+    "options": [
+      "Muhammad Bello",
+      "Usman dan Fodio",
+      "Muḥammad al-Kānemī",
+      "Bayajidda"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Usman dan Fodio.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Sokoto Jihad"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q026",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Sokoto Jihad",
+    "difficulty": "Moderate",
+    "question": "One major complaint of Usman dan Fodio and his followers was that:",
+    "options": [
+      "Islam was completely absent from Hausaland",
+      "Islamic law was not being fully observed",
+      "Trade had been abolished",
+      "Christianity was dominant in Gobir"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Islamic law was not being fully observed.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Sokoto Jihad"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q027",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Sokoto Jihad",
+    "difficulty": "Easy",
+    "question": "Usman dan Fodio formally called for the uprising in:",
+    "options": [
+      "1774",
+      "1804",
+      "1817",
+      "1884"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: 1804.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Sokoto Jihad"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q028",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Sokoto Caliphate",
+    "difficulty": "Moderate",
+    "question": "The capital of the new caliphate established after the Sokoto Jihad was:",
+    "options": [
+      "Kano",
+      "Borno",
+      "Sokoto",
+      "Zaria"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Sokoto.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Sokoto Caliphate"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q029",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Sokoto Caliphate",
+    "difficulty": "Difficult",
+    "question": "Under the Sokoto Caliphate, emirates:",
+    "options": [
+      "Were completely independent of Sokoto",
+      "Had autonomy but pledged loyalty to the amīr al-muʾminīn",
+      "Were controlled directly by Britain",
+      "Had no political authority"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Had autonomy but pledged loyalty to the amīr al-muʾminīn.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Sokoto Caliphate"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q030",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Oyo",
+    "difficulty": "Moderate",
+    "question": "Which combination contributed to the collapse of Oyo?",
+    "options": [
+      "Fulani intrusion and internal political conflicts",
+      "Portuguese invasion and Christianity",
+      "British amalgamation and oil discovery",
+      "Industrialisation and urbanisation"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Fulani intrusion and internal political conflicts.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Oyo"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q031",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Oyo",
+    "difficulty": "Difficult",
+    "question": "Fulani ascendancy at Ilorin weakened Oyo partly because it:",
+    "options": [
+      "Increased Oyo's supply of horses",
+      "Cut off Oyo's supply of horses",
+      "Destroyed Oyo's farming system",
+      "Converted all Oyo citizens to Christianity"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Cut off Oyo's supply of horses.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Oyo"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q032",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Yoruba Migration",
+    "difficulty": "Moderate",
+    "question": "After the collapse of Oyo, one of the major centres established by migrating Yoruba people was:",
+    "options": [
+      "Sokoto",
+      "Ibadan",
+      "Kano",
+      "Kaduna"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Ibadan.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Yoruba Migration"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q033",
+    "week": 1,
+    "weekTitle": "Precolonial Nigeria and Early Civilisations",
+    "topic": "Precolonial Nigeria",
+    "subTopic": "Egba",
+    "difficulty": "Easy",
+    "question": "The Egba founded Abeokuta around:",
+    "options": [
+      "1700",
+      "1750",
+      "1830",
+      "1914"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: 1830.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Precolonial Nigeria",
+      "Egba"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q034",
+    "week": 2,
+    "weekTitle": "Culture and Cultural Concepts",
+    "topic": "Culture",
+    "subTopic": "Definition of Culture",
+    "difficulty": "Difficult",
+    "question": "Culture is best defined in the material as:",
+    "options": [
+      "Only religious beliefs",
+      "Only traditional clothing",
+      "The totality of a people's way of life",
+      "Government policy alone"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: The totality of a people's way of life.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Culture",
+      "Definition of Culture"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q035",
+    "week": 2,
+    "weekTitle": "Culture and Cultural Concepts",
+    "topic": "Culture",
+    "subTopic": "Cultural Socialisation",
+    "difficulty": "Moderate",
+    "question": "The process through which people learn to fit into or adapt to a culture is called:",
+    "options": [
+      "Cultural imperialism",
+      "Cultural socialisation",
+      "Cultural isolation",
+      "Political integration"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Cultural socialisation.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Culture",
+      "Cultural Socialisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q036",
+    "week": 2,
+    "weekTitle": "Culture and Cultural Concepts",
+    "topic": "Culture",
+    "subTopic": "Dimensions of Culture",
+    "difficulty": "Difficult",
+    "question": "Which dimension of culture deals with goals, values and what constitutes morality?",
+    "options": [
+      "Normative",
+      "Symbolic",
+      "Economic",
+      "Political"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Normative.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Culture",
+      "Dimensions of Culture"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q037",
+    "week": 2,
+    "weekTitle": "Culture and Cultural Concepts",
+    "topic": "Culture",
+    "subTopic": "Cultural Imperialism",
+    "difficulty": "Moderate",
+    "question": "Cultural imperialism essentially involves:",
+    "options": [
+      "Equal cultural exchange",
+      "Super-imposition of a supposedly superior culture over an inferior culture",
+      "Voluntary cultural adaptation only",
+      "Preservation of every indigenous practice"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Super-imposition of a supposedly superior culture over an inferior culture.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Culture",
+      "Cultural Imperialism"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q038",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Ethnic Groups",
+    "difficulty": "Easy",
+    "question": "Which of the following is a Niger Delta ethnic group?",
+    "options": [
+      "Ijaw",
+      "Tiv",
+      "Hausa",
+      "Nupe"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Ijaw.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Ethnic Groups"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q039",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Occupation",
+    "difficulty": "Easy",
+    "question": "The major occupation of Niger Delta people living entirely within mangrove and freshwater areas is:",
+    "options": [
+      "Cattle rearing",
+      "Fishing",
+      "Mining",
+      "Horse breeding"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Fishing.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Occupation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q040",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Urhobo",
+    "difficulty": "Moderate",
+    "question": "The Urhobo are historically described as:",
+    "options": [
+      "Great traders",
+      "Great cavalry soldiers",
+      "Desert nomads",
+      "Palace craftsmen only"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Great traders.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Urhobo"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q041",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Trade",
+    "difficulty": "Easy",
+    "question": "Itsekiri, Bonny and Opobo became important as:",
+    "options": [
+      "Agricultural centres",
+      "Middlemen in the oil trade",
+      "Mining colonies",
+      "Horse markets"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Middlemen in the oil trade.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Trade"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q042",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Political Organisation",
+    "difficulty": "Moderate",
+    "question": "The basic political unit of the Niger Delta people is generally the:",
+    "options": [
+      "Empire",
+      "Village",
+      "Federation",
+      "Province"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Village.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q043",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Political Organisation",
+    "difficulty": "Difficult",
+    "question": "The major exception to the village/clan-based political organisation of the Niger Delta is:",
+    "options": [
+      "Ijaw",
+      "Urhobo",
+      "Itsekiri",
+      "Isoko"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Itsekiri.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Political Organisation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q044",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Religion",
+    "difficulty": "Easy",
+    "question": "The Supreme God among the Isoko and Urhobo is called:",
+    "options": [
+      "Chukwu",
+      "Oghene",
+      "Olodumare",
+      "Osanobua"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Oghene.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Religion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q045",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Religion",
+    "difficulty": "Moderate",
+    "question": "Among the Ijaw, the Supreme God is called:",
+    "options": [
+      "Tamara or Egbesu",
+      "Chukwu",
+      "Osanobua",
+      "Osenebua"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Tamara or Egbesu.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Religion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q046",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Religion",
+    "difficulty": "Easy",
+    "question": "Olokun is associated particularly with:",
+    "options": [
+      "Agriculture",
+      "Water",
+      "Warfare",
+      "Blacksmithing"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Water.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Religion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q047",
+    "week": 3,
+    "weekTitle": "Niger Delta Peoples",
+    "topic": "Niger Delta",
+    "subTopic": "Art and Skills",
+    "difficulty": "Moderate",
+    "question": "Which of the following is an artistic skill for which Niger Delta communities are noted?",
+    "options": [
+      "Canoe making",
+      "Horse armour production",
+      "Pyramid construction",
+      "Glass skyscraper construction"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Canoe making.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Niger Delta",
+      "Art and Skills"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q048",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Rain Forest",
+    "subTopic": "Regional Groups",
+    "difficulty": "Moderate",
+    "question": "The Rain Forest region is broadly categorised into:",
+    "options": [
+      "Hausa, Fulani, Kanuri and Tiv",
+      "Yoruba, Western Igbo, Eastern Igbo and Edoid",
+      "Tiv, Igala, Nupe and Jukun",
+      "Ijaw, Urhobo, Isoko and Itsekiri"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Yoruba, Western Igbo, Eastern Igbo and Edoid.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Rain Forest",
+      "Regional Groups"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q049",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Rain Forest",
+    "subTopic": "Political Organisation",
+    "difficulty": "Easy",
+    "question": "The two broad tendencies in the socio-political organisation of Rain Forest peoples are:",
+    "options": [
+      "Military rule and democracy",
+      "Village democracies and monarchical states",
+      "Empires and colonies",
+      "Republics and dictatorships"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Village democracies and monarchical states.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Rain Forest",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q050",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Rain Forest",
+    "subTopic": "Political Organisation",
+    "difficulty": "Moderate",
+    "question": "Which group best represents the village democracy tendency?",
+    "options": [
+      "Yoruba",
+      "Bini",
+      "Igbo",
+      "Oyo"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Igbo.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Rain Forest",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q051",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Igbo",
+    "subTopic": "Political Organisation",
+    "difficulty": "Moderate",
+    "question": "The basic political unit in traditional Igbo society is the:",
+    "options": [
+      "Empire",
+      "Village",
+      "Kingdom",
+      "Province"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Village.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igbo",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q052",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Igbo",
+    "subTopic": "Political Leadership",
+    "difficulty": "Easy",
+    "question": "The oldest male member heading a lineage in traditional Igbo society is called:",
+    "options": [
+      "Oba",
+      "Okpara",
+      "Ijoye",
+      "Baale"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Okpara.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igbo",
+      "Political Leadership"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q053",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Igbo",
+    "subTopic": "Political Symbols",
+    "difficulty": "Moderate",
+    "question": "The Ofo among the Igbo symbolises:",
+    "options": [
+      "Wealth and trade",
+      "Justice and authority",
+      "Warfare and conquest",
+      "Agriculture and fertility"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Justice and authority.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igbo",
+      "Political Symbols"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q054",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Yoruba",
+    "subTopic": "Political Organisation",
+    "difficulty": "Easy",
+    "question": "The basic political unit in traditional Yoruba political organisation is the:",
+    "options": [
+      "Town",
+      "Village",
+      "Empire",
+      "Province"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Town.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Yoruba",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q055",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Yoruba",
+    "subTopic": "Political Organisation",
+    "difficulty": "Moderate",
+    "question": "The head of a Yoruba town is known as the:",
+    "options": [
+      "Okpara",
+      "Baale, or Oba when crowned king",
+      "Tor Tiv",
+      "Attah"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Baale, or Oba when crowned king.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Yoruba",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q056",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Yoruba",
+    "subTopic": "Political Organisation",
+    "difficulty": "Difficult",
+    "question": "Which court represented the highest level of appeal in traditional Yoruba political organisation?",
+    "options": [
+      "Ijoye's court",
+      "Baale's court",
+      "Oba's court",
+      "Lineage court"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Oba's court.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Yoruba",
+      "Political Organisation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q057",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Rain Forest",
+    "subTopic": "Technology",
+    "difficulty": "Moderate",
+    "question": "The Rain Forest people are particularly noted for sophisticated skills in:",
+    "options": [
+      "Metallurgy",
+      "Camel breeding",
+      "Desert irrigation",
+      "Salt mining only"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Metallurgy.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Rain Forest",
+      "Technology"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q058",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Yoruba",
+    "subTopic": "Religion",
+    "difficulty": "Easy",
+    "question": "God is called ______ in Yorubaland.",
+    "options": [
+      "Chukwu",
+      "Osanobua",
+      "Olodumare",
+      "Oghene"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Olodumare.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Yoruba",
+      "Religion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q059",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Igbo",
+    "subTopic": "Religion",
+    "difficulty": "Moderate",
+    "question": "Among the Igbo, the Supreme God is called:",
+    "options": [
+      "Chukwu",
+      "Olodumare",
+      "Osenebua",
+      "Tamara"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Chukwu.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igbo",
+      "Religion"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q060",
+    "week": 4,
+    "weekTitle": "Rain Forest Peoples",
+    "topic": "Rain Forest",
+    "subTopic": "Religion",
+    "difficulty": "Difficult",
+    "question": "Which of the following correctly matches culture with the name of the Supreme God?",
+    "options": [
+      "Yoruba — Chukwu",
+      "Benin — Osanobua",
+      "Igbo — Olodumare",
+      "Esan — Oghene"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Benin — Osanobua.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Rain Forest",
+      "Religion"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q061",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Ebira",
+    "subTopic": "Traditional Institution",
+    "difficulty": "Easy",
+    "question": "The throne of the paramount ruler of Ebiraland is known as the:",
+    "options": [
+      "Attah",
+      "Ohonoyi",
+      "Tor Tiv",
+      "Oba"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Ohonoyi.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Ebira",
+      "Traditional Institution"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q062",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Igala",
+    "subTopic": "Political Organisation",
+    "difficulty": "Moderate",
+    "question": "The traditional headquarters of Igalaland is:",
+    "options": [
+      "Idah",
+      "Okene",
+      "Gboko",
+      "Kano"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Idah.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igala",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q063",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Igala",
+    "subTopic": "Political History",
+    "difficulty": "Difficult",
+    "question": "The first Attah of Igala was:",
+    "options": [
+      "Idoko",
+      "Ayegba Om' Idoko",
+      "Ohonoyi",
+      "Tor Agbande"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Ayegba Om' Idoko.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Igala",
+      "Political History"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q064",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Birom",
+    "subTopic": "Location",
+    "difficulty": "Easy",
+    "question": "The Birom are largely located in:",
+    "options": [
+      "Plateau State",
+      "Lagos State",
+      "Kano State",
+      "Rivers State"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Plateau State.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Birom",
+      "Location"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q065",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Tiv",
+    "subTopic": "Occupation",
+    "difficulty": "Moderate",
+    "question": "The Tiv are predominantly:",
+    "options": [
+      "Fishermen",
+      "Farmers",
+      "Traders only",
+      "Miners"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Farmers.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Tiv",
+      "Occupation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q066",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Tiv",
+    "subTopic": "Political Organisation",
+    "difficulty": "Difficult",
+    "question": "The political institution called Tor Agbande among the Tiv was:",
+    "options": [
+      "A religious priesthood",
+      "A drum-chief institution providing political and military leadership",
+      "A colonial court",
+      "A trading association"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: A drum-chief institution providing political and military leadership.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Tiv",
+      "Political Organisation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q067",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Tiv",
+    "subTopic": "Political History",
+    "difficulty": "Moderate",
+    "question": "The British created the office of Tor Tiv in:",
+    "options": [
+      "1914",
+      "1930",
+      "1945",
+      "1960"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: 1945.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Tiv",
+      "Political History"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q068",
+    "week": 5,
+    "weekTitle": "Middle Belt and Central Nigerian Peoples",
+    "topic": "Tiv",
+    "subTopic": "Political Organisation",
+    "difficulty": "Easy",
+    "question": "The seat of the Tor Tiv is located in:",
+    "options": [
+      "Idah",
+      "Gboko",
+      "Makurdi",
+      "Wukari"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Gboko.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Tiv",
+      "Political Organisation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q069",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Precolonial States",
+    "difficulty": "Easy",
+    "question": "Before colonial rule, Nigeria consisted of:",
+    "options": [
+      "One unified kingdom",
+      "Several independent states",
+      "One democratic republic",
+      "One military government"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Several independent states.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Precolonial States"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q070",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Amalgamation",
+    "difficulty": "Moderate",
+    "question": "The amalgamation of Nigeria is primarily credited to:",
+    "options": [
+      "Lord Lugard",
+      "Usman dan Fodio",
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Lord Lugard.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Amalgamation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q071",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Amalgamation",
+    "difficulty": "Difficult",
+    "question": "According to the material, British motivations for amalgamation included all EXCEPT:",
+    "options": [
+      "Securing raw materials",
+      "Establishing markets",
+      "Gaining transportation and communication control",
+      "Promoting complete Nigerian political independence"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The correct answer is D: Promoting complete Nigerian political independence.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Amalgamation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q072",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Amalgamation",
+    "difficulty": "Easy",
+    "question": "The first phase of the amalgamation process occurred in:",
+    "options": [
+      "1898",
+      "1900",
+      "1906",
+      "1914"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: 1900.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Amalgamation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q073",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Amalgamation",
+    "difficulty": "Moderate",
+    "question": "The final phase of amalgamation occurred on:",
+    "options": [
+      "January 1, 1900",
+      "January 1, 1906",
+      "January 1, 1914",
+      "October 1, 1960"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: January 1, 1914.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Amalgamation"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q074",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Evolution of Nigeria",
+    "subTopic": "Amalgamation",
+    "difficulty": "Difficult",
+    "question": "Which sequence correctly represents the stages of amalgamation described in the material?",
+    "options": [
+      "1900 → 1906 → 1914",
+      "1906 → 1910 → 1914",
+      "1898 → 1906 → 1914",
+      "1900 → 1912 → 1960"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: 1900 → 1906 → 1914.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Evolution of Nigeria",
+      "Amalgamation"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q075",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Colonial Rule",
+    "subTopic": "Indirect Rule",
+    "difficulty": "Moderate",
+    "question": "The British system in which traditional rulers acted as intermediaries between colonial authorities and the people was known as:",
+    "options": [
+      "Direct rule",
+      "Indirect rule",
+      "Federal rule",
+      "Democratic rule"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Indirect rule.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Colonial Rule",
+      "Indirect Rule"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q076",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Colonial Rule",
+    "subTopic": "Indirect Rule",
+    "difficulty": "Difficult",
+    "question": "Indirect rule was more successful in:",
+    "options": [
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "The Niger Delta only"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Northern Nigeria.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Colonial Rule",
+      "Indirect Rule"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q077",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Colonial Rule",
+    "subTopic": "Warrant Chiefs",
+    "difficulty": "Moderate",
+    "question": "In areas where there were no existing chiefs, the British sometimes introduced:",
+    "options": [
+      "Age grades",
+      "Warrant chiefs",
+      "Emirs from Sokoto",
+      "Obas from Benin"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Warrant chiefs.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Colonial Rule",
+      "Warrant Chiefs"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q078",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Constitutional Development",
+    "subTopic": "Clifford Constitution",
+    "difficulty": "Easy",
+    "question": "The Clifford Constitution was introduced in:",
+    "options": [
+      "1914",
+      "1922",
+      "1946",
+      "1954"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: 1922.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Constitutional Development",
+      "Clifford Constitution"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q079",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Constitutional Development",
+    "subTopic": "Constitutions",
+    "difficulty": "Moderate",
+    "question": "Which constitution came after the Clifford Constitution?",
+    "options": [
+      "Richard Constitution",
+      "Macpherson Constitution",
+      "Lyttleton Constitution",
+      "1999 Constitution"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Richard Constitution.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Constitutional Development",
+      "Constitutions"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q080",
+    "week": 6,
+    "weekTitle": "Evolution of Nigeria",
+    "topic": "Constitutional Development",
+    "subTopic": "Constitutions",
+    "difficulty": "Difficult",
+    "question": "Which sequence correctly follows the major constitutional developments mentioned?",
+    "options": [
+      "Clifford → Richard → Macpherson → Lyttleton",
+      "Richard → Clifford → Lyttleton → Macpherson",
+      "Macpherson → Clifford → Richard → Lyttleton",
+      "Lyttleton → Richard → Clifford → Macpherson"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Clifford → Richard → Macpherson → Lyttleton.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Constitutional Development",
+      "Constitutions"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q081",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Settler-Indigene",
+    "subTopic": "Identity",
+    "difficulty": "Easy",
+    "question": "The settler-indigene phenomenon primarily concerns:",
+    "options": [
+      "Agricultural production",
+      "Questions of belonging and identity within Nigerian states",
+      "International trade",
+      "Environmental conservation"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Questions of belonging and identity within Nigerian states.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Settler-Indigene",
+      "Identity"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q082",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Settler-Indigene",
+    "subTopic": "1999 Constitution",
+    "difficulty": "Moderate",
+    "question": "According to the material, the 1999 Constitution:",
+    "options": [
+      "Rejects all forms of citizenship",
+      "Frowns at discrimination but upholds indigeneship",
+      "Abolishes citizenship",
+      "Makes every resident an indigene"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Frowns at discrimination but upholds indigeneship.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Settler-Indigene",
+      "1999 Constitution"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q083",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship",
+    "subTopic": "Acquisition of Citizenship",
+    "difficulty": "Easy",
+    "question": "Nigerian citizenship may be acquired by:",
+    "options": [
+      "Birth, registration and naturalisation",
+      "Marriage only",
+      "Birth and voting only",
+      "Residence only"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Birth, registration and naturalisation.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship",
+      "Acquisition of Citizenship"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q084",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship",
+    "subTopic": "1999 Constitution",
+    "difficulty": "Difficult",
+    "question": "Sections 25, 26 and 27 of the 1999 Constitution, as discussed in the material, relate to:",
+    "options": [
+      "Environmental protection",
+      "Acquisition of Nigerian citizenship",
+      "International trade",
+      "Local government taxation"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Acquisition of Nigerian citizenship.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship",
+      "1999 Constitution"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q085",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Settler-Indigene",
+    "subTopic": "Politics",
+    "difficulty": "Moderate",
+    "question": "The political elites may exploit the settler-indigene dichotomy in order to:",
+    "options": [
+      "Promote cultural neutrality",
+      "Manipulate and consolidate political power",
+      "Eliminate political competition",
+      "Promote environmental conservation"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Manipulate and consolidate political power.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Settler-Indigene",
+      "Politics"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q086",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Trade",
+    "subTopic": "International Trade",
+    "difficulty": "Easy",
+    "question": "International trade is the exchange of capital, goods and services:",
+    "options": [
+      "Within a village",
+      "Across international borders",
+      "Only between family members",
+      "Only within one state"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Across international borders.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Trade",
+      "International Trade"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q087",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Trade",
+    "subTopic": "International Trade",
+    "difficulty": "Moderate",
+    "question": "A major reason international trade exists is that:",
+    "options": [
+      "Every country possesses all resources it needs",
+      "Countries have different resource endowments and needs",
+      "Countries cannot produce anything themselves",
+      "Domestic trade is prohibited"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Countries have different resource endowments and needs.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Trade",
+      "International Trade"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q088",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Trade",
+    "subTopic": "Internal Trade",
+    "difficulty": "Easy",
+    "question": "Trade conducted within the boundaries of a country is called:",
+    "options": [
+      "Foreign trade",
+      "International trade",
+      "Internal trade",
+      "External trade"
+    ],
+    "correctAnswer": 2,
+    "correctOption": "C",
+    "explanation": "The correct answer is C: Internal trade.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Trade",
+      "Internal Trade"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q089",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Trade",
+    "subTopic": "Wholesalers",
+    "difficulty": "Moderate",
+    "question": "A wholesaler primarily acts as an intermediary between:",
+    "options": [
+      "Government and consumers",
+      "Manufacturers and retailers",
+      "Farmers and government",
+      "Consumers and exporters"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Manufacturers and retailers.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Trade",
+      "Wholesalers"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q090",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Trade",
+    "subTopic": "International vs Internal Trade",
+    "difficulty": "Difficult",
+    "question": "Which of the following is more characteristic of international trade than internal trade?",
+    "options": [
+      "Different currencies",
+      "Same national market",
+      "Absence of customs duties",
+      "Complete factor mobility"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Different currencies.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Trade",
+      "International vs Internal Trade"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q091",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Economic Self-Reliance",
+    "subTopic": "Definition",
+    "difficulty": "Easy",
+    "question": "Economic self-reliance focuses on an individual's ability to:",
+    "options": [
+      "Acquire and maintain economic resources beyond basic needs",
+      "Depend entirely on government",
+      "Avoid all forms of trade",
+      "Eliminate savings"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Acquire and maintain economic resources beyond basic needs.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Economic Self-Reliance",
+      "Definition"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q092",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Economic Self-Reliance",
+    "subTopic": "Types of Capital",
+    "difficulty": "Moderate",
+    "question": "Which of the following is NOT one of the four types of capital driving ESR?",
+    "options": [
+      "Institutional capital",
+      "Social capital",
+      "Economic capital",
+      "Political capital"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The correct answer is D: Political capital.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Economic Self-Reliance",
+      "Types of Capital"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q093",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Economic Self-Reliance",
+    "subTopic": "Social Capital",
+    "difficulty": "Moderate",
+    "question": "Which type of capital refers primarily to relationships and social networks?",
+    "options": [
+      "Economic capital",
+      "Social capital",
+      "Institutional capital",
+      "Human capital"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Social capital.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Economic Self-Reliance",
+      "Social Capital"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q094",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Economic Self-Reliance",
+    "subTopic": "Human Capital",
+    "difficulty": "Difficult",
+    "question": "A person's education, knowledge, skills and attitudes are primarily components of:",
+    "options": [
+      "Institutional capital",
+      "Social capital",
+      "Economic capital",
+      "Human capital"
+    ],
+    "correctAnswer": 3,
+    "correctOption": "D",
+    "explanation": "The correct answer is D: Human capital.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Economic Self-Reliance",
+      "Human Capital"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q095",
+    "week": 8,
+    "weekTitle": "Trade and Economic Self-Reliance",
+    "topic": "Economic Self-Reliance",
+    "subTopic": "Measurement",
+    "difficulty": "Difficult",
+    "question": "The stock and flow model used to measure ESR capital is compared in the material to:",
+    "options": [
+      "A political manifesto",
+      "A business balance sheet",
+      "A court judgment",
+      "A census report"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: A business balance sheet.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Economic Self-Reliance",
+      "Measurement"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q096",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship Education",
+    "subTopic": "Citizenship",
+    "difficulty": "Easy",
+    "question": "Citizenship refers to:",
+    "options": [
+      "Membership of a nation-state",
+      "Membership of a political party only",
+      "Residence in a village",
+      "Ownership of land"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Membership of a nation-state.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship Education",
+      "Citizenship"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q097",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship Education",
+    "subTopic": "Social Contract",
+    "difficulty": "Moderate",
+    "question": "The responsibilities of citizens to the state and responsibilities of government to citizens collectively form the:",
+    "options": [
+      "Political party",
+      "Social contract",
+      "Federal structure",
+      "Electoral system"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: Social contract.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship Education",
+      "Social Contract"
+    ],
+    "estimatedTime": 45
+  },
+  {
+    "id": "Q098",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship Education",
+    "subTopic": "Platforms",
+    "difficulty": "Difficult",
+    "question": "According to the material, which platform provides the most balanced citizenship education?",
+    "options": [
+      "Home",
+      "School",
+      "Mass media",
+      "Political parties"
+    ],
+    "correctAnswer": 1,
+    "correctOption": "B",
+    "explanation": "The correct answer is B: School.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship Education",
+      "Platforms"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q099",
+    "week": 7,
+    "weekTitle": "Citizenship, Settler-Indigene and National Identity",
+    "topic": "Citizenship Education",
+    "subTopic": "Platforms",
+    "difficulty": "Difficult",
+    "question": "Which platform is described as being the most effective in citizenship education in terms of:",
+    "options": [
+      "Wide coverage",
+      "Complete neutrality",
+      "Religious instruction",
+      "Political control"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Wide coverage.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Citizenship Education",
+      "Platforms"
+    ],
+    "estimatedTime": 60
+  },
+  {
+    "id": "Q100",
+    "week": 9,
+    "weekTitle": "Environmental Challenges",
+    "topic": "Environmental Challenges",
+    "subTopic": "Solutions",
+    "difficulty": "Very Difficult",
+    "question": "Which of the following combinations correctly identifies major approaches to addressing environmental challenges in Nigeria according to the material?",
+    "options": [
+      "Scientific assessment, risk analysis, public education, political action and long-term evaluation",
+      "Industrialisation, urbanisation, migration and taxation",
+      "Trade liberalisation, privatisation, amalgamation and regionalism",
+      "Military intervention, political parties, elections and constitutional amendments"
+    ],
+    "correctAnswer": 0,
+    "correctOption": "A",
+    "explanation": "The correct answer is A: Scientific assessment, risk analysis, public education, political action and long-term evaluation.",
+    "incorrectExplanations": {
+      "A": "This option is incorrect.",
+      "B": "This option is incorrect.",
+      "C": "This option is incorrect.",
+      "D": "This option is incorrect."
+    },
+    "keywords": [
+      "Environmental Challenges",
+      "Solutions"
+    ],
+    "estimatedTime": 60
+  }
+]

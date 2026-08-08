@@ -1,5 +1,7 @@
-import type { Course, Question, WeekMeta } from '@/types';
+import type { Course, Difficulty, Question, WeekMeta } from '@/types';
 import { COURSES, getCourseDefinition } from '@/data/courses';
+
+import gst112Questions from '@/data/GST112/questions.json';
 
 import cosWeek1 from '@/data/COS102/week1.json';
 import cosWeek2 from '@/data/COS102/week2.json';
@@ -21,6 +23,34 @@ import gstWeek7 from '@/data/GST122/week7.json';
 import gstWeek8 from '@/data/GST122/week8.json';
 import gstWeek9 from '@/data/GST122/week9.json';
 import gstWeek10 from '@/data/GST122/week10.json';
+
+const DIFFICULTY_ALIASES: Record<string, Difficulty> = {
+  Easy: 'Easy',
+  Medium: 'Medium',
+  Moderate: 'Medium',
+  Hard: 'Hard',
+  Difficult: 'Hard',
+  'Very Difficult': 'Hard',
+};
+
+type RawGST112Question = Omit<Question, 'difficulty'> & { difficulty: string };
+
+const gst112Bank: Question[] = (gst112Questions as RawGST112Question[]).map(
+  (question) => ({
+    ...question,
+    difficulty: DIFFICULTY_ALIASES[question.difficulty] ?? 'Medium',
+  }),
+);
+
+function groupQuestionsByWeek(questions: Question[]): Record<number, Question[]> {
+  const grouped: Record<number, Question[]> = {};
+  for (const question of questions) {
+    const week = question.week;
+    if (!grouped[week]) grouped[week] = [];
+    grouped[week].push(question);
+  }
+  return grouped;
+}
 
 const courseQuestionBanks: Record<string, Record<number, Question[]>> = {
   COS102: {
@@ -46,6 +76,7 @@ const courseQuestionBanks: Record<string, Record<number, Question[]>> = {
     9: gstWeek9 as Question[],
     10: gstWeek10 as Question[],
   },
+  GST112: groupQuestionsByWeek(gst112Bank),
 };
 
 function buildCourse(courseCode: string): Course | undefined {
